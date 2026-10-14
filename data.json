@@ -1,0 +1,1388 @@
+{
+ "updated": "2026-10-14T03:06:27.216Z",
+ "items": {
+  "cabbage": {
+   "raw": [
+    [
+     "2026-01-03",
+     8070
+    ],
+    [
+     "2026-01-05",
+     8993
+    ],
+    [
+     "2026-01-06",
+     8374
+    ],
+    [
+     "2026-01-07",
+     8102
+    ],
+    [
+     "2026-01-08",
+     7682
+    ],
+    [
+     "2026-01-09",
+     7476
+    ],
+    [
+     "2026-01-10",
+     8028
+    ],
+    [
+     "2026-01-12",
+     8610
+    ],
+    [
+     "2026-01-13",
+     7421
+    ],
+    [
+     "2026-01-14",
+     7957
+    ],
+    [
+     "2026-01-15",
+     7725
+    ],
+    [
+     "2026-01-16",
+     7494
+    ],
+    [
+     "2026-01-17",
+     7630
+    ],
+    [
+     "2026-01-19",
+     7725
+    ],
+    [
+     "2026-01-20",
+     8079
+    ],
+    [
+     "2026-01-21",
+     8228
+    ],
+    [
+     "2026-01-22",
+     8510
+    ],
+    [
+     "2026-01-23",
+     7581
+    ],
+    [
+     "2026-01-24",
+     9706
+    ],
+    [
+     "2026-01-26",
+     8332
+    ],
+    [
+     "2026-01-27",
+     8520
+    ],
+    [
+     "2026-01-28",
+     8229
+    ],
+    [
+     "2026-01-29",
+     7524
+    ],
+    [
+     "2026-01-30",
+     7266
+    ],
+    [
+     "2026-01-31",
+     7853
+    ],
+    [
+     "2026-02-02",
+     7930
+    ],
+    [
+     "2026-02-03",
+     7963
+    ],
+    [
+     "2026-02-04",
+     7435
+    ],
+    [
+     "2026-02-05",
+     7714
+    ],
+    [
+     "2026-02-06",
+     7227
+    ],
+    [
+     "2026-02-07",
+     6986
+    ],
+    [
+     "2026-02-09",
+     8109
+    ],
+    [
+     "2026-02-10",
+     7412
+    ],
+    [
+     "2026-02-11",
+     8045
+    ],
+    [
+     "2026-02-12",
+     7198
+    ],
+    [
+     "2026-02-13",
+     6487
+    ],
+    [
+     "2026-02-14",
+     6611
+    ],
+    [
+     "2026-02-16",
+     7779
+    ],
+    [
+     "2026-02-20",
+     6804
+    ],
+    [
+     "2026-02-21",
+     6501
+    ],
+    [
+     "2026-02-23",
+     7299
+    ],
+    [
+     "2026-02-24",
+     7469
+    ],
+    [
+     "2026-02-25",
+     7890
+    ],
+    [
+     "2026-02-26",
+     7967
+    ],
+    [
+     "2026-02-27",
+     7767
+    ],
+    [
+     "2026-02-28",
+     6762
+    ],
+    [
+     "2026-03-02",
+     7061
+    ],
+    [
+     "2026-03-03",
+     6444
+    ],
+    [
+     "2026-03-04",
+     6567
+    ],
+    [
+     "2026-03-05",
+     6465
+    ],
+    [
+     "2026-03-06",
+     6399
+    ],
+    [
+     "2026-03-09",
+     6719
+    ],
+    [
+     "2026-03-10",
+     6441
+    ],
+    [
+     "2026-03-11",
+     6707
+    ],
+    [
+     "2026-03-12",
+     7054
+    ],
+    [
+     "2026-03-13",
+     7830
+    ],
+    [
+     "2026-03-14",
+     7037
+    ],
+    [
+     "2026-03-16",
+     6796
+    ],
+    [
+     "2026-03-17",
+     6465
+    ],
+    [
+     "2026-03-18",
+     6567
+    ],
+    [
+     "2026-03-19",
+     5564
+    ],
+    [
+     "2026-03-20",
+     5842
+    ],
+    [
+     "2026-03-21",
+     6054
+    ],
+    [
+     "2026-03-23",
+     5552
+    ],
+    [
+     "2026-03-24",
+     4927
+    ],
+    [
+     "2026-03-25",
+     5530
+    ],
+    [
+     "2026-03-26",
+     5545
+    ],
+    [
+     "2026-03-27",
+     5024
+    ],
+    [
+     "2026-03-28",
+     5107
+    ],
+    [
+     "2026-03-30",
+     5850
+    ],
+    [
+     "2026-03-31",
+     4960
+    ],
+    [
+     "2026-04-01",
+     4883
+    ],
+    [
+     "2026-04-02",
+     4981
+    ],
+    [
+     "2026-04-03",
+     5610
+    ],
+    [
+     "2026-04-06",
+     4602
+    ],
+    [
+     "2026-04-07",
+     4341
+    ],
+    [
+     "2026-04-08",
+     4421
+    ],
+    [
+     "2026-04-09",
+     4442
+    ],
+    [
+     "2026-04-10",
+     4360
+    ],
+    [
+     "2026-04-11",
+     4760
+    ],
+    [
+     "2026-04-13",
+     4503
+    ],
+    [
+     "2026-04-14",
+     4893
+    ],
+    [
+     "2026-04-15",
+     4589
+    ],
+    [
+     "2026-04-16",
+     4086
+    ],
+    [
+     "2026-04-17",
+     3512
+    ],
+    [
+     "2026-04-18",
+     5110
+    ],
+    [
+     "2026-04-20",
+     4064
+    ],
+    [
+     "2026-04-21",
+     3256
+    ],
+    [
+     "2026-04-22",
+     3371
+    ],
+    [
+     "2026-04-23",
+     3632
+    ],
+    [
+     "2026-04-24",
+     4127
+    ],
+    [
+     "2026-04-25",
+     3110
+    ],
+    [
+     "2026-04-27",
+     3092
+    ],
+    [
+     "2026-04-28",
+     3262
+    ],
+    [
+     "2026-04-29",
+     3451
+    ],
+    [
+     "2026-04-30",
+     3025
+    ],
+    [
+     "2026-05-01",
+     4027
+    ],
+    [
+     "2026-05-02",
+     7132
+    ],
+    [
+     "2026-05-04",
+     3293
+    ],
+    [
+     "2026-05-05",
+     2504
+    ],
+    [
+     "2026-05-06",
+     2390
+    ],
+    [
+     "2026-05-07",
+     2215
+    ],
+    [
+     "2026-05-08",
+     2470
+    ],
+    [
+     "2026-05-09",
+     2361
+    ],
+    [
+     "2026-05-11",
+     2596
+    ],
+    [
+     "2026-05-12",
+     2401
+    ],
+    [
+     "2026-05-13",
+     2786
+    ],
+    [
+     "2026-05-14",
+     4238
+    ],
+    [
+     "2026-05-15",
+     4246
+    ],
+    [
+     "2026-05-16",
+     2413
+    ],
+    [
+     "2026-05-18",
+     3774
+    ],
+    [
+     "2026-05-19",
+     2731
+    ],
+    [
+     "2026-05-20",
+     3211
+    ],
+    [
+     "2026-05-21",
+     3297
+    ],
+    [
+     "2026-05-22",
+     2193
+    ],
+    [
+     "2026-05-23",
+     2944
+    ],
+    [
+     "2026-05-25",
+     2862
+    ],
+    [
+     "2026-05-26",
+     4044
+    ],
+    [
+     "2026-05-27",
+     4151
+    ],
+    [
+     "2026-05-28",
+     2741
+    ],
+    [
+     "2026-05-29",
+     1884
+    ],
+    [
+     "2026-05-30",
+     1919
+    ],
+    [
+     "2026-06-01",
+     5194
+    ],
+    [
+     "2026-06-02",
+     3966
+    ],
+    [
+     "2026-06-04",
+     3590
+    ],
+    [
+     "2026-06-05",
+     2883
+    ],
+    [
+     "2026-06-06",
+     5109
+    ],
+    [
+     "2026-06-08",
+     3293
+    ],
+    [
+     "2026-06-09",
+     4987
+    ],
+    [
+     "2026-06-10",
+     4086
+    ],
+    [
+     "2026-06-11",
+     2863
+    ],
+    [
+     "2026-06-12",
+     4123
+    ],
+    [
+     "2026-06-13",
+     2673
+    ],
+    [
+     "2026-06-15",
+     5228
+    ],
+    [
+     "2026-06-16",
+     3359
+    ],
+    [
+     "2026-06-17",
+     2742
+    ],
+    [
+     "2026-06-18",
+     2468
+    ],
+    [
+     "2026-06-19",
+     7726
+    ],
+    [
+     "2026-06-20",
+     3329
+    ],
+    [
+     "2026-06-22",
+     4399
+    ],
+    [
+     "2026-06-23",
+     2692
+    ],
+    [
+     "2026-06-24",
+     2982
+    ],
+    [
+     "2026-06-25",
+     3116
+    ],
+    [
+     "2026-06-26",
+     3812
+    ],
+    [
+     "2026-06-27",
+     3908
+    ],
+    [
+     "2026-06-29",
+     3011
+    ],
+    [
+     "2026-06-30",
+     2896
+    ],
+    [
+     "2026-07-01",
+     2968
+    ],
+    [
+     "2026-07-02",
+     3220
+    ],
+    [
+     "2026-07-03",
+     2916
+    ],
+    [
+     "2026-07-04",
+     3296
+    ],
+    [
+     "2026-07-06",
+     4445
+    ],
+    [
+     "2026-07-07",
+     6160
+    ],
+    [
+     "2026-07-09",
+     2680
+    ],
+    [
+     "2026-07-10",
+     7969
+    ],
+    [
+     "2026-07-11",
+     2829
+    ],
+    [
+     "2026-07-13",
+     2237
+    ],
+    [
+     "2026-07-14",
+     2162
+    ],
+    [
+     "2026-07-15",
+     2891
+    ],
+    [
+     "2026-07-16",
+     2809
+    ],
+    [
+     "2026-07-17",
+     2028
+    ],
+    [
+     "2026-07-18",
+     3459
+    ],
+    [
+     "2026-07-20",
+     4132
+    ],
+    [
+     "2026-07-21",
+     2125
+    ],
+    [
+     "2026-07-22",
+     1695
+    ],
+    [
+     "2026-07-23",
+     6934
+    ],
+    [
+     "2026-07-24",
+     3973
+    ],
+    [
+     "2026-07-25",
+     5339
+    ],
+    [
+     "2026-07-27",
+     5381
+    ],
+    [
+     "2026-07-28",
+     7833
+    ],
+    [
+     "2026-07-29",
+     5168
+    ],
+    [
+     "2026-07-30",
+     4822
+    ],
+    [
+     "2026-07-31",
+     5651
+    ],
+    [
+     "2026-08-03",
+     6489
+    ],
+    [
+     "2026-08-04",
+     4965
+    ],
+    [
+     "2026-08-05",
+     4619
+    ],
+    [
+     "2026-08-06",
+     6369
+    ],
+    [
+     "2026-08-07",
+     6477
+    ],
+    [
+     "2026-08-08",
+     6818
+    ],
+    [
+     "2026-08-10",
+     9560
+    ],
+    [
+     "2026-08-11",
+     6540
+    ],
+    [
+     "2026-08-12",
+     4714
+    ],
+    [
+     "2026-08-13",
+     5233
+    ],
+    [
+     "2026-08-14",
+     6868
+    ],
+    [
+     "2026-08-15",
+     10737
+    ],
+    [
+     "2026-08-17",
+     4875
+    ],
+    [
+     "2026-08-18",
+     5496
+    ],
+    [
+     "2026-08-19",
+     6159
+    ],
+    [
+     "2026-08-20",
+     5498
+    ],
+    [
+     "2026-08-21",
+     5925
+    ],
+    [
+     "2026-08-22",
+     4364
+    ],
+    [
+     "2026-08-24",
+     7384
+    ],
+    [
+     "2026-08-25",
+     4978
+    ],
+    [
+     "2026-08-26",
+     4447
+    ],
+    [
+     "2026-08-27",
+     4861
+    ],
+    [
+     "2026-08-28",
+     4205
+    ],
+    [
+     "2026-08-29",
+     7538
+    ],
+    [
+     "2026-08-31",
+     7232
+    ],
+    [
+     "2026-09-01",
+     5920
+    ],
+    [
+     "2026-09-02",
+     5164
+    ],
+    [
+     "2026-09-03",
+     5184
+    ],
+    [
+     "2026-09-04",
+     5371
+    ],
+    [
+     "2026-09-05",
+     4594
+    ],
+    [
+     "2026-09-07",
+     7454
+    ],
+    [
+     "2026-09-08",
+     5620
+    ],
+    [
+     "2026-09-09",
+     6655
+    ],
+    [
+     "2026-09-10",
+     10302
+    ],
+    [
+     "2026-09-11",
+     9343
+    ],
+    [
+     "2026-09-12",
+     8936
+    ],
+    [
+     "2026-09-14",
+     9911
+    ],
+    [
+     "2026-09-15",
+     8675
+    ],
+    [
+     "2026-09-16",
+     10501
+    ],
+    [
+     "2026-09-17",
+     9970
+    ],
+    [
+     "2026-09-18",
+     9323
+    ],
+    [
+     "2026-09-19",
+     8670
+    ],
+    [
+     "2026-09-21",
+     8477
+    ],
+    [
+     "2026-09-22",
+     11560
+    ],
+    [
+     "2026-09-23",
+     10732
+    ],
+    [
+     "2026-09-24",
+     7674
+    ],
+    [
+     "2026-09-28",
+     9201
+    ],
+    [
+     "2026-09-29",
+     9136
+    ],
+    [
+     "2026-09-30",
+     8752
+    ],
+    [
+     "2026-10-01",
+     8003
+    ],
+    [
+     "2026-10-02",
+     8549
+    ],
+    [
+     "2026-10-03",
+     8831
+    ],
+    [
+     "2026-10-05",
+     8673
+    ],
+    [
+     "2026-10-06",
+     8347
+    ],
+    [
+     "2026-10-07",
+     7596
+    ],
+    [
+     "2026-10-08",
+     8565
+    ],
+    [
+     "2026-10-09",
+     7710
+    ],
+    [
+     "2026-10-12",
+     7463
+    ],
+    [
+     "2026-10-13",
+     7164
+    ],
+    [
+     "2026-10-14",
+     6579
+    ]
+   ],
+   "base": 5963.398601398602,
+   "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
+  }
+ },
+ "news": [
+  {
+   "id": "g37",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "한겨레",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUpaV0s4UzZKQlBVTFRnRFlVSTlKWk96S2tRZDBFQUVIZnA5MXREWWV4YjBNLVNlQ05kazdwUjhoMHcySzIxbTc3Y09ONWVkdkpVakRlU2NCSmV3VnRMeUNSeE9FM0xmVzhMbDIwM1lxQVR3LVdjY0MzNWo2ZWVvdzln?oc=5",
+   "title": "‘쌀 대국’ 인도 가뭄, 태국은 폭우…세계의 식탁 덮친 엘니뇨",
+   "summary": ""
+  },
+  {
+   "id": "g1",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
+   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
+   "summary": ""
+  },
+  {
+   "id": "g2",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "nbn 시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
+   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
+   "summary": ""
+  },
+  {
+   "id": "g3",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "농민신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
+   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
+   "summary": ""
+  },
+  {
+   "id": "g6",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55a0dPM2ZCOUo0WlJMa21kVzk4YndLSFZaZVVuLU00Ri1NdHRYVWxmOTNBSW91bWJmMUY3VG1oV0xjVVQ2Q1ZCdTI3eHY2OFFCVDJSOU5SRHdHTHFoTlR3?oc=5",
+   "title": "\"도매가, 기준가격 이하로 떨어져\"…옥천군, 농산물 가격안정기금 지급",
+   "summary": ""
+  },
+  {
+   "id": "g7",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90SnNfYk9GeFpYMDhfVlNSZEJxbVdBa2NCZ295eXY0cnl5ajRobFhOS0pPdkk5cDlDYjcyRHFKQUNiTVMxOENZSVI5OVd2TGEwWjZZMWdwd2kzU0E?oc=5",
+   "title": "옥천군, 깻잎·애호박 107농가에 농축산물 가격안정기금 1억 8,264만 원 지급",
+   "summary": ""
+  },
+  {
+   "id": "g14",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3F2bVBtSTFJa2FSZ1pLMnZJN2VlYXFkSkFpVnEycWJyLURKbnNPaTN4ZXR4WHJuT3d1blVwMTZGalZsVGpPR2RtN1VXS0xpVGxvb2liZ2pFZFN0M3RZMUtvbEUyQVZZZDkxaW5WSldmRVJtcjVZUHBCSkRuQlhHbHY4WUYwUE5RRndF?oc=5",
+   "title": "어민지원 수산발전기금, 25년간 기업 기부금 한 푼도 없어",
+   "summary": ""
+  },
+  {
+   "id": "g33",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "corn",
+   "source": "축산신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95WEtlei1mZExIb3lrOExiVkZpN0ZFNmJhXzk0VG5odkVoZ2lBYnF4eVpXb1cxT1RrREpreXMwU0Rvd2FqWE1tdjJuOGFZMmNDNGVBa0FWcTl4U1ZjZnVvcnNxRENUdGx1?oc=5",
+   "title": "옥수수 공급망 불안, 축산물·가공식품 물가까지 영향…상시 대응체계 시급",
+   "summary": ""
+  },
+  {
+   "id": "g39",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "팩트인뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zVDgwREUySndjR1M4RlRnM3dUWEw2dGN0aFRVR3dBUGcwa2ZkNEstNmdRUEYwazJjMTlLZTVMaWRNRHhneWh2cGo1bkRKNzFSOFdoTF81UUZfWlhpQ2xiRGt3X2JXRmNTMzJLdUc4UEbSAXRBVV95cUxPb3E2dmRjaTJoT2J0S2lRbkRqWGhfbVpLMjlHOVFHSEVPeGk3NlNNQjB3aUVfRXdqbDBiM1hESFdMTWdnZWJxN1l3N05hWjJPZngwZVRvOHNucWVPSGs2RWRyUW1RQmwtR0lNVXpMd3RGOFhiSQ?oc=5",
+   "title": "일본 9월 기업물가 6.8% 상승…쌀값 하락에 둔화",
+   "summary": ""
+  },
+  {
+   "id": "g8",
+   "d": "2026-10-12",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "정책브리핑",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZOEM4aUNqYm9wSm1sTGVvNDBRN2s3MzZ1Wk9relF1TXBlR2RyR0JodHUwZEpseTE0RnBITlBlNlhIZU1sN1RZREREVlcyQV9ua2NkS2gwWDVnYmhSUWVmOUlVLU1CUndpT1NwbzV4VQ?oc=5",
+   "title": "(설명) 수산물 상생할인은 국내산 중심으로 운영하고 있으며 수입산 지원은 물가안정 필요 품목(고등어·명태)에 한정하고 있습니다.",
+   "summary": ""
+  },
+  {
+   "id": "g18",
+   "d": "2026-10-12",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "문화일보",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hQWJfWXFCYm4wR3k3amFiYXBQU2FncnBpeGVfd1kwT3lJWnVFaVZjUDQ3UFllY1hsanF3eWMxTnVjdWFpWS1pYWhkRTZTanRt?oc=5",
+   "title": "정부, 계란한판 3만9천원 수입해 4980원에 풀었다는데",
+   "summary": ""
+  },
+  {
+   "id": "g20",
+   "d": "2026-10-12",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "쿠키뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfUW5nZlVuNl9vVFl5WGJ6N1lHNzBBeWUzNVdVem91M3phSVBMRHZFZXBEa3pKcDRZaXNBNmpLTVFkRlRqV244SWdBeVctZmxrNDBKb3FOdWdadFR4bEU0SVM3UQ?oc=5",
+   "title": "농산물값 내려도 달걀·배는 부담…추석 장바구니 물가 매일 살핀다",
+   "summary": ""
+  },
+  {
+   "id": "g26",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "비건뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CVDFQQWdWR0ZhWEk1Q2VDUTk5OXMzXzROcE1uWC1BTDVRcE1YZE9QbkNMY19PeXN3elpEWE9OZnZPVUpxVW0wMkFuWHI5dmU3T0xIcU95WDJ3ZTI4TmM4TkFkSkdGZw?oc=5",
+   "title": "9월 국제 곡물·식물성유지 가격, 전년 상승률 종합지수 웃돌아",
+   "summary": ""
+  },
+  {
+   "id": "g43",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Barchart.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEZRbzl5S1F4WFl0TnZBVTl5OHE2cXV2eDBLc080WFVzeW9HanhYbEZic2hPZ1RFMmtOWXVsa3VEbEdLXzYwbndlQktyTHU4WWZxUUJEWHE5MGVJaXB5LTFUVEJQdzJpNjJvVzFicTZvWUJGSXJRUURWMVgzdnRfT09MZmZLd0tyZS1TMk1YMWRsdUVBdWdKRFFfdEJfemg0Z1E?oc=5",
+   "title": "Sugar Prices Soar on Weather Threats to Sugar Production",
+   "summary": ""
+  },
+  {
+   "id": "g44",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "FarmWeekNow (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGlFNENTQ1Y3N0NrbWtvTzhSMDkxQkJVNExHbWUzSHZSZzN2RlNlSm43M3NLM0w0ejF0LTZZVzFXRUVWZ3h0YzUxQ2lSUHh2THlkQW1Ra3lsX29TOGtOejg3aGRFMHFYeThQc1VKVXl4S3ZjUWVSSnNPZGZlU3NSWnVqeGtGeW42RFlFVGJzM1EwVEVicTUzck5iVERObmV2bld3UWZid29zMXQ3QmlLTXNqWlhKSTM4ZEI2b0Uxa0o5Z3l1RjB3enpwVmFDbDNEdnJTQg?oc=5",
+   "title": "Grain prices face harvest pressure test",
+   "summary": ""
+  },
+  {
+   "id": "g46",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "https://en.edairynews.com/ (영문)",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmloNnBMSHEzMzRzOXhaNmlKS3ZSWjNqVjRxMHZqdWRRa0hQR01kUUI5SmYwRWl6LVR0NkNJVnZraGpINC1YN1hEUTZlOHpETUVtNzRTdFVRNkU0SC1xX0R2X2ptRmcwTUV6MUF2T2tMcGllcTJhZWVwcTBRcnR4Z0sta2RQZjJISHdCOUZLNko3REhZR1lwOXJJOA?oc=5",
+   "title": "Fonterra’s 25-year Milk Price Legacy Shaped By Global Market Dynamics",
+   "summary": ""
+  },
+  {
+   "id": "g13",
+   "d": "2026-10-11",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "녹색경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdTdFaVVqeFp0cFNaRi1fRWlKbzh6LXp3Z3Y5VUFtUmJfaVIyWWU4NkxnY0ZmSV9nSXNkT0xNbnhOdFhDS19BWkVOQ1pFbFhUZlBWWjg4VVhRRFpJNnNLdG1VbEIta2ly?oc=5",
+   "title": "해수부 ‘수산물 상생할인’ 수치 오류 논란…수입산 66억 지원, 어민 소득 효과는 미검증",
+   "summary": ""
+  },
+  {
+   "id": "g16",
+   "d": "2026-10-11",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "조달경제신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qdTFORmIzc3QyWjhzX0Z1SXhWZmYtUG1ZNkstQy1RX0h1Z2lJdEFRWWcxcV9FYVctenV6Q3hVclp0NTF4X3ZjQ3ZLNlRTTVVSTTdXWlZaMk9jMmEtOWwtSTVrMndMVnFZLW9pR3R3?oc=5",
+   "title": "국감 쟁점 된 '1,300원 브라질 계란' 데이터 추적해보니…",
+   "summary": ""
+  },
+  {
+   "id": "g24",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTdIBVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTQ?oc=5",
+   "title": "가격 담합 철퇴 맞은 설탕제품들",
+   "summary": ""
+  },
+  {
+   "id": "g25",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "국제신문",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2VFeVV4TlZQU0ZYSGgtVU1jNVBKR1A2YlBlYUtxNUk4dXZaa0ZqTDZPb2NzejE1bW1aS3U2OFV3Wjd5VmNiWTk0M0JxeEY2S011UGdzQnNkVlR3VEFsVmRYNkNBcTJzYWtFbVpHWjZybTVGUF9vSk5sNVhEOGtJWlQ4Q1ZpNGhha2c1TWFn?oc=5",
+   "title": "삼양사, 최근 3년 반 동안 공정위 과징금 가장 많이 매겨져",
+   "summary": ""
+  },
+  {
+   "id": "g38",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0d1M3o0czA4a1VYRnc5NGstUjFoWnIzTXo4ODZ2eGVGcUM4blk5SGJBTE93eVMzS2JwS0UzNXRlQmpKQkFVNEZKdG5tTnZsbVdfT3J4TjRYMU1kWVQxbmZwTVhvMjhBdGpMemtZSHVDb2pDZk1PUWNJZFIzdkk2VGY0eERMY2dvR1RqTUdqaWZDWVZWZUhYOQ?oc=5",
+   "title": "2026년 10월 11일 오늘과 지난주 쌀 가격: 생벼 가격은 변동이 있었습니다.",
+   "summary": ""
+  },
+  {
+   "id": "g23",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "연합인포맥스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04Y1A0elFyVWZOTllFVy14Z2tlWjFXckN0M3JCR21PYlF3NHlFX2NVZU9wUUVOS1JtajJtVGk5eVBObWlfZnNfbklKRkhfcUZGckc4QWRqOTh0ZEJjc0wxNWMya1ppQWsxNGt6UVo2b0I?oc=5",
+   "title": "설탕값, 10년 만 최대폭 급등…\"국내 식품株 영향은 제한적\"",
+   "summary": ""
+  },
+  {
+   "id": "g30",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "세상을 바꾸는 시민언론 민들레",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tV1JKZkNjOFVNUzIwaURWTEJWejE4dEhraG1XN1d2Mklla0hHREhTcW81ZFl6TDhjdGk2aHhFM3MyaHUwdVR1cHlOZDJVanVkX2FJZ013aVpHUVlnd0YzbzBGX0FscjdESEdTXw?oc=5",
+   "title": "애그플레이션의 습격?…진짜 공포는 내년에",
+   "summary": ""
+  },
+  {
+   "id": "g5",
+   "d": "2026-10-09",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzRrb0xXRjZaZDFjdnJiYXpJMFB3dDhVUGtVTmNvLTdFWmRuc1AwcjVnemVjTFhHYklKbU1NOVN1cGp5Wm1uSlUzQll5V2ZkM1JoaGRMMjREeHdCeWpnN0FJMURSVjFqeV9tZ1pfelFjem41UW5OeXhINmxWNXpERm1QdU5ueXljQVZNRURR?oc=5",
+   "title": "아일랜드 41주차 도매 농산물 가격: 콜리플라워·양배추·감자 등 - 뉴스 및 통계",
+   "summary": ""
+  },
+  {
+   "id": "g19",
+   "d": "2026-10-09",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "투데이코리아",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWUJOV3BmWTNwQzcteWxEdXdPdVo3dEFIYlFpWTNuVkttWGRGMWM5TWdVb1FqdFozbEU5bTRqOU1qb1dON2s1MVNLZ0ZhSkR0SS1nX0xyTFNraHFOME1vX0YxSTRWMEhwU2k2aUFUNnA?oc=5",
+   "title": "[박현채 칼럼] 물가 대책 패러다임 변화 필요",
+   "summary": ""
+  },
+  {
+   "id": "g21",
+   "d": "2026-10-09",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUx6SW1ONDl0M0dMdmtSa1p0dVQ2dlkzZ01LNVdHTzN2ZU5kUUxMZ3JHSzZzWFlWUzJvVnNyRHVDWlJtbUx1WFQzOEZqa3o4bWljbElPMkxieERCYVhpeVBjdmdBcXJIRVNZZXZzZDhyblZySm1qM012TUl5YWFVV21QdnZQUjBfdDBDak1sSms3eWM4anZ6OFV5RmVEQzNuWkRWeHhINzlGTHV6cGVPdlVzY3FZVFBqMFBuNWUxZ1l3ZC1JNHVOUDV5NUVKQWZEellLYXBMT21MSFloc0FTRlBR?oc=5",
+   "title": "기본 규칙에서 보너스 규칙으로 넘어가는 토토사이트추천 디시",
+   "summary": ""
+  },
+  {
+   "id": "g22",
+   "d": "2026-10-09",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSk85TjBMRjNTZHZ6WFJVNHpxcWl3d0VxNmxfa0N4OUlLR2M5b2F3eGczY0xvM1ZhNXhzOTYzQng0V3FHdElKRlE3Z0o3UEdRLXFURV9ZY244WmJWX2k5ZFJ6aTR3eHdfNXZLckoyZG5IeWFLMnpXTkFXUEYtcnFHRHVBU0dMZGk2cTBDaHM2d1hBSFNHUEExNGh2eURuWmlEbjhaQ1FMSzhZZVZyVW9RMmdEYS1pdlNyeFFNMkZvQy1TNGJjRmpuRmNtRGt3NHhDV3o1Z3l4c2hYTXpwMkNpS3lQOHgxc3FCWEhXNDdNSlVWLWkwSkhheFVXZGZiMVdZRVZIMDI5WEZqSl9qQXVkLVlLV0lCcDlYZXpoclI3UXVZVHUyalZSZEw5NjhhSHUzREgw?oc=5",
+   "title": "업데이트 날짜와 변경 항목을 읽는 칼 진화 게임 정보",
+   "summary": ""
+  },
+  {
+   "id": "g27",
+   "d": "2026-10-09",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "https://www.diarypoint.com/",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82UE4zMjFyaXFuRS1tdUNBUU1ad0NlSUF2TDhMMWdzYlBZXzgwYUVKWWhzX1ZhUzdCaDdRNDhpSzduWVZuQ09KQUtpa0wxeUd3cG9CZ19DbVVMNE11eTJjNV9lM1BWTEFCbEN3?oc=5",
+   "title": "국제 곡물값 1년 새 17.2% 상승…밀, 옥수수 가격 급등에 식품물가 부담 커지나",
+   "summary": ""
+  },
+  {
+   "id": "g28",
+   "d": "2026-10-09",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "경북매일",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNGZpbkxpWXEteWY4cTkxXzQ4YTBUYXJ5cWpWckFfVW5IZXlXcE9SeTAwWVJ6UlJxV3FVc1Q2ZGRrcnJmYUtfQUtaYUhpdm1mcV9MTU5PU3VqZw?oc=5",
+   "title": "중동전쟁 불똥, 세계 식탁 덮친다…내년 ‘곡물값 폭탄’ 우려",
+   "summary": ""
+  },
+  {
+   "id": "g29",
+   "d": "2026-10-09",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "동아일보",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GcjBFWURIMGZMYXYxemhqYXMwYzNTN2Z0NnBpQXJLR2hZRi05dVJzTGtSbTVHeGVPOEctYTk4Vk1zclVObmZNMUthTVZEY0x5QjdaOXRJTGxLM0tvdS02aWlrYkcwY1RwV0Vma3RwZm03Slg1MHfSAWZBVV95cUxNdGYwY0ZzY1dBTGRBWWRuMVBUV3VfVkpwMWZjdERaWEpkUlAtQkFmN3pEMm9RRThDTmx1a2t1MHoxWXJpVTRYMGJTY0FXcUFNWjVxS2hqSGpJX2hrbVlzRzdhS1QxNlE?oc=5",
+   "title": "국제 곡물값 1년 새 17.2% 급등…먹거리 물가 ‘비상’",
+   "summary": ""
+  },
+  {
+   "id": "g32",
+   "d": "2026-10-09",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "corn",
+   "source": "Investing.com 한국어",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQVNrWTZSNWkwWnV5UWdfdUZWV1FoQ1I1Z3hqMTN6am91bUtLTklyd3BGc05tYzVwelFNcDBzRmZOWmFnWXltMkw4bnYwakhETHBDNVRVeEFqYTBYejZhS0I1aXp3OUVyT3I1LURQWVJ1RkVMNUE?oc=5",
+   "title": "미국 옥수수 전망, 유럽 밀 가격에 부담",
+   "summary": ""
+  },
+  {
+   "id": "g34",
+   "d": "2026-10-09",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "Investing.com 한국어",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTURKRzFrOWl6dkExaU5hUTBNRi15NmhOYzNVeWtuMHZLMGQ0SGlkMmg5U2YySndKNVFVUVk3dExtYS1MZjlzVm5fai1Nel9SSXdRaG9kNF9SWEF3VmpIYm42NExUdWlMVjdUNzEzZTZvYkt3THc?oc=5",
+   "title": "말레이시아 팜유 선물, 수출 관세 면제 불발에 하락",
+   "summary": ""
+  },
+  {
+   "id": "g35",
+   "d": "2026-10-09",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUElUVmlZZHVJMEc1Yno4MGEtUjdfd092V185Skoxem4zdTFSOFRPUndGZlgzckQzR01SWmEwY0xVUXdJSWQza0VrRUlCRklRTEtIRVhCb2Y5YlJhU1hnSzdBSmRDS2s1TjBlNTI0S1A3SHRkdlNaNHVIaEVzMVV0Z2lpakctS1dwUFVHcDhhQkZNYVdzbXkwUnNpaEdSRU9reW5OVDMwdw?oc=5",
+   "title": "글로벌 팜과실유(팜유) 시장: 규모, 동향 및 2035까지의 예측",
+   "summary": ""
+  },
+  {
+   "id": "g0",
+   "d": "2026-10-08",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "YTN",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RMl96TkxOVmdheTI0Q2FlUjc4VWp1aXhxeFgtYUEzZFNHNmdRNHgtdkJ4YVllZEFqa296bmRwa2x3WTlaTWd3dGEyX1lRT3luaE8yOXp0dlgzQS1LNlU2WUtNZDJaWFo3OUZTNzdRWQ?oc=5",
+   "title": "배추 '뚝' 무·새우젓 '쑥'...'김장 물가' 불안감 여전 [앵커리포트]",
+   "summary": ""
+  },
+  {
+   "id": "g10",
+   "d": "2026-10-08",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "매일경제 마켓",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQZmVFSHNaMGpFZ2ZkSU1TTm5JOEhxREQ2RGUyTFg0d096cFlybHNxTVBwVFZZbHBLN293RDNGTVlIU0dDa0hKWjlfM2NSLTli?oc=5",
+   "title": "\"추석인데 소비 급감할라\" 어민들 시름…지자체는 소비촉진 총력",
+   "summary": ""
+  },
+  {
+   "id": "g11",
+   "d": "2026-10-08",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "부산일보",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0d05lZGREY2Q0Y1RSTGFHYldMakZ4UEtZT1NWVlk3Z1g3Qy0tMWxScDgwbUQ4ZkQ1QzZxVUJ1QTJuUFFyMk1QOG9GNXNaSVFTd1VpZDFhY0hfc3FUM210eWcyR0R6TFFxTUdJak43Um5GQkJz?oc=5",
+   "title": "이마트, 고등어·새우·홍시 등 제철 먹거리 할인",
+   "summary": ""
+  },
+  {
+   "id": "g12",
+   "d": "2026-10-08",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmlGNEd5YVJWYWhhM0xKamprRWZrcWdEZXlHU0tTcHBJVER3SkJyamZSXzVaejYwYnJ1bVRHRVBPY2RWaG81UGNlM1VpZ1pfdUZ5dnJZdHlpYmw5VW1kNEtTVFhWeWVlSjlWeFJjZHFIOG9SaUJHNkttQ0wxTWw2RlNrM0VkZ25nUy1BWkhSQTA0SUFiZmpocGRnY3IxbWVpMUgzUE5sSGJqanpua3ViaQ?oc=5",
+   "title": "게임 정보를 비교표로 읽는 예스카지노 도메인 유형 안내",
+   "summary": ""
+  },
+  {
+   "id": "g41",
+   "d": "2026-10-08",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": null,
+   "source": "MercoPress (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHZaNjRGajI1WEF1dGxBSHVjS09VbjRMSDUwekZxcmNYVEtHS2ZPR2dUYm53WW1oNl9iSXM1amhMX1dYSHBGSkVORHlmOVZfWmZjV2kzTTdEcTdXWVNIc1J5OFdKYTRsNC1RcVBaVzdzeWpvc0kwWDlMRUFZQXZTQkdqeEJBa01kT3JIRlZEUmtkNl80YzVfSTlmOTdyLVpxUEtNRllqdVJwMk9ZQTg4emtjSVhrQl9vU28tdWtYbXZYZw?oc=5",
+   "title": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
+   "summary": ""
+  },
+  {
+   "id": "g42",
+   "d": "2026-10-08",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Reuters (영문)",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXZER2M1UzVFdnluTG11Z0VyNENzckRGSDA0ZnRib2lURlc4OWdHUjZIc2s3OE5waTBoNEZNRmV5OVRQdzRMemduODlMcmFrQUgwNUtEQThVTy0wT0hPOXl4c2VMaU03NkkzWXROc3pFYWZzNHNkaC16eGRUc0o0Q2hMXzVscjlXV1RMakNQYWpKZnhJN2UzN1djVjJSbkdlS1czU2IySmVZTTVBTlkycQ?oc=5",
+   "title": "Südzucker expects sugar prices to rebound as lower harvests limit supply",
+   "summary": ""
+  },
+  {
+   "id": "g45",
+   "d": "2026-10-08",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "The Poultry Site (영문)",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWJ4eDVoTVRqVjZhWXVXUzJYTGtiQVlBNlp6anE5SEExcDNmYWdjYWpWNUVLM3dJdzE4eE12TkR0cDZKOEVlMF9xYXFKZzZ2RHBtTEZQeUV3Ny1ybEJRNVpjblpRNmk2VTBNa1BKbUJnR0Fsck55VUZUMldHY0ZqLWVFNUZla2lGeUNiXzN0UzRNMngxYUthVHJna1hWMHhyR1pranB0aw?oc=5",
+   "title": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
+   "summary": ""
+  }
+ ],
+ "errors": [
+  "worldbank: Cannot read properties of undefined (reading 'startsWith')"
+ ]
+}
