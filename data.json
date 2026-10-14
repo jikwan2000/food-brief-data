@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:06:27.216Z",
+ "updated": "2026-10-14T03:19:30.405Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -938,11 +938,670 @@
    ],
    "base": 5963.398601398602,
    "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
+  },
+  "rawsugar": {
+   "freq": "mm",
+   "base": 0.41583333333333333,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     0.35
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     0.34
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     0.32
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     0.32
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     0.32
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     0.31
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     0.33
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     0.32
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     0.34
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     0.32
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     0.34
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     0.38
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     0.41
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "wheat": {
+   "freq": "mm",
+   "base": 308.13055555555553,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     233.8
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     230.8
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     245.9
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     242.8
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     249.9
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     257.6
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     276
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     282
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     303
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     286
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     310
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     330
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     347
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "corn": {
+   "freq": "mm",
+   "base": 238.46388888888887,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     197.4
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     198.1
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     202
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     205.7
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     204.5
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     209.6
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     212.7
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     214
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     216.2
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     197.1
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     213.4
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     224
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     239.6
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "soyoil": {
+   "freq": "mm",
+   "base": 1214.5555555555557,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     1159
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     1132
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     1128
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     1116
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     1154
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     1282
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     1493
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     1643
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     1781
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     1740
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     1658
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     1639
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     1615
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "palm": {
+   "freq": "mm",
+   "base": 1033.5833333333333,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     1037
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     1038
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     983
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     980
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     1013
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     1064
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     1167
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     1181
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     1168
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     1142
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     1133
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     1132
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     1180
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "thairice": {
+   "freq": "mm",
+   "base": 482.88888888888886,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     374
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     356
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     368
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     424
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     408
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     409
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     381
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     403
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     440
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     494
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     467
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     471
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     482
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "vnrice": {
+   "freq": "mm",
+   "base": 458.1972222222221,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     371.5
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     365.6
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     359.8
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     351.9
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     351.2
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     349.1
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     345.8
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     352.9
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     376.3
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     391.3
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     396.1
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     410.9
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     418.5
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "coffee": {
+   "freq": "mm",
+   "base": 5.264166666666667,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     8.83
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     8.9
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     9.05
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     8.4
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     8.02
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     7.08
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     7.37
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     7.3
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     6.95
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     6.79
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     7.91
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     7.97
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     7.26
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
+  },
+  "cocoa": {
+   "freq": "mm",
+   "base": 4.345555555555556,
+   "pts": [
+    [
+     "25.09",
+     "2025-09-15",
+     7.03
+    ],
+    [
+     "25.10",
+     "2025-10-15",
+     5.95
+    ],
+    [
+     "25.11",
+     "2025-11-15",
+     5.61
+    ],
+    [
+     "25.12",
+     "2025-12-15",
+     5.78
+    ],
+    [
+     "26.01",
+     "2026-01-15",
+     4.97
+    ],
+    [
+     "26.02",
+     "2026-02-15",
+     3.59
+    ],
+    [
+     "26.03",
+     "2026-03-15",
+     3.24
+    ],
+    [
+     "26.04",
+     "2026-04-15",
+     3.4
+    ],
+    [
+     "26.05",
+     "2026-05-15",
+     4.16
+    ],
+    [
+     "26.06",
+     "2026-06-15",
+     4.4
+    ],
+    [
+     "26.07",
+     "2026-07-15",
+     5.61
+    ],
+    [
+     "26.08",
+     "2026-08-15",
+     5.95
+    ],
+    [
+     "26.09",
+     "2026-09-15",
+     5.92
+    ]
+   ],
+   "src": "World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균"
   }
  },
  "news": [
   {
-   "id": "g37",
+   "id": "g20",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "뉴데일리",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZy1WYTZSV3FFbTlRUzdiTDRzWm50VHV4UmRocHBxczliVVNyMnZQNFlMM2g0T2tyczc4UmdLWFg5S1lqVWI5b1o5YVdDMmM0U2NVZWRuN0dRajBiYmxOTGl2SThGc1R1NUMzYXRCaGFUUHVTUERQdDdzMUo0S09kedIBgAFBVV95cUxNZy1WYTZSV3FFbTlRUzdiTDRzWm50VHV4UmRocHBxczliVVNyMnZQNFlMM2g0T2tyczc4UmdLWFg5S1lqVWI5b1o5YVdDMmM0U2NVZWRuN0dRajBiYmxOTGl2SThGc1R1NUMzYXRCaGFUUHVTUERQdDdzMUo0S09keQ?oc=5",
+   "title": "\"아랫돌 빼서 윗돌 괴기\" … 재정으로 누른 '밥상물가' 지속성 도마",
+   "summary": ""
+  },
+  {
+   "id": "g38",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -953,7 +1612,7 @@
    "summary": ""
   },
   {
-   "id": "g1",
+   "id": "g0",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -965,17 +1624,6 @@
   },
   {
    "id": "g2",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "nbn 시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
-   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
-   "summary": ""
-  },
-  {
-   "id": "g3",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -1019,6 +1667,17 @@
    "summary": ""
   },
   {
+   "id": "g24",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVl0ZXFoMHlTbXVDZ19Wc2NsQjU3dDQ3VDVUNjZfa1VHWWdvZG1faFIzWmZ4WVhVT0tTYjU1V3AzSW8zemg1UFJsc1RFZElMOUNiMDU0eElRR3FxTE4wYlNHbFRpcUxPOXRWUVZQNXRFWjFNeGFVdFVjMzhHVlY1c3JnVXE3aG5Dd2o4NXo3NzJBTjNOQWc?oc=5",
+   "title": "세계 설탕 가격이 19개월 만에 최고 수준으로 급등했다.",
+   "summary": ""
+  },
+  {
    "id": "g33",
    "d": "2026-10-13",
    "region": "해외",
@@ -1030,7 +1689,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g40",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -1063,7 +1722,7 @@
    "summary": ""
   },
   {
-   "id": "g20",
+   "id": "g21",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "정책·유통",
@@ -1074,29 +1733,18 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g37",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
+   "item": "palm",
    "source": "비건뉴스",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CVDFQQWdWR0ZhWEk1Q2VDUTk5OXMzXzROcE1uWC1BTDVRcE1YZE9QbkNMY19PeXN3elpEWE9OZnZPVUpxVW0wMkFuWHI5dmU3T0xIcU95WDJ3ZTI4TmM4TkFkSkdGZw?oc=5",
    "title": "9월 국제 곡물·식물성유지 가격, 전년 상승률 종합지수 웃돌아",
    "summary": ""
   },
   {
-   "id": "g43",
-   "d": "2026-10-12",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Barchart.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEZRbzl5S1F4WFl0TnZBVTl5OHE2cXV2eDBLc080WFVzeW9HanhYbEZic2hPZ1RFMmtOWXVsa3VEbEdLXzYwbndlQktyTHU4WWZxUUJEWHE5MGVJaXB5LTFUVEJQdzJpNjJvVzFicTZvWUJGSXJRUURWMVgzdnRfT09MZmZLd0tyZS1TMk1YMWRsdUVBdWdKRFFfdEJfemg0Z1E?oc=5",
-   "title": "Sugar Prices Soar on Weather Threats to Sugar Production",
-   "summary": ""
-  },
-  {
-   "id": "g44",
+   "id": "g45",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -1107,7 +1755,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -1115,6 +1763,17 @@
    "source": "https://en.edairynews.com/ (영문)",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmloNnBMSHEzMzRzOXhaNmlKS3ZSWjNqVjRxMHZqdWRRa0hQR01kUUI5SmYwRWl6LVR0NkNJVnZraGpINC1YN1hEUTZlOHpETUVtNzRTdFVRNkU0SC1xX0R2X2ptRmcwTUV6MUF2T2tMcGllcTJhZWVwcTBRcnR4Z0sta2RQZjJISHdCOUZLNko3REhZR1lwOXJJOA?oc=5",
    "title": "Fonterra’s 25-year Milk Price Legacy Shaped By Global Market Dynamics",
+   "summary": ""
+  },
+  {
+   "id": "g3",
+   "d": "2026-10-11",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWjUwYXc3OG1yMXdfbjlKLWRERkUyamZpZTlnNUF6bl9tVmFuRkpIVEkyaEFPYnNDRGNjRFRJV3Z1OVZReG1pdmVNT0xQa0N4cWNTcGl0VEV1QQ?oc=5",
+   "title": "\"올해는 金배추 아니라더니…\" 김장 앞두고 난감해진 이유가",
    "summary": ""
   },
   {
@@ -1140,7 +1799,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -1151,7 +1810,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g26",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -1162,7 +1821,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g39",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -1214,17 +1873,6 @@
    "source": "투데이코리아",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWUJOV3BmWTNwQzcteWxEdXdPdVo3dEFIYlFpWTNuVkttWGRGMWM5TWdVb1FqdFozbEU5bTRqOU1qb1dON2s1MVNLZ0ZhSkR0SS1nX0xyTFNraHFOME1vX0YxSTRWMEhwU2k2aUFUNnA?oc=5",
    "title": "[박현채 칼럼] 물가 대책 패러다임 변화 필요",
-   "summary": ""
-  },
-  {
-   "id": "g21",
-   "d": "2026-10-09",
-   "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUx6SW1ONDl0M0dMdmtSa1p0dVQ2dlkzZ01LNVdHTzN2ZU5kUUxMZ3JHSzZzWFlWUzJvVnNyRHVDWlJtbUx1WFQzOEZqa3o4bWljbElPMkxieERCYVhpeVBjdmdBcXJIRVNZZXZzZDhyblZySm1qM012TUl5YWFVV21QdnZQUjBfdDBDak1sSms3eWM4anZ6OFV5RmVEQzNuWkRWeHhINzlGTHV6cGVPdlVzY3FZVFBqMFBuNWUxZ1l3ZC1JNHVOUDV5NUVKQWZEellLYXBMT21MSFloc0FTRlBR?oc=5",
-   "title": "기본 규칙에서 보너스 규칙으로 넘어가는 토토사이트추천 디시",
    "summary": ""
   },
   {
@@ -1305,7 +1953,7 @@
    "summary": ""
   },
   {
-   "id": "g0",
+   "id": "g1",
    "d": "2026-10-08",
    "region": "국내",
    "cat": "농산물",
@@ -1349,7 +1997,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-08",
    "region": "해외",
    "cat": "가공·소재",
@@ -1360,7 +2008,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g44",
    "d": "2026-10-08",
    "region": "해외",
    "cat": "가공·소재",
@@ -1371,7 +2019,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g46",
    "d": "2026-10-08",
    "region": "해외",
    "cat": "가공·소재",
@@ -1382,7 +2030,5 @@
    "summary": ""
   }
  ],
- "errors": [
-  "worldbank: Cannot read properties of undefined (reading 'startsWith')"
- ]
+ "errors": []
 }
