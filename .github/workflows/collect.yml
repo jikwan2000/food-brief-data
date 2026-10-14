@@ -1,7 +1,7 @@
 name: collect
 on:
   schedule:
-    - cron: '0 22 * * *'   # 매일 07:00 (한국시간)
+    - cron: '0 */3 * * *'   # 3시간마다
   workflow_dispatch:
 permissions:
   contents: write
