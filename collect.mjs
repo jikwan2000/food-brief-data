@@ -88,7 +88,7 @@ await step('worldbank', async () => {
   const wbk = XLSX.read(Buffer.from(await (await get(link[0])).arrayBuffer()));
   const rows = XLSX.utils.sheet_to_json(wbk.Sheets['Monthly Prices'], { header: 1, raw: true });
   const hi = rows.findIndex((r) => r.some((c) => String(c).trim() === 'Cocoa'));
-  const head = rows[hi].map((c) => String(c || '').toLowerCase().trim());
+  const head = Array.from(rows[hi], (c) => String(c ?? '').toLowerCase().trim());
   const data = rows.slice(hi + 1).filter((r) => /^\d{4}M\d{2}$/.test(String(r[0])));
   const MAP = { rawsugar: 'sugar, world', wheat: 'wheat, us hrw', corn: 'maize', soyoil: 'soybean oil', palm: 'palm oil',
     thairice: 'rice, thai 5%', vnrice: 'rice, viet namese 5%', coffee: 'coffee, arabica', cocoa: 'cocoa' };
