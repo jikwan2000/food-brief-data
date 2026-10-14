@@ -104,6 +104,28 @@ await step('worldbank', async () => {
       src: 'World Bank CMO 월간 가격 · 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균' };
   }
 });
-
+// 4) 당·분·유 일별 시세 — 선물 근월물 종가 (Yahoo Finance)
+const FUT = {
+  rawsugar: ['SB=F', 0.0220462, 4, 'ICE 원당 선물 No.11', '$/kg'],
+  wheat:    ['KE=F', 0.367437, 1, 'KC 소맥 선물 (HRW)', '$/t'],
+  soyoil:   ['ZL=F', 22.0462, 1, 'CBOT 대두유 선물', '$/t'],
+};
+await step('futures', async () => {
+  for (const [id, [sym, k, dp, market, unit]] of Object.entries(FUT)) {
+    let j;
+    for (const h of ['query1', 'query2']) {
+      try { j = await (await get(`https://${h}.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?range=6y&interval=1d`)).json(); break; }
+      catch (e) { if (h === 'query2') throw e; }
+    }
+    const r = j.chart.result[0], cl = r.indicators.quote[0].close;
+    const ser = r.timestamp.map((t, i) => [iso(new Date(t * 1000)), cl[i]]).filter(([, v]) => v > 0).map(([d, v]) => [d, +(v * k).toFixed(dp)]);
+    if (ser.length < 100) throw new Error(`${sym} 데이터 부족`);
+    const lastY = +ser[ser.length - 1][0].slice(0, 4), annual = [];
+    for (let y = lastY - 5; y < lastY; y++) { const v = ser.filter(([d]) => +d.slice(0, 4) === y).map((x) => x[1]); if (v.length > 200) annual.push(mean(v)); }
+    const from = iso(new Date(Date.now() - 400 * 864e5));
+    out.items[id] = { raw: ser.filter(([d]) => d >= from), base: olympic(annual), market, unit,
+      src: `${market} 근월물 종가 (Yahoo Finance) · 일별 자동 수집 · 평년 = 최근 5년 연평균 중 최고·최저 제외 평균` };
+  }
+});
 await fs.writeFile(OUT, JSON.stringify(out, null, 1));
 console.log(`done · news ${out.news.length} · items ${Object.keys(out.items).length} · errors ${out.errors.length}`);
