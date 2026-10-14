@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T12:29:48.814Z",
+ "updated": "2026-10-14T15:28:20.373Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2047,7 +2047,7 @@
     ],
     [
      "2026-10-14",
-     0.4619
+     0.4643
     ]
    ],
    "base": 0.4220902690824005,
@@ -3163,7 +3163,7 @@
     ],
     [
      "2026-10-14",
-     260.2
+     258.9
     ]
    ],
    "base": 251.1895513227513,
@@ -4351,7 +4351,7 @@
     ],
     [
      "2026-10-14",
-     1501.3
+     1480
     ]
    ],
    "base": 1211.8355732119146,
@@ -4722,7 +4722,7 @@
  },
  "news": [
   {
-   "id": "g6",
+   "id": "g5",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "농산물",
@@ -4755,7 +4755,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4821,7 +4821,7 @@
    "summary": ""
   },
   {
-   "id": "g7",
+   "id": "g6",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4843,7 +4843,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -4873,6 +4873,17 @@
    "source": "Fastmarkets (영문)",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3F2bERRMnJYTzJab21VVm16UEM4YmhTdjR5TnkybkhNTjNObFRTOENlcmN3a0dHTk16b1RJbGswMTA2RGtSdE5OY0xTQmhHMkE3MXh2N2pWdnpJY1MwaEdhdDR0aGxUSlp1bkNYVkpaVEI3S1RmNmEtaXJiSU1La2pVZVZMSEJBbEJ2WXB6Zm9nc3BIZFQyRWVDR0pEMzVIOXRwY2RfUElfMENxLXRwMmdfUi1DbmxqSnJhdWc2WTFKZzhjeTA2U29TTEY1cGhKd0VpVUdDRlB2eGhfYTYtVFJLSFJPWXZm?oc=5",
    "title": "FAO Food Price Index rises in September on higher cereal, vegoil prices and benchmark at highest since November 2022",
+   "summary": ""
+  },
+  {
+   "id": "g7",
+   "d": "2026-10-12",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "아시아통신",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85YUJJMGxhaVNKZzViQ28zRzI5Y09VMkVELVdFT3B4VnotUDd2UnB5dlJIMWVrdnVYSm40emxtUExJc2Q4U3llTVVQNUV4Ri1uWTVtUGtfcnNYTFU1RVp4dA?oc=5",
+   "title": "농산물가격안정제, 본격 시행…마늘·양파 농가 소득안전망 강화 !",
    "summary": ""
   },
   {
@@ -5074,7 +5085,7 @@
    "summary": ""
   },
   {
-   "id": "g5",
+   "id": "g4",
    "d": "2026-10-09",
    "region": "국내",
    "cat": "농산물",
@@ -5179,8 +5190,8 @@
    "cat": "농산물",
    "item": null,
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UUlfeWY1UXAtUVRZUVh0YnNEbWpCdmE0X1NsdXRPNGxjSndYWjlQQ0lzY3lpUzhBRWZfSHRZLW1UY3NrZlg4WVBJczZsbFZEZW5HaHVSV1Nkc3RIU0g2MFozd0YxaUJrQVFoZEdrS2VxWjRqT3dOY19TOE5fb0k?oc=5",
-   "title": "과일과 채소 수출이 가속화되고 있으며, 그 가치가 상승하여 더 많은 시장에 진출하고 있습니다.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnA3UFRGbmVkMFUwSmhsMmtkTlRoQlRKYWZiT1ZtUkVFX2pIclhtWXR0N2pVVzBjOWc2dEhFWEhwYTVzeTc0M1V4VEFZb19wOFJtclZQU1VfRExEMXBGYmZNQUhPS0FvWmtHamFGQ296U1c1c19SdWxFV2Q3UmtYazU5ZUlONXFxSHpUQ3BvQjJfY2s?oc=5",
+   "title": "농산물 수출: 성장세를 유지하려면 생산량에만 의존해서는 안 됩니다.",
    "summary": ""
   },
   {
@@ -5280,17 +5291,6 @@
    "source": "Farm Progress (영문)",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm9TaWVLN3MtNDVIVExZeDZFbUFRTWdlQ0NUNEIzdThTWko2Yzk1RTMtMXlCN0RUQ2FhcXE4M2YwNXY5eVR0VWtMRHp1aTFNbjkzb0huQnZCUlF2Z1lWS00zbGlRZENyYmFPWFY2OVZucnFQN1hSRWlVdEtuWDVqb0tJTExuczhaeGluNk42ajlBbThwOFE?oc=5",
    "title": "Monitor these 4 wheat market drivers as prices stabilize",
-   "summary": ""
-  },
-  {
-   "id": "g4",
-   "d": "2026-10-07",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "한국글로벌뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMlQ0eDU5NHA2TWZ6OTI2Q3FOdnFRNHZBbUt0TmN3NTVXMzJPR2RwMXplZmhNQWpIblVxMHdNSmJtVjB6UGdOOG1iWmZ6S2VLVU0zVENPUUdtY3MxVlJXTA?oc=5",
-   "title": "소비자단체, \"소비자가 느끼는 농산물 가격, 실제 시장 상황과 다를 수 있어\"",
    "summary": ""
   },
   {
