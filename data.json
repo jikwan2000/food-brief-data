@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T05:37:50.348Z",
+ "updated": "2026-10-14T06:28:09.584Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3159,7 +3159,7 @@
     ],
     [
      "2026-10-14",
-     260.5
+     260.1
     ]
    ],
    "base": 251.1895513227513,
@@ -4347,7 +4347,7 @@
     ],
     [
      "2026-10-14",
-     1501.3
+     1500.7
     ]
    ],
    "base": 1211.8355732119146,
@@ -4762,7 +4762,7 @@
    "summary": ""
   },
   {
-   "id": "g1",
+   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4773,7 +4773,7 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4784,14 +4784,14 @@
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g5",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
-   "item": "cabbage",
-   "source": "농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
-   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
+   "item": null,
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90SnNfYk9GeFpYMDhfVlNSZEJxbVdBa2NCZ295eXY0cnl5ajRobFhOS0pPdkk5cDlDYjcyRHFKQUNiTVMxOENZSVI5OVd2TGEwWjZZMWdwd2kzU0E?oc=5",
+   "title": "옥천군, 깻잎·애호박 107농가에 농축산물 가격안정기금 1억 8,264만 원 지급",
    "summary": ""
   },
   {
@@ -4803,17 +4803,6 @@
    "source": "뉴스1",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55a0dPM2ZCOUo0WlJMa21kVzk4YndLSFZaZVVuLU00Ri1NdHRYVWxmOTNBSW91bWJmMUY3VG1oV0xjVVQ2Q1ZCdTI3eHY2OFFCVDJSOU5SRHdHTHFoTlR3?oc=5",
    "title": "\"도매가, 기준가격 이하로 떨어져\"…옥천군, 농산물 가격안정기금 지급",
-   "summary": ""
-  },
-  {
-   "id": "g7",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90SnNfYk9GeFpYMDhfVlNSZEJxbVdBa2NCZ295eXY0cnl5ajRobFhOS0pPdkk5cDlDYjcyRHFKQUNiTVMxOENZSVI5OVd2TGEwWjZZMWdwd2kzU0E?oc=5",
-   "title": "옥천군, 깻잎·애호박 107농가에 농축산물 가격안정기금 1억 8,264만 원 지급",
    "summary": ""
   },
   {
@@ -4894,7 +4883,7 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g15",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -4949,6 +4938,17 @@
    "summary": ""
   },
   {
+   "id": "g0",
+   "d": "2026-10-11",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "한국경제",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWjUwYXc3OG1yMXdfbjlKLWRERkUyamZpZTlnNUF6bl9tVmFuRkpIVEkyaEFPYnNDRGNjRFRJV3Z1OVZReG1pdmVNT0xQa0N4cWNTcGl0VEV1QQ?oc=5",
+   "title": "\"올해는 金배추 아니라더니…\" 김장 앞두고 난감해진 이유가",
+   "summary": ""
+  },
+  {
    "id": "g13",
    "d": "2026-10-11",
    "region": "국내",
@@ -4960,7 +4960,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g16",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5081,7 +5081,7 @@
    "summary": ""
   },
   {
-   "id": "g5",
+   "id": "g7",
    "d": "2026-10-09",
    "region": "국내",
    "cat": "농산물",
@@ -5202,7 +5202,7 @@
    "summary": ""
   },
   {
-   "id": "g0",
+   "id": "g1",
    "d": "2026-10-08",
    "region": "국내",
    "cat": "농산물",
@@ -5301,14 +5301,14 @@
    "summary": ""
   },
   {
-   "id": "g15",
+   "id": "g17",
    "d": "2026-10-07",
    "region": "국내",
    "cat": "축산물",
    "item": null,
-   "source": "정책브리핑",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtX05DWjlBelViMW1WbmxoQ1NyakRDZk9ZV0Z3ZTVzQzU2enVrS25KRENZdFRhOU1QMkhNcVd1clRxamZOMVFkTmRVTUwtRWxYWEtyYWV0RHVWbDVkQklhc2xMU0RMdVZMQnA1VEJ3TQ?oc=5",
-   "title": "정부의 신선란 수입은 국민의 물가 부담을 낮추기 위한 한시적인 조치입니다.",
+   "source": "조선일보",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXE4SHJUNTdDM283Um1TU2NqZzJkb0tndVhWRUZwSjh1V2FnSXZhQnhZNFNHbkdMb3VVNkZUN0NjS2Z5cm42QXo5c0NtS1Y4UjZURk83UlUwWGF5NXpfcGdfTEdUdnBMRUJMUU1vMTYtTms5NW5xdlpPZE5SSThhdzgwWEFickpiX0hEbzdn?oc=5",
+   "title": "[단독] 한 판 3만9000원에 수입한 브라질산 계란, 마트선 4980원",
    "summary": ""
   },
   {
@@ -5317,9 +5317,9 @@
    "region": "국내",
    "cat": "축산물",
    "item": null,
-   "source": "조선일보",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXE4SHJUNTdDM283Um1TU2NqZzJkb0tndVhWRUZwSjh1V2FnSXZhQnhZNFNHbkdMb3VVNkZUN0NjS2Z5cm42QXo5c0NtS1Y4UjZURk83UlUwWGF5NXpfcGdfTEdUdnBMRUJMUU1vMTYtTms5NW5xdlpPZE5SSThhdzgwWEFickpiX0hEbzdn?oc=5",
-   "title": "[단독] 한 판 3만9000원에 수입한 브라질산 계란, 마트선 4980원",
+   "source": "팜인사이트",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CdW9HWkFkWG5tQXo1ZjM4UDlwaTc1ckJONEUtR0R1SmVBcmtzY241RTN3aVVPclJ1MkFIc1pWWW5nbTN3RTFtWnhfUzU3ZVVMNzZkNmtWSXBuMjVHUDk2dE91ajA4UFBLSkt6S2VR?oc=5",
+   "title": "[국감] 임미애 “할인쿠폰 반영해 계란 가격 왜곡”…축평원 정조준",
    "summary": ""
   },
   {
