@@ -58,7 +58,7 @@ await step('news', async () => {
     }
   }
   if (!list.length) throw new Error('기사 0건');
-  out.news = list.sort((a, b) => b.d.localeCompare(a.d)).slice(0, 40);
+  out.news = list.sort((a, b) => b.d.localeCompare(a.d)).slice(0, 80);
 });
 
 // 2) 배추 — 가락시장 경매가 (중품, 10kg 망대) + 최근 5년 같은 시기 평년
