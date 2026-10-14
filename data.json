@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T03:31:30.334Z",
+ "updated": "2026-10-14T05:34:19.628Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2043,7 +2043,7 @@
     ],
     [
      "2026-10-13",
-     0.4652
+     0.4654
     ]
    ],
    "base": 0.4220902690824005,
@@ -3159,7 +3159,7 @@
     ],
     [
      "2026-10-14",
-     261
+     260.5
     ]
    ],
    "base": 251.1895513227513,
@@ -4347,7 +4347,7 @@
     ],
     [
      "2026-10-14",
-     1501.8
+     1502
     ]
    ],
    "base": 1211.8355732119146,
@@ -4724,12 +4724,12 @@
    "cat": "정책·유통",
    "item": null,
    "source": "뉴데일리",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZy1WYTZSV3FFbTlRUzdiTDRzWm50VHV4UmRocHBxczliVVNyMnZQNFlMM2g0T2tyczc4UmdLWFg5S1lqVWI5b1o5YVdDMmM0U2NVZWRuN0dRajBiYmxOTGl2SThGc1R1NUMzYXRCaGFUUHVTUERQdDdzMUo0S09kedIBgAFBVV95cUxNZy1WYTZSV3FFbTlRUzdiTDRzWm50VHV4UmRocHBxczliVVNyMnZQNFlMM2g0T2tyczc4UmdLWFg5S1lqVWI5b1o5YVdDMmM0U2NVZWRuN0dRajBiYmxOTGl2SThGc1R1NUMzYXRCaGFUUHVTUERQdDdzMUo0S09keQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mb2JONzZGdEVWcW9kWEQxSFR5WFM0SVBCZnMzUF9sMFdkaTd5Zk1MandOb0lMYlE2UmpHTzZfY2VDYmZSYkl3NUR5SGlZcjdhTlJ0eTk3dkduRENiQzYxVmRZY29ualNUTXBCbVY5T3k4MlNLYUJxSWk0ONIBgAFBVV95cUxNZy1WYTZSV3FFbTlRUzdiTDRzWm50VHV4UmRocHBxczliVVNyMnZQNFlMM2g0T2tyczc4UmdLWFg5S1lqVWI5b1o5YVdDMmM0U2NVZWRuN0dRajBiYmxOTGl2SThGc1R1NUMzYXRCaGFUUHVTUERQdDdzMUo0S09keQ?oc=5",
    "title": "\"아랫돌 빼서 윗돌 괴기\" … 재정으로 누른 '밥상물가' 지속성 도마",
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g38",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4737,6 +4737,28 @@
    "source": "한겨레",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUpaV0s4UzZKQlBVTFRnRFlVSTlKWk96S2tRZDBFQUVIZnA5MXREWWV4YjBNLVNlQ05kazdwUjhoMHcySzIxbTc3Y09ONWVkdkpVakRlU2NCSmV3VnRMeUNSeE9FM0xmVzhMbDIwM1lxQVR3LVdjY0MzNWo2ZWVvdzln?oc=5",
    "title": "‘쌀 대국’ 인도 가뭄, 태국은 폭우…세계의 식탁 덮친 엘니뇨",
+   "summary": ""
+  },
+  {
+   "id": "g40",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "서울경제TV",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tLWllc1JUUUJTOFhma1p1d2U0bjRxVHlkZ3VUVUF5d1NHd1hHZWlWMnVRak5iZmxpNU1RM1drcWVQQU84aEV0cmVUcW12eEwtQ09sRmFacWhBTkcyaGtWa3dnLUM?oc=5",
+   "title": "당진 아미쌀, 호주 시장 뚫는다…오세아니아 수출 교두보 모색",
+   "summary": ""
+  },
+  {
+   "id": "g49",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "뉴시스",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDUVBGNHVRcTdmaV9WWmFYZFNoNlUtZ05aVDc5Vl9EbHM3cmNNZkk5UEJiV0tSZDduNHdWRWRVV3VybWtRdzQ4RzdkYi1MYzZqbjN6di0zY3h2Zjh3SWFUOUlfeWJlUTNsS1VBMjhNZFRENWZRNnJLVdIBeEFVX3lxTFBDUVBGNHVRcTdmaV9WWmFYZFNoNlUtZ05aVDc5Vl9EbHM3cmNNZkk5UEJiV0tSZDduNHdWRWRVV3VybWtRdzQ4RzdkYi1MYzZqbjN6di0zY3h2Zjh3SWFUOUlfeWJlUTNsS1VBMjhNZFRENWZRNnJLVQ?oc=5",
+   "title": "[올댓차이나] 9월 中 소비자물가 0.9%↑…\"연휴 소비에도 예상 하회\"",
    "summary": ""
   },
   {
@@ -4806,6 +4828,17 @@
    "summary": ""
   },
   {
+   "id": "g24",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVl0ZXFoMHlTbXVDZ19Wc2NsQjU3dDQ3VDVUNjZfa1VHWWdvZG1faFIzWmZ4WVhVT0tTYjU1V3AzSW8zemg1UFJsc1RFZElMOUNiMDU0eElRR3FxTE4wYlNHbFRpcUxPOXRWUVZQNXRFWjFNeGFVdFVjMzhHVlY1c3JnVXE3aG5Dd2o4NXo3NzJBTjNOQWc?oc=5",
+   "title": "세계 설탕 가격이 19개월 만에 최고 수준으로 급등했다.",
+   "summary": ""
+  },
+  {
    "id": "g33",
    "d": "2026-10-13",
    "region": "해외",
@@ -4817,7 +4850,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g41",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -4828,7 +4861,18 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g51",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "NPR (영문)",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEpqZlh0Mm5GNFMtR3pIbmFpQTZ0REhLVzFqR1JwUkh5NzFrYVI2eUFHQzQtZXpSUE1wbXlBR2RpT1RiSFhBYUJoelFCbVBBa3JsYzZ5SXktY1VsRVBReUVTSlpJXzAzYUkyb2NaZmpvN0JjdVY1MkhVaHNleE94TmE1cG1OTXJRUUFfcUJ2dm1fbFgtV2Z1NEJwc3paYnZ3WTZuQ3JKOHRaeWxzZlYzOFFrNnlBMTN4Qks4Qg?oc=5",
+   "title": "Texans share how rising beef prices are affecting them this election season",
+   "summary": ""
+  },
+  {
+   "id": "g57",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -4850,7 +4894,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g16",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -4872,18 +4916,18 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g37",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
+   "item": "palm",
    "source": "비건뉴스",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CVDFQQWdWR0ZhWEk1Q2VDUTk5OXMzXzROcE1uWC1BTDVRcE1YZE9QbkNMY19PeXN3elpEWE9OZnZPVUpxVW0wMkFuWHI5dmU3T0xIcU95WDJ3ZTI4TmM4TkFkSkdGZw?oc=5",
    "title": "9월 국제 곡물·식물성유지 가격, 전년 상승률 종합지수 웃돌아",
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g56",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -4894,7 +4938,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g58",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -4916,7 +4960,7 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g17",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -4927,7 +4971,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -4938,7 +4982,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g26",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -4949,7 +4993,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g39",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -4957,6 +5001,28 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0d1M3o0czA4a1VYRnc5NGstUjFoWnIzTXo4ODZ2eGVGcUM4blk5SGJBTE93eVMzS2JwS0UzNXRlQmpKQkFVNEZKdG5tTnZsbVdfT3J4TjRYMU1kWVQxbmZwTVhvMjhBdGpMemtZSHVDb2pDZk1PUWNJZFIzdkk2VGY0eERMY2dvR1RqTUdqaWZDWVZWZUhYOQ?oc=5",
    "title": "2026년 10월 11일 오늘과 지난주 쌀 가격: 생벼 가격은 변동이 있었습니다.",
+   "summary": ""
+  },
+  {
+   "id": "g43",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "부산일보",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Pa3V6cmllUHJXNHBfVGN5X1FYbGhJV0w1X2xGTXFDY0s2VFgxTXVFeVdMUi1Nd0RPSEw0WkE3WG5wR2J5dUFWSldUWVh0Vl9KYlhCTTB4b3EtYW0zMGNINzBQb0djVFdrdWJwZlVFaFBiZWhXMHVSNmplWmQ?oc=5",
+   "title": "농산물 비축기지, 민간창고에 85% 의존…공공비축 15% 불과",
+   "summary": ""
+  },
+  {
+   "id": "g45",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kSG9FQUlwMW40UVBlMnUxQnJHR1E4c0h3QkxnekE4T2VVbkVZUFpWSkxXTklMZE9EZkMzM05XR0VIZEdSY1FXM3p4V2M3VWoyTUFXRV9NUG5sSTBuZ3NWQW54UXdyVi1ORGVnc0c0ZkZIMU9W?oc=5",
+   "title": "글로벌 가치 사슬로 통하는 \"여권\".",
    "summary": ""
   },
   {
@@ -4979,6 +5045,39 @@
    "source": "세상을 바꾸는 시민언론 민들레",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tV1JKZkNjOFVNUzIwaURWTEJWejE4dEhraG1XN1d2Mklla0hHREhTcW81ZFl6TDhjdGk2aHhFM3MyaHUwdVR1cHlOZDJVanVkX2FJZ013aVpHUVlnd0YzbzBGX0FscjdESEdTXw?oc=5",
    "title": "애그플레이션의 습격?…진짜 공포는 내년에",
+   "summary": ""
+  },
+  {
+   "id": "g42",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWW1TSWRTR25LQjA1NzIycERVMVZSRzhwNG9wUWlsdndWeDlrOXc2NXZiQ0l0eUZOMUY4VFFXMVdJWnlPNlRwZ0Y2MVdpRm5BbGx2ajRlLVJZbFBHaGFkY1BSeDRNeF9kcmhiNTJyZzNvZTBUdzJSMl9QWWpEZXhHMVAzRkRvT1NKNWx1OUlmUE9pYXBzMVJnYWJVcG4zQUc0UUgyU0p5RnJhUW1Ib1lNNzh1am00em4tR1hQNWp3RHppT21VWWlZRDJFQzBSTEZY?oc=5",
+   "title": "슈퍼 과일 게임 분류와 테마 분류",
+   "summary": ""
+  },
+  {
+   "id": "g44",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM094VHJPeTlBS0phOEJkc0ZJd1paV2p4NndvZEo1clJXUDBaZXFzOTVkMWE5RlNBUjNuMXQzOURTM2JPMGx0ODF1di1yUVFHaWRFTkFzQ21rdExCR2JtSGVBLWdfZktVSUpZMXpTbzh6NHV6WTJ3c1YzSmxaT0JjbTNiYzFmbVR1VjBWUW8tTFhuQ3dfZW5TMV90QVBRd1NtaHc?oc=5",
+   "title": "글로벌 키위 과일 시장: 규모, 동향 및 2035까지의 예측",
+   "summary": ""
+  },
+  {
+   "id": "g46",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XYUdXX2JMVXVwTUdKN1g0amZFZUxWbVdaYTI5MDc2YmxlZ2ZiMkZlQmxpRzcxSVZ6dGxUeXZ6bEZKd1BQd05qdUNqYUhNdUtDQnBTaVFDNndGVWfSAWBBVV95cUxOT2p5MW1oSktoWXZrUjFRTFhrQmpmb3ZZTXpGSGdEb3BQeW1TMy1QWWJvQ2RCRVlhQTA2NFBwNlhZcjFucXJGQ3dVSGxDV3ZGSG1ORDRheWdEODRuRkE5QWg?oc=5",
+   "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
    "summary": ""
   },
   {
@@ -5056,105 +5155,6 @@
    "source": "Investing.com 한국어",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQVNrWTZSNWkwWnV5UWdfdUZWV1FoQ1I1Z3hqMTN6am91bUtLTklyd3BGc05tYzVwelFNcDBzRmZOWmFnWXltMkw4bnYwakhETHBDNVRVeEFqYTBYejZhS0I1aXp3OUVyT3I1LURQWVJ1RkVMNUE?oc=5",
    "title": "미국 옥수수 전망, 유럽 밀 가격에 부담",
-   "summary": ""
-  },
-  {
-   "id": "g34",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "Investing.com 한국어",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTURKRzFrOWl6dkExaU5hUTBNRi15NmhOYzNVeWtuMHZLMGQ0SGlkMmg5U2YySndKNVFVUVk3dExtYS1MZjlzVm5fai1Nel9SSXdRaG9kNF9SWEF3VmpIYm42NExUdWlMVjdUNzEzZTZvYkt3THc?oc=5",
-   "title": "말레이시아 팜유 선물, 수출 관세 면제 불발에 하락",
-   "summary": ""
-  },
-  {
-   "id": "g35",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUElUVmlZZHVJMEc1Yno4MGEtUjdfd092V185Skoxem4zdTFSOFRPUndGZlgzckQzR01SWmEwY0xVUXdJSWQza0VrRUlCRklRTEtIRVhCb2Y5YlJhU1hnSzdBSmRDS2s1TjBlNTI0S1A3SHRkdlNaNHVIaEVzMVV0Z2lpakctS1dwUFVHcDhhQkZNYVdzbXkwUnNpaEdSRU9reW5OVDMwdw?oc=5",
-   "title": "글로벌 팜과실유(팜유) 시장: 규모, 동향 및 2035까지의 예측",
-   "summary": ""
-  },
-  {
-   "id": "g47",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wmp",
-   "source": "UkrAgroConsult (영문)",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVTMngxSnQ3R1RMYWt6bjFiamtzdzRCSk91azJvT3pqQWhXVlhDZ0dqNGNRSnpVU2hxU1ZCZEdkdmcxYzdNN0lxbWdSc2FzSEJBX2IwclVaLUVvN3h3SVUxckpuU3dDT3QzTkZRMU1yOGRtSkJSOHNjQkp1cERNc0FwY3p2Yng0a1hJMTlGYUxKakZXUDRpMDhSUF9HQkNu?oc=5",
-   "title": "Skim milk powder prices on GDT rise to highest level since 2022",
-   "summary": ""
-  },
-  {
-   "id": "g0",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "YTN",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RMl96TkxOVmdheTI0Q2FlUjc4VWp1aXhxeFgtYUEzZFNHNmdRNHgtdkJ4YVllZEFqa296bmRwa2x3WTlaTWd3dGEyX1lRT3luaE8yOXp0dlgzQS1LNlU2WUtNZDJaWFo3OUZTNzdRWQ?oc=5",
-   "title": "배추 '뚝' 무·새우젓 '쑥'...'김장 물가' 불안감 여전 [앵커리포트]",
-   "summary": ""
-  },
-  {
-   "id": "g10",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "매일경제 마켓",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQZmVFSHNaMGpFZ2ZkSU1TTm5JOEhxREQ2RGUyTFg0d096cFlybHNxTVBwVFZZbHBLN293RDNGTVlIU0dDa0hKWjlfM2NSLTli?oc=5",
-   "title": "\"추석인데 소비 급감할라\" 어민들 시름…지자체는 소비촉진 총력",
-   "summary": ""
-  },
-  {
-   "id": "g11",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "부산일보",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0d05lZGREY2Q0Y1RSTGFHYldMakZ4UEtZT1NWVlk3Z1g3Qy0tMWxScDgwbUQ4ZkQ1QzZxVUJ1QTJuUFFyMk1QOG9GNXNaSVFTd1VpZDFhY0hfc3FUM210eWcyR0R6TFFxTUdJak43Um5GQkJz?oc=5",
-   "title": "이마트, 고등어·새우·홍시 등 제철 먹거리 할인",
-   "summary": ""
-  },
-  {
-   "id": "g12",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmlGNEd5YVJWYWhhM0xKamprRWZrcWdEZXlHU0tTcHBJVER3SkJyamZSXzVaejYwYnJ1bVRHRVBPY2RWaG81UGNlM1VpZ1pfdUZ5dnJZdHlpYmw5VW1kNEtTVFhWeWVlSjlWeFJjZHFIOG9SaUJHNkttQ0wxTWw2RlNrM0VkZ25nUy1BWkhSQTA0SUFiZmpocGRnY3IxbWVpMUgzUE5sSGJqanpua3ViaQ?oc=5",
-   "title": "게임 정보를 비교표로 읽는 예스카지노 도메인 유형 안내",
-   "summary": ""
-  },
-  {
-   "id": "g41",
-   "d": "2026-10-08",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": null,
-   "source": "MercoPress (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHZaNjRGajI1WEF1dGxBSHVjS09VbjRMSDUwekZxcmNYVEtHS2ZPR2dUYm53WW1oNl9iSXM1amhMX1dYSHBGSkVORHlmOVZfWmZjV2kzTTdEcTdXWVNIc1J5OFdKYTRsNC1RcVBaVzdzeWpvc0kwWDlMRUFZQXZTQkdqeEJBa01kT3JIRlZEUmtkNl80YzVfSTlmOTdyLVpxUEtNRllqdVJwMk9ZQTg4emtjSVhrQl9vU28tdWtYbXZYZw?oc=5",
-   "title": "FAO Food Price Index rises in September amid weather concerns and transport disruptions",
-   "summary": ""
-  },
-  {
-   "id": "g43",
-   "d": "2026-10-08",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Reuters (영문)",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXZER2M1UzVFdnluTG11Z0VyNENzckRGSDA0ZnRib2lURlc4OWdHUjZIc2s3OE5waTBoNEZNRmV5OVRQdzRMemduODlMcmFrQUgwNUtEQThVTy0wT0hPOXl4c2VMaU03NkkzWXROc3pFYWZzNHNkaC16eGRUc0o0Q2hMXzVscjlXV1RMakNQYWpKZnhJN2UzN1djVjJSbkdlS1czU2IySmVZTTVBTlkycQ?oc=5",
-   "title": "Südzucker expects sugar prices to rebound as lower harvests limit supply",
    "summary": ""
   }
  ],
