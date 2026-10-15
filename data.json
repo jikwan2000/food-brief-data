@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:25:49.821Z",
+ "updated": "2026-10-15T03:22:38.470Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -934,9 +934,13 @@
     [
      "2026-10-14",
      6579
+    ],
+    [
+     "2026-10-15",
+     5689
     ]
    ],
-   "base": 5963.398601398602,
+   "base": 5821.805555555555,
    "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
   },
   "rawsugar": {
@@ -3154,8 +3158,12 @@
      261.7
     ],
     [
+     "2026-10-14",
+     262.7
+    ],
+    [
      "2026-10-15",
-     262.1
+     260.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4338,8 +4346,12 @@
      1491.9
     ],
     [
+     "2026-10-14",
+     1478.2
+    ],
+    [
      "2026-10-15",
-     1477.3
+     1469.4
     ]
    ],
    "base": 1211.8355732119146,
@@ -4710,13 +4722,24 @@
  },
  "news": [
   {
+   "id": "g25",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "한국식품의약신문",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94QUF1TFBDQWwtdlNYNW5XRzRwdldCQ2V6VmJIeVV6TGtkTzNxRlIzU09jbHp2MGhqS1MwbWpRYnUwX3RxWmZKOHJEQmhPSnN1UWxyVDg0eWt2ek1kZnM2Sm1QMTI1dVk?oc=5",
+   "title": "국제 원당값 3분기 22.9% 급등…국내 식품업계 영향 제한적",
+   "summary": ""
+  },
+  {
    "id": "g4",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "농산물",
    "item": null,
    "source": "뉴스투데이",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UMDE3eDVnSmdRc09rWVo2TFoyUWRjNDFETndKcnQ4S1FuQm5WV3FyZnpfemdqd19DclVXQldxd2FYU2dXSTJ5elplTGo2QURDTk42alRFMFV6OHRmNFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XcURWYjE0TkhKWDZHem5fWG1NeWQ3Z1ZLalphSUEzam5lOWNLQi1HWWpLWVdrMTJ5SzlzamRNemtacWFxajhlQnE2a0JFT1VxeGNONFc3WWY?oc=5",
    "title": "농산물가격안정제 첫 시행…관건은 ‘선제적 수급관리’",
    "summary": ""
   },
@@ -4754,7 +4777,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g26",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4787,7 +4810,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "농산물",
@@ -4825,9 +4848,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "nbn 시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
-   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
+   "source": "경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
+   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
    "summary": ""
   },
   {
@@ -4836,9 +4859,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
-   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
+   "source": "nbn 시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
+   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
@@ -4930,7 +4953,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g16",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -5018,6 +5041,17 @@
    "summary": ""
   },
   {
+   "id": "g11",
+   "d": "2026-10-11",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "대한민국 대표 공영미디어 KBS",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQV1B6WG91MFFfMzAwQ2kxeWVQT1RQcXFQYUs0SnlJc2hBcEQydFNKcmtzSG5oR0lJN09yMW82OGh2Yl82OVdpVnlheElVZ29sazBOVEZYS0JKX05aN1pOWmE0UXZVZldBUENaU0w0T3FIdURySWYtLXB6ZHBFUWYydDBrRHlBZXZNcWIxYzZHYm5ZLWJRSHM2Wm02M1J5RUk1WlRHUVZUZmRiSk1aeElTSG5GemhTZ1VxY3RuQXFWa0EyLVVyTi1ZVmxsSi1hVWZGN0daa3R4MFVFX2d5ZExvTXFRMG5RTzRNTXZnYmM0TlpFLVpqOVNuSHZ3Z3pxT3FnZGlCWjUtYVREZHozSjBNQ1N4TzRSQVljQ3FOemM2ZERFbkdpWGh6RWtQaUdrZmxlbjQ0MmVVVmw2MUNPamwwdw?oc=5",
+   "title": "가격파괴 Why: 1++ 한우곰탕 (?)원 | KBS 261012 방송",
+   "summary": ""
+  },
+  {
    "id": "g13",
    "d": "2026-10-11",
    "region": "국내",
@@ -5040,7 +5074,7 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g17",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5048,17 +5082,6 @@
    "source": "중앙일보",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRNXVuYU51VG5fbzRFeWlud05JZXlHVUdNOTB1M09JdGt6dEt4RUtqQVNPQWdRTDFZbllKU0VERHRPb2RUX1hQVU5mSzUxZkxTRlJ3UUJ3?oc=5",
    "title": "3만9000원에 사서 4980원에 팔았다…브라질산 계란 논란",
-   "summary": ""
-  },
-  {
-   "id": "g26",
-   "d": "2026-10-11",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "세계일보",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTdIBVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTQ?oc=5",
-   "title": "가격 담합 철퇴 맞은 설탕제품들",
    "summary": ""
   },
   {
@@ -5227,14 +5250,14 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "농산물",
    "item": null,
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UUlfeWY1UXAtUVRZUVh0YnNEbWpCdmE0X1NsdXRPNGxjSndYWjlQQ0lzY3lpUzhBRWZfSHRZLW1UY3NrZlg4WVBJczZsbFZEZW5HaHVSV1Nkc3RIU0g2MFozd0YxaUJrQVFoZEdrS2VxWjRqT3dOY19TOE5fb0k?oc=5",
-   "title": "과일과 채소 수출이 가속화되고 있으며, 그 가치가 상승하여 더 많은 시장에 진출하고 있습니다.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnA3UFRGbmVkMFUwSmhsMmtkTlRoQlRKYWZiT1ZtUkVFX2pIclhtWXR0N2pVVzBjOWc2dEhFWEhwYTVzeTc0M1V4VEFZb19wOFJtclZQU1VfRExEMXBGYmZNQUhPS0FvWmtHamFGQ296U1c1c19SdWxFV2Q3UmtYazU5ZUlONXFxSHpUQ3BvQjJfY2s?oc=5",
+   "title": "농산물 수출: 성장세를 유지하려면 생산량에만 의존해서는 안 됩니다.",
    "summary": ""
   },
   {
@@ -5283,17 +5306,6 @@
   },
   {
    "id": "g10",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "신세계그룹 뉴스룸",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLXJfc19DNHU4MU4wRVFIeTFIWkVObmI3OWZCQUtPSEpyaXREbHFpQmZxTFZGZF93MUZWWV9NbXpnSGx1Unk5b3JyXy1jWm0tWDVRem0yN2xzbElyamJLS240YVduaVpJQWp1dHF5b3pXeWloZHRXYVFPMDJscXcwcjBJYnVzc08xY2tfTXZPcFlTMk5seXBBcU1idUlkQQ?oc=5",
-   "title": "고등어, 생새우, 홍시… 제철 먹거리로 입맛 돋운다! 이마트, ‘가을의 맛’ 신선식품 할인행사",
-   "summary": ""
-  },
-  {
-   "id": "g11",
    "d": "2026-10-08",
    "region": "국내",
    "cat": "수산물",
