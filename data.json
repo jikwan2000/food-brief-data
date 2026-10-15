@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:22:38.470Z",
+ "updated": "2026-10-15T06:28:19.244Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2047,7 +2047,7 @@
     ],
     [
      "2026-10-14",
-     0.4603
+     0.4594
     ]
    ],
    "base": 0.4220902690824005,
@@ -3163,7 +3163,7 @@
     ],
     [
      "2026-10-15",
-     260.7
+     261
     ]
    ],
    "base": 251.1895513227513,
@@ -4351,7 +4351,7 @@
     ],
     [
      "2026-10-15",
-     1469.4
+     1467.8
     ]
    ],
    "base": 1211.8355732119146,
@@ -4810,7 +4810,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "농산물",
@@ -4848,9 +4848,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
-   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
+   "source": "nbn 시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
+   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
@@ -4859,9 +4859,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "nbn 시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
-   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
+   "source": "농민신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
+   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
    "summary": ""
   },
   {
@@ -4931,7 +4931,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g52",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5003,8 +5003,8 @@
    "cat": "가공·소재",
    "item": "palm",
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmEwWjZwRzhnLTFCNWNwdkNEU1J1WllGRkN1T216ek1lMjZiNXg1NDdwWG9tRUVKT2UtRVRQZXZud3R5a0N6aUV4QXBrVE9VT3BnMVdYMHhyV2s5Y0gwYl91S1NZQWNoaTE5alFzY1VSRHVJX2V3YW1WN1lmSkI4eFY2eWpmVkhH?oc=5",
-   "title": "친환경 연료가 시장을 주도하는 가운데, 지난주에는 디젤 연료가 시장을 선도했습니다.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
+   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
    "summary": ""
   },
   {
@@ -5113,7 +5113,7 @@
    "cat": "수산물",
    "item": "mackerel",
    "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WjRSNmxyZGtVVFNPaG1IdlhfcVJqMm9IcktCZ0QwOU5LekdqdGUzMndGd2UzSlBaQlZfdUNKdkRYaThReVAxemZ5V3lPXzEtTEMzdmI0dWp1bzhTOFdCUGNkbG00ZmY3eXJEYWxYbkZEUDY2R2o1bdIBfkFVX3lxTE02aG82M0w4QVNwdnZ2Yk11OHBaSmdVNzBFd1NqVkdzZTNIcC1NSFJmZl91c0VQZGF1RjVhbjFVY2JrcW9mVEdpb2txaF9KUTdWZnRlSXJmRDNTcE9mNEVzVE5tXzFqNHZXRWtEM2JFN2JGN3hWMXZRek5rUVNXdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxWnZxTkhyNEItZU5XOGNGVFBMNzBHUUFGUDNZLU1keHFQMEhwSDlIZ0FGVTFqTkg5bDY2X3JLenM1cTdvenp6TDk0MWVhVUd4NkEzMmtRZlJZTENWX2Nlcl9qME5xS0VHR3E00gFwQVVfeXFMTUUxZDBuS2YzYzdHQmtEcjh2dWNQNGVYSS1SY004b0FwYTczMkNyeFlkcDNodUNhbFZ2QlVxQ2NNWkRaalJNQ3BBYmJtVzRlQWYtZ01WX2gwQzA1alp0cWdiaWZhLVdkMWFJV3FaWFRQSg?oc=5",
    "title": "수입산 할인 지원에 105억 썼다?…해수부 \"수치 오류·소비자 부담 완화 조치\" - 머니투데이",
    "summary": ""
   },
@@ -5148,6 +5148,17 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XYUdXX2JMVXVwTUdKN1g0amZFZUxWbVdaYTI5MDc2YmxlZ2ZiMkZlQmxpRzcxSVZ6dGxUeXZ6bEZKd1BQd05qdUNqYUhNdUtDQnBTaVFDNndGVWfSAWBBVV95cUxOT2p5MW1oSktoWXZrUjFRTFhrQmpmb3ZZTXpGSGdEb3BQeW1TMy1QWWJvQ2RCRVlhQTA2NFBwNlhZcjFucXJGQ3dVSGxDV3ZGSG1ORDRheWdEODRuRkE5QWg?oc=5",
    "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
+   "summary": ""
+  },
+  {
+   "id": "g48",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVDFsT2RHdkxwMk9hS0x1Z01rbExmMjZGMlV5RzVCVHpYVXBkSzR4c1pZWkQtdlF5T1dDaVVZT1hTMy1qX3loYjAweTJOSnR5LTlFRWZBeWhzTUNKR3JKbl9VNGM5Q3UzTnBKaFA4ZjZidjVDX19tNTM5eDhaUzNVSkFud29aczJobkNHcmk5V1BxOXVIZ1RQdWNNNW1hdmlPUy1WcjM0Qk9VTFg2dFI0a1RVcHkyeGU5cVdtcFFPaHFWZ29HYWI4eVZMeUhXbG10TFhn?oc=5",
+   "title": "korwin 토토사이 보너스 전용 심벌 확인",
    "summary": ""
   },
   {
@@ -5250,14 +5261,14 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "농산물",
    "item": null,
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnA3UFRGbmVkMFUwSmhsMmtkTlRoQlRKYWZiT1ZtUkVFX2pIclhtWXR0N2pVVzBjOWc2dEhFWEhwYTVzeTc0M1V4VEFZb19wOFJtclZQU1VfRExEMXBGYmZNQUhPS0FvWmtHamFGQ296U1c1c19SdWxFV2Q3UmtYazU5ZUlONXFxSHpUQ3BvQjJfY2s?oc=5",
-   "title": "농산물 수출: 성장세를 유지하려면 생산량에만 의존해서는 안 됩니다.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UUlfeWY1UXAtUVRZUVh0YnNEbWpCdmE0X1NsdXRPNGxjSndYWjlQQ0lzY3lpUzhBRWZfSHRZLW1UY3NrZlg4WVBJczZsbFZEZW5HaHVSV1Nkc3RIU0g2MFozd0YxaUJrQVFoZEdrS2VxWjRqT3dOY19TOE5fb0k?oc=5",
+   "title": "과일과 채소 수출이 가속화되고 있으며, 그 가치가 상승하여 더 많은 시장에 진출하고 있습니다.",
    "summary": ""
   },
   {
@@ -5327,25 +5338,14 @@
    "summary": ""
   },
   {
-   "id": "g48",
-   "d": "2026-10-08",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZll3WTBFQmVDTFVJMWhWUHk5eUhncUFpazh2WDhZdnFDQmp3cTFlRUZMY0tkQ2lTaGRySU1UcTBZNkh6UWE3Qmx6QWZ2TnhEeExMalNmb1g4WWRRY0lvSlJpRmRiLVpSZ2oyanEwQngzTUZoWjhDMDVyS3p5eDJnVndtNHowc0FncVIyM183RVpJSHpoaExDVjdsemg4clRZQkJmY1U1TjRPU19HUlg3NWR6S21PZl82azJwUUdPNnpsVDdXak1aWWVIZ2RnMDB1V1EwbmRuTUVLRGJJMTFpN2NrV19MUzh6ZGk1OUxnaEVja0ZrOEZj?oc=5",
-   "title": "카지노 칩 png 심벌별 역할과 표시 위치",
-   "summary": ""
-  },
-  {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-08",
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "Reuters (영문)",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXZER2M1UzVFdnluTG11Z0VyNENzckRGSDA0ZnRib2lURlc4OWdHUjZIc2s3OE5waTBoNEZNRmV5OVRQdzRMemduODlMcmFrQUgwNUtEQThVTy0wT0hPOXl4c2VMaU03NkkzWXROc3pFYWZzNHNkaC16eGRUc0o0Q2hMXzVscjlXV1RMakNQYWpKZnhJN2UzN1djVjJSbkdlS1czU2IySmVZTTVBTlkycQ?oc=5",
-   "title": "Südzucker expects sugar prices to rebound as lower harvests limit supply",
+   "source": "Yahoo Finance (영문)",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlpVd09XWFcwS1Q4OEFaVWF0NmpYN2FZMktfNFp0THZqRUo2YkJoTUpJZVZLRU5SM2dHVjNaOGp4RW1tTE5mRFlJS2pQelZlSzZ0WUNYV3pWM3RBOC01QmRoaWpuUDFYUTBFcmtsMl9abnlDTU15ZTlfTWR6ZHNEWWM4bmxFM2FlUGdvZHNGMkg5OWktVWVfUUZsNkVMS21L?oc=5",
+   "title": "Sugar Prices Slip on Fund Profit-Taking",
    "summary": ""
   },
   {
