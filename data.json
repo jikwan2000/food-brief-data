@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:23:26.522Z",
+ "updated": "2026-10-15T00:25:49.821Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -941,10 +941,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-09",
-     0.3492
-    ],
     [
      "2025-09-10",
      0.3512
@@ -2058,10 +2054,6 @@
   "wheat": {
    "raw": [
     [
-     "2025-09-09",
-     179.1
-    ],
-    [
      "2025-09-10",
      178.5
     ],
@@ -3162,8 +3154,8 @@
      261.7
     ],
     [
-     "2026-10-14",
-     263
+     "2026-10-15",
+     262.1
     ]
    ],
    "base": 251.1895513227513,
@@ -3245,10 +3237,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-09",
-     1095.7
-    ],
     [
      "2025-09-10",
      1107.2
@@ -4350,7 +4338,7 @@
      1491.9
     ],
     [
-     "2026-10-14",
+     "2026-10-15",
      1477.3
     ]
    ],
@@ -4722,7 +4710,18 @@
  },
  "news": [
   {
-   "id": "g5",
+   "id": "g4",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "뉴스투데이",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UMDE3eDVnSmdRc09rWVo2TFoyUWRjNDFETndKcnQ4S1FuQm5WV3FyZnpfemdqd19DclVXQldxd2FYU2dXSTJ5elplTGo2QURDTk42alRFMFV6OHRmNFE?oc=5",
+   "title": "농산물가격안정제 첫 시행…관건은 ‘선제적 수급관리’",
+   "summary": ""
+  },
+  {
+   "id": "g6",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "농산물",
@@ -4788,6 +4787,17 @@
    "summary": ""
   },
   {
+   "id": "g42",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "전남인터넷신문",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mSFFXOHFrU2k5QUxiTVU0TzlaS1B1WEY3X3NyYWhlZVltbVFyaEVvaEpQelV4Zk01M3pzNUdaRURMcFl1UUxBVC1DdTFKN2RlVk1lMFc4VGNMV0Nv?oc=5",
+   "title": "전남광주 농업, 농산물 가격보다는 농가의 실질소득",
+   "summary": ""
+  },
+  {
    "id": "g45",
    "d": "2026-10-14",
    "region": "해외",
@@ -4796,6 +4806,17 @@
    "source": "뉴시스",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDUVBGNHVRcTdmaV9WWmFYZFNoNlUtZ05aVDc5Vl9EbHM3cmNNZkk5UEJiV0tSZDduNHdWRWRVV3VybWtRdzQ4RzdkYi1MYzZqbjN6di0zY3h2Zjh3SWFUOUlfeWJlUTNsS1VBMjhNZFRENWZRNnJLVdIBeEFVX3lxTFBDUVBGNHVRcTdmaV9WWmFYZFNoNlUtZ05aVDc5Vl9EbHM3cmNNZkk5UEJiV0tSZDduNHdWRWRVV3VybWtRdzQ4RzdkYi1MYzZqbjN6di0zY3h2Zjh3SWFUOUlfeWJlUTNsS1VBMjhNZFRENWZRNnJLVQ?oc=5",
    "title": "[올댓차이나] 9월 中 소비자물가 0.9%↑…\"연휴 소비에도 예상 하회\"",
+   "summary": ""
+  },
+  {
+   "id": "g57",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "Yahoo Finance Australia (영문)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVc4Y2loT19jdmhWWDlmeEM0S2hQUjVLdzJZYWFIeXRDN3JEMFVIZ2hoVHFDQW5EcmF5Nm1YRmRxRUtvX3k2OUhuLUZ2VmNfdTEwa2dEb1NjT2N1R20ycDNrZGZNSmRzVWxxaER1Ulo4TmRwS2dLTHlJbU9XLVdnUFh4ajNWUkZQalU2SmxB?oc=5",
+   "title": "New Zealand Shares End Marginally Higher; Mercury NZ Says Fiscal Q1 Trading Margin Up 19%",
    "summary": ""
   },
   {
@@ -4821,7 +4842,7 @@
    "summary": ""
   },
   {
-   "id": "g6",
+   "id": "g7",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4851,6 +4872,17 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVl0ZXFoMHlTbXVDZ19Wc2NsQjU3dDQ3VDVUNjZfa1VHWWdvZG1faFIzWmZ4WVhVT0tTYjU1V3AzSW8zemg1UFJsc1RFZElMOUNiMDU0eElRR3FxTE4wYlNHbFRpcUxPOXRWUVZQNXRFWjFNeGFVdFVjMzhHVlY1c3JnVXE3aG5Dd2o4NXo3NzJBTjNOQWc?oc=5",
    "title": "세계 설탕 가격이 19개월 만에 최고 수준으로 급등했다.",
+   "summary": ""
+  },
+  {
+   "id": "g31",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "corn",
+   "source": "축산신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95WEtlei1mZExIb3lrOExiVkZpN0ZFNmJhXzk0VG5odkVoZ2lBYnF4eVpXb1cxT1RrREpreXMwU0Rvd2FqWE1tdjJuOGFZMmNDNGVBa0FWcTl4U1ZjZnVvcnNxRENUdGx1?oc=5",
+   "title": "옥수수 공급망 불안, 축산물·가공식품 물가까지 영향…상시 대응체계 시급",
    "summary": ""
   },
   {
@@ -4887,17 +4919,6 @@
    "summary": ""
   },
   {
-   "id": "g7",
-   "d": "2026-10-12",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "아시아통신",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85YUJJMGxhaVNKZzViQ28zRzI5Y09VMkVELVdFT3B4VnotUDd2UnB5dlJIMWVrdnVYSm40emxtUExJc2Q4U3llTVVQNUV4Ri1uWTVtUGtfcnNYTFU1RVp4dA?oc=5",
-   "title": "농산물가격안정제, 본격 시행…마늘·양파 농가 소득안전망 강화 !",
-   "summary": ""
-  },
-  {
    "id": "g8",
    "d": "2026-10-12",
    "region": "국내",
@@ -4909,12 +4930,12 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g17",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
    "item": null,
-   "source": "JTBC뉴스",
+   "source": "JTBC",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZU3BwMm9iUGdXV2VCV2N2QnhENzdyaEtOa0VhMmpia2J0NzN5Qm1yQ21YNmJHNE9XbDY4WWczRFVLYmVFOXpsYnYteGhVUHNzNnhwUg?oc=5",
    "title": "4만원 주고 사서 4천원대에 팔았다…브라질산 계란 수입 논란",
    "summary": ""
@@ -4959,12 +4980,23 @@
    "cat": "가공·소재",
    "item": "palm",
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
-   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmEwWjZwRzhnLTFCNWNwdkNEU1J1WllGRkN1T216ek1lMjZiNXg1NDdwWG9tRUVKT2UtRVRQZXZud3R5a0N6aUV4QXBrVE9VT3BnMVdYMHhyV2s5Y0gwYl91S1NZQWNoaTE5alFzY1VSRHVJX2V3YW1WN1lmSkI4eFY2eWpmVkhH?oc=5",
+   "title": "친환경 연료가 시장을 주도하는 가운데, 지난주에는 디젤 연료가 시장을 선도했습니다.",
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "FarmWeekNow (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGlFNENTQ1Y3N0NrbWtvTzhSMDkxQkJVNExHbWUzSHZSZzN2RlNlSm43M3NLM0w0ejF0LTZZVzFXRUVWZ3h0YzUxQ2lSUHh2THlkQW1Ra3lsX29TOGtOejg3aGRFMHFYeThQc1VKVXl4S3ZjUWVSSnNPZGZlU3NSWnVqeGtGeW42RFlFVGJzM1EwVEVicTUzck5iVERObmV2bld3UWZid29zMXQ3QmlLTXNqWlhKSTM4ZEI2b0Uxa0o5Z3l1RjB3enpwVmFDbDNEdnJTQg?oc=5",
+   "title": "Grain prices face harvest pressure test",
+   "summary": ""
+  },
+  {
+   "id": "g56",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5008,7 +5040,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g16",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5085,17 +5117,6 @@
    "summary": ""
   },
   {
-   "id": "g42",
-   "d": "2026-10-10",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM094VHJPeTlBS0phOEJkc0ZJd1paV2p4NndvZEo1clJXUDBaZXFzOTVkMWE5RlNBUjNuMXQzOURTM2JPMGx0ODF1di1yUVFHaWRFTkFzQ21rdExCR2JtSGVBLWdfZktVSUpZMXpTbzh6NHV6WTJ3c1YzSmxaT0JjbTNiYzFmbVR1VjBWUW8tTFhuQ3dfZW5TMV90QVBRd1NtaHc?oc=5",
-   "title": "글로벌 키위 과일 시장: 규모, 동향 및 2035까지의 예측",
-   "summary": ""
-  },
-  {
    "id": "g43",
    "d": "2026-10-10",
    "region": "해외",
@@ -5107,7 +5128,7 @@
    "summary": ""
   },
   {
-   "id": "g4",
+   "id": "g5",
    "d": "2026-10-09",
    "region": "국내",
    "cat": "농산물",
@@ -5173,7 +5194,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g30",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5212,8 +5233,8 @@
    "cat": "농산물",
    "item": null,
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnA3UFRGbmVkMFUwSmhsMmtkTlRoQlRKYWZiT1ZtUkVFX2pIclhtWXR0N2pVVzBjOWc2dEhFWEhwYTVzeTc0M1V4VEFZb19wOFJtclZQU1VfRExEMXBGYmZNQUhPS0FvWmtHamFGQ296U1c1c19SdWxFV2Q3UmtYazU5ZUlONXFxSHpUQ3BvQjJfY2s?oc=5",
-   "title": "농산물 수출: 성장세를 유지하려면 생산량에만 의존해서는 안 됩니다.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13UUlfeWY1UXAtUVRZUVh0YnNEbWpCdmE0X1NsdXRPNGxjSndYWjlQQ0lzY3lpUzhBRWZfSHRZLW1UY3NrZlg4WVBJczZsbFZEZW5HaHVSV1Nkc3RIU0g2MFozd0YxaUJrQVFoZEdrS2VxWjRqT3dOY19TOE5fb0k?oc=5",
+   "title": "과일과 채소 수출이 가속화되고 있으며, 그 가치가 상승하여 더 많은 시장에 진출하고 있습니다.",
    "summary": ""
   },
   {
@@ -5228,7 +5249,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g47",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "축산물",
@@ -5247,17 +5268,6 @@
    "source": "Politico (영문)",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWFJODlUd0VGMUxyNzZMWDkyRGM2THp5cFdSY2FncjVXUEdVeXB3N3M1a3M2NEVtSnQwRUN5N0ZDOTZTeFppT1k4UXRIZkdYVUM0Q0RsSXpoc0wxWVpfMXN5MGpJeDdaUkZieWp6MW9jb3JPSVRNTnowUkxZQU5xQ0lIU2xOeGo5MmduMA?oc=5",
    "title": "Trump’s beef gamble isn’t paying off",
-   "summary": ""
-  },
-  {
-   "id": "g55",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wmp",
-   "source": "UkrAgroConsult (영문)",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVTMngxSnQ3R1RMYWt6bjFiamtzdzRCSk91azJvT3pqQWhXVlhDZ0dqNGNRSnpVU2hxU1ZCZEdkdmcxYzdNN0lxbWdSc2FzSEJBX2IwclVaLUVvN3h3SVUxckpuU3dDT3QzTkZRMU1yOGRtSkJSOHNjQkp1cERNc0FwY3p2Yng0a1hJMTlGYUxKakZXUDRpMDhSUF9HQkNu?oc=5",
-   "title": "Skim milk powder prices on GDT rise to highest level since 2022",
    "summary": ""
   },
   {
@@ -5305,14 +5315,14 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-08",
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "동방일보",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SNHExWExNX29rMXVvcWE5MU5vLTFWUWl4WEF1SUVJZkw0ODJBQndRcktWeTY5ZWRKbnRMNXRxUEt0aV9zSWxSeGJyaDJzME44OEFxakRQX0RQUjEzRXdSYjM5WGhJUl9uYWNRb3NUZDNlQjg?oc=5",
-   "title": "[경제] 中 국경절 연휴, 스마트·친환경·건강 상품 판매 호조",
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZll3WTBFQmVDTFVJMWhWUHk5eUhncUFpazh2WDhZdnFDQmp3cTFlRUZMY0tkQ2lTaGRySU1UcTBZNkh6UWE3Qmx6QWZ2TnhEeExMalNmb1g4WWRRY0lvSlJpRmRiLVpSZ2oyanEwQngzTUZoWjhDMDVyS3p5eDJnVndtNHowc0FncVIyM183RVpJSHpoaExDVjdsemg4clRZQkJmY1U1TjRPU19HUlg3NWR6S21PZl82azJwUUdPNnpsVDdXak1aWWVIZ2RnMDB1V1EwbmRuTUVLRGJJMTFpN2NrV19MUzh6ZGk1OUxnaEVja0ZrOEZj?oc=5",
+   "title": "카지노 칩 png 심벌별 역할과 표시 위치",
    "summary": ""
   },
   {
@@ -5327,14 +5337,14 @@
    "summary": ""
   },
   {
-   "id": "g30",
-   "d": "2026-10-07",
+   "id": "g54",
+   "d": "2026-10-08",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "corn",
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVdhZEpkQ2o3NnF0dkpYaEhQazRFdTdXbFdsNU9sdThzTmtWMTRPOUdQYTNHRmZrVTdzN1hueVZjVkloSE5qSHFKQi11bHl1OUZXWUVoZHdPTERQNEtmVzd0cnNlbGc2SlhER3VlZFgwQWNsbkkydzE0SUxYYnFDSTZuTjBCT1lVQmhBejhfVFN3QmtnRUo2bg?oc=5",
-   "title": "공급 확대와 예상치를 밑도는 수출로 옥수수 가격 하락 - 뉴스 및 통계",
+   "item": "wheat",
+   "source": "Farm Progress (영문)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm9TaWVLN3MtNDVIVExZeDZFbUFRTWdlQ0NUNEIzdThTWko2Yzk1RTMtMXlCN0RUQ2FhcXE4M2YwNXY5eVR0VWtMRHp1aTFNbjkzb0huQnZCUlF2Z1lWS00zbGlRZENyYmFPWFY2OVZucnFQN1hSRWlVdEtuWDVqb0tJTExuczhaeGluNk42ajlBbThwOFE?oc=5",
+   "title": "Monitor these 4 wheat market drivers as prices stabilize",
    "summary": ""
   }
  ],
