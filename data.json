@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:29:33.114Z",
+ "updated": "2026-10-15T15:29:03.557Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2051,7 +2051,7 @@
     ],
     [
      "2026-10-15",
-     0.4597
+     0.4652
     ]
    ],
    "base": 0.4220902690824005,
@@ -3167,7 +3167,7 @@
     ],
     [
      "2026-10-15",
-     267.7
+     264.1
     ]
    ],
    "base": 251.1895513227513,
@@ -4355,7 +4355,7 @@
     ],
     [
      "2026-10-15",
-     1470.9
+     1482.8
     ]
    ],
    "base": 1211.8355732119146,
@@ -4770,6 +4770,17 @@
    "summary": ""
   },
   {
+   "id": "g11",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "부산일보",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcGVLOHpqZFh1R2p1UFByX2hPbU9LdUdMbV9tbXpXYXBKZjB4TnYzRXc0UXMwX21mMlJDYXpGX2ozVVlFRWh5NTRfVmU2WWd0XzdyaXlueS1FVzBDcnd2eDlKR2RrMGp1bVFCcmIyNTNBZw?oc=5",
+   "title": "[골목시장, 다시 장날] 곰장어·선짓국에 고등어까지… 서민들의 밥상 지키는 충무동해안시장",
+   "summary": ""
+  },
+  {
    "id": "g20",
    "d": "2026-10-14",
    "region": "국내",
@@ -4836,7 +4847,7 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g1",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4847,7 +4858,7 @@
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4855,6 +4866,17 @@
    "source": "nbn 시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
    "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
+   "summary": ""
+  },
+  {
+   "id": "g3",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "농민신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
+   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
    "summary": ""
   },
   {
@@ -5053,17 +5075,6 @@
    "source": "한국경제",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWjUwYXc3OG1yMXdfbjlKLWRERkUyamZpZTlnNUF6bl9tVmFuRkpIVEkyaEFPYnNDRGNjRFRJV3Z1OVZReG1pdmVNT0xQa0N4cWNTcGl0VEV1QQ?oc=5",
    "title": "\"올해는 金배추 아니라더니…\" 김장 앞두고 난감해진 이유가",
-   "summary": ""
-  },
-  {
-   "id": "g11",
-   "d": "2026-10-11",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "대한민국 대표 공영미디어 KBS",
-   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQV1B6WG91MFFfMzAwQ2kxeWVQT1RQcXFQYUs0SnlJc2hBcEQydFNKcmtzSG5oR0lJN09yMW82OGh2Yl82OVdpVnlheElVZ29sazBOVEZYS0JKX05aN1pOWmE0UXZVZldBUENaU0w0T3FIdURySWYtLXB6ZHBFUWYydDBrRHlBZXZNcWIxYzZHYm5ZLWJRSHM2Wm02M1J5RUk1WlRHUVZUZmRiSk1aeElTSG5GemhTZ1VxY3RuQXFWa0EyLVVyTi1ZVmxsSi1hVWZGN0daa3R4MFVFX2d5ZExvTXFRMG5RTzRNTXZnYmM0TlpFLVpqOVNuSHZ3Z3pxT3FnZGlCWjUtYVREZHozSjBNQ1N4TzRSQVljQ3FOemM2ZERFbkdpWGh6RWtQaUdrZmxlbjQ0MmVVVmw2MUNPamwwdw?oc=5",
-   "title": "가격파괴 Why: 1++ 한우곰탕 (?)원 | KBS 261012 방송",
    "summary": ""
   },
   {
@@ -5328,17 +5339,6 @@
    "source": "Politico (영문)",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWFJODlUd0VGMUxyNzZMWDkyRGM2THp5cFdSY2FncjVXUEdVeXB3N3M1a3M2NEVtSnQwRUN5N0ZDOTZTeFppT1k4UXRIZkdYVUM0Q0RsSXpoc0wxWVpfMXN5MGpJeDdaUkZieWp6MW9jb3JPSVRNTnowUkxZQU5xQ0lIU2xOeGo5MmduMA?oc=5",
    "title": "Trump’s beef gamble isn’t paying off",
-   "summary": ""
-  },
-  {
-   "id": "g1",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "YTN",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RMl96TkxOVmdheTI0Q2FlUjc4VWp1aXhxeFgtYUEzZFNHNmdRNHgtdkJ4YVllZEFqa296bmRwa2x3WTlaTWd3dGEyX1lRT3luaE8yOXp0dlgzQS1LNlU2WUtNZDJaWFo3OUZTNzdRWQ?oc=5",
-   "title": "배추 '뚝' 무·새우젓 '쑥'...'김장 물가' 불안감 여전 [앵커리포트]",
    "summary": ""
   },
   {
