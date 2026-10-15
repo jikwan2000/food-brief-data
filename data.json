@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T15:29:03.557Z",
+ "updated": "2026-10-15T18:25:48.239Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2051,7 +2051,7 @@
     ],
     [
      "2026-10-15",
-     0.4652
+     0.4661
     ]
    ],
    "base": 0.4220902690824005,
@@ -3167,7 +3167,7 @@
     ],
     [
      "2026-10-15",
-     264.1
+     261.9
     ]
    ],
    "base": 251.1895513227513,
@@ -4355,7 +4355,7 @@
     ],
     [
      "2026-10-15",
-     1482.8
+     1480.8
     ]
    ],
    "base": 1211.8355732119146,
@@ -4781,6 +4781,17 @@
    "summary": ""
   },
   {
+   "id": "g14",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "환경일보",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Oc0poaDBjQ0NpREdMb0xaNmhUR1d6TU1adzhUb1d4bThqNjAybnpOZHZvX3YyTVNJUFgxRVpkY3h4QVpCN0k5LTh1OUF5Nm16RmxqS05yUVRMTk1MUk1wRXlZckFsR1ZJ?oc=5",
+   "title": "수산발전기금 25년간 기업 기부 전무",
+   "summary": ""
+  },
+  {
    "id": "g20",
    "d": "2026-10-14",
    "region": "국내",
@@ -4825,17 +4836,6 @@
    "summary": ""
   },
   {
-   "id": "g42",
-   "d": "2026-10-14",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "전남인터넷신문",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mSFFXOHFrU2k5QUxiTVU0TzlaS1B1WEY3X3NyYWhlZVltbVFyaEVvaEpQelV4Zk01M3pzNUdaRURMcFl1UUxBVC1DdTFKN2RlVk1lMFc4VGNMV0Nv?oc=5",
-   "title": "전남광주 농업, 농산물 가격보다는 농가의 실질소득",
-   "summary": ""
-  },
-  {
    "id": "g45",
    "d": "2026-10-14",
    "region": "해외",
@@ -4844,6 +4844,28 @@
    "source": "뉴시스",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDUVBGNHVRcTdmaV9WWmFYZFNoNlUtZ05aVDc5Vl9EbHM3cmNNZkk5UEJiV0tSZDduNHdWRWRVV3VybWtRdzQ4RzdkYi1MYzZqbjN6di0zY3h2Zjh3SWFUOUlfeWJlUTNsS1VBMjhNZFRENWZRNnJLVdIBeEFVX3lxTFBDUVBGNHVRcTdmaV9WWmFYZFNoNlUtZ05aVDc5Vl9EbHM3cmNNZkk5UEJiV0tSZDduNHdWRWRVV3VybWtRdzQ4RzdkYi1MYzZqbjN6di0zY3h2Zjh3SWFUOUlfeWJlUTNsS1VBMjhNZFRENWZRNnJLVQ?oc=5",
    "title": "[올댓차이나] 9월 中 소비자물가 0.9%↑…\"연휴 소비에도 예상 하회\"",
+   "summary": ""
+  },
+  {
+   "id": "g54",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Yahoo Finance (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzZ2NGROTi13X1JhT0xHLTcxTHhFNVlMY2I1YS1YOVVEalZ4Y3pLN3lJMmliU2dreEpIT1ZsUTdDTHVnOGtRLXdsQ005dk5sWXRTSjlqVFhpYklUUk9BbVc4N1Q5Z3FQaWNtVjFEQ3NSbkxITVdyMHdIOTVpZ2pzZWx0WTBEOE10T2l1d25LSUFpMFJRZ0JXeTU5M3pvTnFwR3c?oc=5",
+   "title": "Sugar Prices Erase Early Gains on Dollar Strength",
+   "summary": ""
+  },
+  {
+   "id": "g58",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "Yahoo Finance Australia (영문)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVc4Y2loT19jdmhWWDlmeEM0S2hQUjVLdzJZYWFIeXRDN3JEMFVIZ2hoVHFDQW5EcmF5Nm1YRmRxRUtvX3k2OUhuLUZ2VmNfdTEwa2dEb1NjT2N1R20ycDNrZGZNSmRzVWxxaER1Ulo4TmRwS2dLTHlJbU9XLVdnUFh4ajNWUkZQalU2SmxB?oc=5",
+   "title": "New Zealand Shares End Marginally Higher; Mercury NZ Says Fiscal Q1 Trading Margin Up 19%",
    "summary": ""
   },
   {
@@ -4891,7 +4913,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g13",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "수산물",
@@ -4965,17 +4987,6 @@
    "source": "Marine Link (영문)",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FCb0JFOVprU3hWcC15Rm9laEgyMDdZcjhuVzA3VjRiSWViZEhDZ0J2eElPX3RINno0RFRMT016TDFoUWU5X1UxdjVZRFdfcFdqZVFoZXM1dW42MWJjdXY1YTRwQklwbDY3ZnMxYUdlRFNkWmNLWi1LZ0RhdFQxUzh3?oc=5",
    "title": "EU Wheat Prices Rise After Another Black Sea Attack, Algerian tender",
-   "summary": ""
-  },
-  {
-   "id": "g58",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wmp",
-   "source": "Czapp (영문)",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjRCU0lZUEwyRTdha3BrcEtyRTAyT0hDOVUzVFJ4NWx1MlNTaVl1U0J1QzBKOERzTnhyUGsyT2lJUTVlTkFuVHBDNWZZTUFoRHVLdWY1b0dfZ1hZcTdrTkt5YkpfOUtHemJZSVZIWld0ZjNVNWtySmVETnFlc1p4anZLY3hYeWpyNlBmNE1DLVc?oc=5",
-   "title": "Algeria Heats Up WMP Market Even Before El Niño",
    "summary": ""
   },
   {
@@ -5078,7 +5089,7 @@
    "summary": ""
   },
   {
-   "id": "g13",
+   "id": "g12",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "수산물",
@@ -5166,6 +5177,17 @@
    "summary": ""
   },
   {
+   "id": "g29",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "세상을 바꾸는 시민언론 민들레",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tV1JKZkNjOFVNUzIwaURWTEJWejE4dEhraG1XN1d2Mklla0hHREhTcW81ZFl6TDhjdGk2aHhFM3MyaHUwdVR1cHlOZDJVanVkX2FJZ013aVpHUVlnd0YzbzBGX0FscjdESEdTXw?oc=5",
+   "title": "애그플레이션의 습격?…진짜 공포는 내년에",
+   "summary": ""
+  },
+  {
    "id": "g39",
    "d": "2026-10-10",
    "region": "해외",
@@ -5174,6 +5196,17 @@
    "source": "Calgary Roughnecks",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWW1TSWRTR25LQjA1NzIycERVMVZSRzhwNG9wUWlsdndWeDlrOXc2NXZiQ0l0eUZOMUY4VFFXMVdJWnlPNlRwZ0Y2MVdpRm5BbGx2ajRlLVJZbFBHaGFkY1BSeDRNeF9kcmhiNTJyZzNvZTBUdzJSMl9QWWpEZXhHMVAzRkRvT1NKNWx1OUlmUE9pYXBzMVJnYWJVcG4zQUc0UUgyU0p5RnJhUW1Ib1lNNzh1am00em4tR1hQNWp3RHppT21VWWlZRDJFQzBSTEZY?oc=5",
    "title": "슈퍼 과일 게임 분류와 테마 분류",
+   "summary": ""
+  },
+  {
+   "id": "g42",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM094VHJPeTlBS0phOEJkc0ZJd1paV2p4NndvZEo1clJXUDBaZXFzOTVkMWE5RlNBUjNuMXQzOURTM2JPMGx0ODF1di1yUVFHaWRFTkFzQ21rdExCR2JtSGVBLWdfZktVSUpZMXpTbzh6NHV6WTJ3c1YzSmxaT0JjbTNiYzFmbVR1VjBWUW8tTFhuQ3dfZW5TMV90QVBRd1NtaHc?oc=5",
+   "title": "글로벌 키위 과일 시장: 규모, 동향 및 2035까지의 예측",
    "summary": ""
   },
   {
@@ -5237,24 +5270,13 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "wheat",
-   "source": "https://www.diarypoint.com/",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82UE4zMjFyaXFuRS1tdUNBUU1ad0NlSUF2TDhMMWdzYlBZXzgwYUVKWWhzX1ZhUzdCaDdRNDhpSzduWVZuQ09KQUtpa0wxeUd3cG9CZ19DbVVMNE11eTJjNV9lM1BWTEFCbEN3?oc=5",
-   "title": "국제 곡물값 1년 새 17.2% 상승…밀, 옥수수 가격 급등에 식품물가 부담 커지나",
-   "summary": ""
-  },
-  {
-   "id": "g28",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
    "source": "경북매일",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oNGZpbkxpWXEteWY4cTkxXzQ4YTBUYXJ5cWpWckFfVW5IZXlXcE9SeTAwWVJ6UlJxV3FVc1Q2ZGRrcnJmYUtfQUtaYUhpdm1mcV9MTU5PU3VqZw?oc=5",
    "title": "중동전쟁 불똥, 세계 식탁 덮친다…내년 ‘곡물값 폭탄’ 우려",
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g28",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5350,28 +5372,6 @@
    "source": "매일경제 마켓",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQZmVFSHNaMGpFZ2ZkSU1TTm5JOEhxREQ2RGUyTFg0d096cFlybHNxTVBwVFZZbHBLN293RDNGTVlIU0dDa0hKWjlfM2NSLTli?oc=5",
    "title": "\"추석인데 소비 급감할라\" 어민들 시름…지자체는 소비촉진 총력",
-   "summary": ""
-  },
-  {
-   "id": "g12",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmlGNEd5YVJWYWhhM0xKamprRWZrcWdEZXlHU0tTcHBJVER3SkJyamZSXzVaejYwYnJ1bVRHRVBPY2RWaG81UGNlM1VpZ1pfdUZ5dnJZdHlpYmw5VW1kNEtTVFhWeWVlSjlWeFJjZHFIOG9SaUJHNkttQ0wxTWw2RlNrM0VkZ25nUy1BWkhSQTA0SUFiZmpocGRnY3IxbWVpMUgzUE5sSGJqanpua3ViaQ?oc=5",
-   "title": "게임 정보를 비교표로 읽는 예스카지노 도메인 유형 안내",
-   "summary": ""
-  },
-  {
-   "id": "g54",
-   "d": "2026-10-08",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Yahoo Finance (영문)",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlpVd09XWFcwS1Q4OEFaVWF0NmpYN2FZMktfNFp0THZqRUo2YkJoTUpJZVZLRU5SM2dHVjNaOGp4RW1tTE5mRFlJS2pQelZlSzZ0WUNYV3pWM3RBOC01QmRoaWpuUDFYUTBFcmtsMl9abnlDTU15ZTlfTWR6ZHNEWWM4bmxFM2FlUGdvZHNGMkg5OWktVWVfUUZsNkVMS21L?oc=5",
-   "title": "Sugar Prices Slip on Fund Profit-Taking",
    "summary": ""
   }
  ],
