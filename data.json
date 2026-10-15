@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:28:19.244Z",
+ "updated": "2026-10-15T09:26:42.609Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2048,6 +2048,10 @@
     [
      "2026-10-14",
      0.4594
+    ],
+    [
+     "2026-10-15",
+     0.4568
     ]
    ],
    "base": 0.4220902690824005,
@@ -3163,7 +3167,7 @@
     ],
     [
      "2026-10-15",
-     261
+     266.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4722,6 +4726,17 @@
  },
  "news": [
   {
+   "id": "g5",
+   "d": "2026-10-15",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYzVld2dPT3NZMVNyeUhqaXRIdWx5M1dVQkpJcjRzWnE0QVpMeFkxbHpXYVEyTmxxQjh6TW1JU3k3b2lUS3BybjlwZjJYUV82NWhZOVJKUGVFN3FUbkJfOHhZeFl6cGliT2lV0gFwQVVfeXFMTkluMnVsQmFLWDIxV19NNHpILUtOWkktdEpnTC1IMDlva2dIV2dUQWd5T2FBdU0zbnl5RXRUN2ZsY3J5ajFyUVJxTHd0NThNV0lzOEM4VEQ2eVE5VWdJb2Z5d2YtZ1lCTWZkRUlIbGxmdQ?oc=5",
+   "title": "[농담] 대통령은 유통혁신 외치는데…문 닫는 도매시장, 농민은 어디로 가나 - 머니투데이",
+   "summary": ""
+  },
+  {
    "id": "g25",
    "d": "2026-10-15",
    "region": "해외",
@@ -4741,17 +4756,6 @@
    "source": "뉴스투데이",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XcURWYjE0TkhKWDZHem5fWG1NeWQ3Z1ZLalphSUEzam5lOWNLQi1HWWpLWVdrMTJ5SzlzamRNemtacWFxajhlQnE2a0JFT1VxeGNONFc3WWY?oc=5",
    "title": "농산물가격안정제 첫 시행…관건은 ‘선제적 수급관리’",
-   "summary": ""
-  },
-  {
-   "id": "g6",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43RXhLcmhnZVRBVGkwTEM3TC1jT01JNV9PeHBzbHo0Y09xR0p3SEtyZm5RMlR4dUY0NWdXaGpSLU9FbXBxZ3RGZklTTW5OM0pIYzNLVmRnMTFNXzhUckVXbUk1UjVlUDhLdEdmOUpROVl0Z9IBckFVX3lxTE43RXhLcmhnZVRBVGkwTEM3TC1jT01JNV9PeHBzbHo0Y09xR0p3SEtyZm5RMlR4dUY0NWdXaGpSLU9FbXBxZ3RGZklTTW5OM0pIYzNLVmRnMTFNXzhUckVXbUk1UjVlUDhLdEdmOUpROVl0Zw?oc=5",
-   "title": "농산물값 절반이 유통비용…온라인 도매시장도 '4건 중 1건' 이상거래 - 머니투데이",
    "summary": ""
   },
   {
@@ -4832,14 +4836,14 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g53",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "wmp",
-   "source": "Yahoo Finance Australia (영문)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVc4Y2loT19jdmhWWDlmeEM0S2hQUjVLdzJZYWFIeXRDN3JEMFVIZ2hoVHFDQW5EcmF5Nm1YRmRxRUtvX3k2OUhuLUZ2VmNfdTEwa2dEb1NjT2N1R20ycDNrZGZNSmRzVWxxaER1Ulo4TmRwS2dLTHlJbU9XLVdnUFh4ajNWUkZQalU2SmxB?oc=5",
-   "title": "New Zealand Shares End Marginally Higher; Mercury NZ Says Fiscal Q1 Trading Margin Up 19%",
+   "item": "rawsugar",
+   "source": "Barchart.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmhjaFVSMk93N3NaRE1hZENtd0xPUWlubXNGUWFrajRFSUY2R0FZcDJwbnFjeEFLTzNiTFBtNWd2ZFEtUmVlVUd6LTdIeWozenJ1Y0JPWXg5V2d4SXVveFNtZXVBb3lWT1Q3Qm53S3I1Znd5XzN1X2hrVWY3S2FZeWl2aHlTVkpqMmJyR0VySmFkM1djSHc?oc=5",
+   "title": "Sugar Prices Fall on Long Liquidation Pressures",
    "summary": ""
   },
   {
@@ -4931,14 +4935,25 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g56",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Barchart.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSndDQm50V1FsQ205TlB0Z2ZZUDBEaTVXWHJrVkpkNkhaM3h6VDRqNU1DaUYzM3JPQlh5c0VCcXVUcW4xSUVVbzBseDVTNndRQkFjZEJuX1RMRTFpR0hlcDRNRDdLczJGek9HT1pHRXBVMHYwVFY1NzhVUldDdDNBUFpTdXRqVFpBTXh5TFhJdFRzb1NQcWFweGlUMlBsTjh4cmc?oc=5",
-   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
+   "item": "wheat",
+   "source": "Marine Link (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FCb0JFOVprU3hWcC15Rm9laEgyMDdZcjhuVzA3VjRiSWViZEhDZ0J2eElPX3RINno0RFRMT016TDFoUWU5X1UxdjVZRFdfcFdqZVFoZXM1dW42MWJjdXY1YTRwQklwbDY3ZnMxYUdlRFNkWmNLWi1LZ0RhdFQxUzh3?oc=5",
+   "title": "EU Wheat Prices Rise After Another Black Sea Attack, Algerian tender",
+   "summary": ""
+  },
+  {
+   "id": "g58",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "Czapp (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjRCU0lZUEwyRTdha3BrcEtyRTAyT0hDOVUzVFJ4NWx1MlNTaVl1U0J1QzBKOERzTnhyUGsyT2lJUTVlTkFuVHBDNWZZTUFoRHVLdWY1b0dfZ1hZcTdrTkt5YkpfOUtHemJZSVZIWld0ZjNVNWtySmVETnFlc1p4anZLY3hYeWpyNlBmNE1DLVc?oc=5",
+   "title": "Algeria Heats Up WMP Market Even Before El Niño",
    "summary": ""
   },
   {
@@ -5019,7 +5034,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g57",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5118,6 +5133,17 @@
    "summary": ""
   },
   {
+   "id": "g52",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": null,
+   "source": "AgroSpectrum India (영문)",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3YzQUtpT01VUTRLdGwwN3BfRlpJcnY2OFpwNEdSb2dtQTNKTUE1dWdnVkZvZ3pxckFyNTJ6cEV1ckt2TXJaSE5TQ0VMRkNuUEh3eUU4UlM0R0dOX2pKZ1NEZG1ob2t6WE5NOW9jSVE0emxzdTdMSGJNUVVFM1AxZ1kxV1pZOExYVGpWXzRRZWZFd1U2RUZyVmxzV3hhcHBVYVpwdVBzb0U1WGdtbFJickJuUlFpSFRROC1OY1BmREVLcUVy?oc=5",
+   "title": "FAO Food Price Index rises in March as Near East conflict raises energy costs",
+   "summary": ""
+  },
+  {
    "id": "g23",
    "d": "2026-10-10",
    "region": "해외",
@@ -5162,7 +5188,7 @@
    "summary": ""
   },
   {
-   "id": "g5",
+   "id": "g6",
    "d": "2026-10-09",
    "region": "국내",
    "cat": "농산물",
@@ -5235,7 +5261,7 @@
    "item": "corn",
    "source": "Investing.com 한국어",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQVNrWTZSNWkwWnV5UWdfdUZWV1FoQ1I1Z3hqMTN6am91bUtLTklyd3BGc05tYzVwelFNcDBzRmZOWmFnWXltMkw4bnYwakhETHBDNVRVeEFqYTBYejZhS0I1aXp3OUVyT3I1LURQWVJ1RkVMNUE?oc=5",
-   "title": "미국 옥수수 전망, 유럽 밀 가격에 부담",
+   "title": "미국 옥수수 전망, 유럽 밀 가격에 부담 By Investing.com",
    "summary": ""
   },
   {
@@ -5338,7 +5364,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-08",
    "region": "해외",
    "cat": "가공·소재",
@@ -5346,17 +5372,6 @@
    "source": "Yahoo Finance (영문)",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlpVd09XWFcwS1Q4OEFaVWF0NmpYN2FZMktfNFp0THZqRUo2YkJoTUpJZVZLRU5SM2dHVjNaOGp4RW1tTE5mRFlJS2pQelZlSzZ0WUNYV3pWM3RBOC01QmRoaWpuUDFYUTBFcmtsMl9abnlDTU15ZTlfTWR6ZHNEWWM4bmxFM2FlUGdvZHNGMkg5OWktVWVfUUZsNkVMS21L?oc=5",
    "title": "Sugar Prices Slip on Fund Profit-Taking",
-   "summary": ""
-  },
-  {
-   "id": "g54",
-   "d": "2026-10-08",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Farm Progress (영문)",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWm9TaWVLN3MtNDVIVExZeDZFbUFRTWdlQ0NUNEIzdThTWko2Yzk1RTMtMXlCN0RUQ2FhcXE4M2YwNXY5eVR0VWtMRHp1aTFNbjkzb0huQnZCUlF2Z1lWS00zbGlRZENyYmFPWFY2OVZucnFQN1hSRWlVdEtuWDVqb0tJTExuczhaeGluNk42ajlBbThwOFE?oc=5",
-   "title": "Monitor these 4 wheat market drivers as prices stabilize",
    "summary": ""
   }
  ],
