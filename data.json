@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T09:26:42.609Z",
+ "updated": "2026-10-15T12:29:33.114Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2051,7 +2051,7 @@
     ],
     [
      "2026-10-15",
-     0.4568
+     0.4597
     ]
    ],
    "base": 0.4220902690824005,
@@ -3167,7 +3167,7 @@
     ],
     [
      "2026-10-15",
-     266.7
+     267.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4355,7 +4355,7 @@
     ],
     [
      "2026-10-15",
-     1467.8
+     1470.9
     ]
    ],
    "base": 1211.8355732119146,
@@ -4726,13 +4726,13 @@
  },
  "news": [
   {
-   "id": "g5",
+   "id": "g4",
    "d": "2026-10-15",
    "region": "국내",
    "cat": "농산물",
    "item": null,
    "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYzVld2dPT3NZMVNyeUhqaXRIdWx5M1dVQkpJcjRzWnE0QVpMeFkxbHpXYVEyTmxxQjh6TW1JU3k3b2lUS3BybjlwZjJYUV82NWhZOVJKUGVFN3FUbkJfOHhZeFl6cGliT2lV0gFwQVVfeXFMTkluMnVsQmFLWDIxV19NNHpILUtOWkktdEpnTC1IMDlva2dIV2dUQWd5T2FBdU0zbnl5RXRUN2ZsY3J5ajFyUVJxTHd0NThNV0lzOEM4VEQ2eVE5VWdJb2Z5d2YtZ1lCTWZkRUlIbGxmdQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JbjJ1bEJhS1gyMVdfTTR6SC1LTlpJLXRKZ0wtSDA5b2tnSFdnVEFneU9hQXVNM255eUV0VDdmbGNyeWoxclFScUx3dDU4TVdJczhDOFRENnlROVVnSW9meXdmLWdZQk1mZEVJSGxsZnXSAXBBVV95cUxOSW4ydWxCYUtYMjFXX000ekgtS05aSS10SmdMLUgwOW9rZ0hXZ1RBZ3lPYUF1TTNueXlFdFQ3ZmxjcnlqMXJRUnFMd3Q1OE1XSXM4QzhURDZ5UTlVZ0lvZnl3Zi1nWUJNZmRFSUhsbGZ1?oc=5",
    "title": "[농담] 대통령은 유통혁신 외치는데…문 닫는 도매시장, 농민은 어디로 가나 - 머니투데이",
    "summary": ""
   },
@@ -4748,7 +4748,7 @@
    "summary": ""
   },
   {
-   "id": "g4",
+   "id": "g5",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "농산물",
@@ -4836,25 +4836,14 @@
    "summary": ""
   },
   {
-   "id": "g53",
-   "d": "2026-10-14",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Barchart.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmhjaFVSMk93N3NaRE1hZENtd0xPUWlubXNGUWFrajRFSUY2R0FZcDJwbnFjeEFLTzNiTFBtNWd2ZFEtUmVlVUd6LTdIeWozenJ1Y0JPWXg5V2d4SXVveFNtZXVBb3lWT1Q3Qm53S3I1Znd5XzN1X2hrVWY3S2FZeWl2aHlTVkpqMmJyR0VySmFkM1djSHc?oc=5",
-   "title": "Sugar Prices Fall on Long Liquidation Pressures",
-   "summary": ""
-  },
-  {
    "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "nbn 시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
-   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
+   "source": "경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
+   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
    "summary": ""
   },
   {
@@ -4863,9 +4852,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
-   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
+   "source": "nbn 시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
+   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
@@ -4932,6 +4921,17 @@
    "source": "Fastmarkets (영문)",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3F2bERRMnJYTzJab21VVm16UEM4YmhTdjR5TnkybkhNTjNObFRTOENlcmN3a0dHTk16b1RJbGswMTA2RGtSdE5OY0xTQmhHMkE3MXh2N2pWdnpJY1MwaEdhdDR0aGxUSlp1bkNYVkpaVEI3S1RmNmEtaXJiSU1La2pVZVZMSEJBbEJ2WXB6Zm9nc3BIZFQyRWVDR0pEMzVIOXRwY2RfUElfMENxLXRwMmdfUi1DbmxqSnJhdWc2WTFKZzhjeTA2U29TTEY1cGhKd0VpVUdDRlB2eGhfYTYtVFJLSFJPWXZm?oc=5",
    "title": "FAO Food Price Index rises in September on higher cereal, vegoil prices and benchmark at highest since November 2022",
+   "summary": ""
+  },
+  {
+   "id": "g53",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Barchart.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSndDQm50V1FsQ205TlB0Z2ZZUDBEaTVXWHJrVkpkNkhaM3h6VDRqNU1DaUYzM3JPQlh5c0VCcXVUcW4xSUVVbzBseDVTNndRQkFjZEJuX1RMRTFpR0hlcDRNRDdLczJGek9HT1pHRXBVMHYwVFY1NzhVUldDdDNBUFpTdXRqVFpBTXh5TFhJdFRzb1NQcWFweGlUMlBsTjh4cmc?oc=5",
+   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
    "summary": ""
   },
   {
