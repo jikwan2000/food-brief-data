@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:25:48.239Z",
+ "updated": "2026-10-15T21:25:07.794Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3167,7 +3167,7 @@
     ],
     [
      "2026-10-15",
-     261.9
+     261.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4355,7 +4355,7 @@
     ],
     [
      "2026-10-15",
-     1480.8
+     1481.1
     ]
    ],
    "base": 1211.8355732119146,
@@ -4836,6 +4836,17 @@
    "summary": ""
   },
   {
+   "id": "g41",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "전남인터넷신문",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mSFFXOHFrU2k5QUxiTVU0TzlaS1B1WEY3X3NyYWhlZVltbVFyaEVvaEpQelV4Zk01M3pzNUdaRURMcFl1UUxBVC1DdTFKN2RlVk1lMFc4VGNMV0Nv?oc=5",
+   "title": "전남광주 농업, 농산물 가격보다는 농가의 실질소득",
+   "summary": ""
+  },
+  {
    "id": "g45",
    "d": "2026-10-14",
    "region": "해외",
@@ -5133,17 +5144,6 @@
    "summary": ""
   },
   {
-   "id": "g40",
-   "d": "2026-10-11",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "부산일보",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Pa3V6cmllUHJXNHBfVGN5X1FYbGhJV0w1X2xGTXFDY0s2VFgxTXVFeVdMUi1Nd0RPSEw0WkE3WG5wR2J5dUFWSldUWVh0Vl9KYlhCTTB4b3EtYW0zMGNINzBQb0djVFdrdWJwZlVFaFBiZWhXMHVSNmplWmQ?oc=5",
-   "title": "농산물 비축기지, 민간창고에 85% 의존…공공비축 15% 불과",
-   "summary": ""
-  },
-  {
    "id": "g44",
    "d": "2026-10-11",
    "region": "해외",
@@ -5320,7 +5320,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "농산물",
