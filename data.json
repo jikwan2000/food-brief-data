@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:23:50.840Z",
+ "updated": "2026-10-16T21:22:01.789Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3171,7 +3171,7 @@
     ],
     [
      "2026-10-16",
-     259
+     258.6
     ]
    ],
    "base": 251.1895513227513,
@@ -4359,7 +4359,7 @@
     ],
     [
      "2026-10-16",
-     1480
+     1479.3
     ]
    ],
    "base": 1211.8355732119146,
@@ -4774,14 +4774,14 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g42",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
    "item": null,
-   "source": "충북데일리",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DV3JCck0xcFdOSUExQW9Mb3JVMU9uN05jM3h6d19yVnFveHpOY05mS25CVURrZzNveWtlRmJYZXlnVEdIQThzd3ZHdktGNEFyQVVzZklFVlB4NGh0ejVUMlJn?oc=5",
-   "title": "증평군, AI 시대 자녀교육 방향 제시... 심정섭 작가 명사특강 외 (10월16일 종합)",
+   "source": "밴쿠버 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zakUwb0hNenJSanJEaVY1VHczME5GQWI5VzE5NWN0b09mVHBuT2gwZWZ1Y2NFWWdYUldHLWV5Nl9MSTVIZUttelN5NHo0NzQ1RmtJdDBhZWQwMldaYXUwSldoSzRpYy1xMTBtS1ZRR0ItRGFMUUNSNzgyRUNMNzQ?oc=5",
+   "title": "[밴쿠버 조선일보]엘니뇨에 식탁 물가 또 꿈틀··· 빵·쌀·과일값 뛴다 | 밴쿠버 뉴스",
    "summary": ""
   },
   {
@@ -4845,9 +4845,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "The New York Times (영문)",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "El Niño Threatens Global Sugar Supply",
+   "source": "S&P Global (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
+   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
    "summary": ""
   },
   {
@@ -4856,9 +4856,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "24/7 Wall St. (영문)",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZkNrZ0RvUlRURUswT0toRzR4aHNPUlpzNE1JTGhQVTdQSGY0OHlWOFp5Z0xNNlJyR1FNTl80WDBITWUwREJ2QTVkcU5VMG5iR1ZSeDE0NmM1eURjMmxEQUkzSmNzRnpkdlRud0I2YmxpRHNBX3JlNjctZVR6STJ2SkhRU0R0OXVad0U3YklKWU9YU2d0bkJfZGdmeEhXWVF4M1BhRW1WeXdtYndQV19GMkhsa2lXTUhQbms0RF9tTXRDR0xYZVRFOTVjV0VPMkRQVi1BVWZYVHlFMUI1WnZPeXBGYWEweWh4c2tvTTNvZWVMUQ?oc=5",
-   "title": "Trump Has a New Inflation Nightmare Ahead of the Midterms. Sugar Prices Just Exploded 34% in 3 Months Before Halloween.",
+   "source": "The New York Times (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
+   "title": "El Niño Threatens Global Sugar Supply",
    "summary": ""
   },
   {
@@ -4906,7 +4906,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "농산물",
@@ -4991,6 +4991,17 @@
    "source": "한겨레",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUpaV0s4UzZKQlBVTFRnRFlVSTlKWk96S2tRZDBFQUVIZnA5MXREWWV4YjBNLVNlQ05kazdwUjhoMHcySzIxbTc3Y09ONWVkdkpVakRlU2NCSmV3VnRMeUNSeE9FM0xmVzhMbDIwM1lxQVR3LVdjY0MzNWo2ZWVvdzln?oc=5",
    "title": "‘쌀 대국’ 인도 가뭄, 태국은 폭우…세계의 식탁 덮친 엘니뇨",
+   "summary": ""
+  },
+  {
+   "id": "g51",
+   "d": "2026-10-14",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "Civil Eats (영문)",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTY2ZGhMck9WTVJja0ZjMkozVFBSS2s4WTBuMEFLRndyTU9qczhQaG8yaVdscGRnRnBkOHJLTWxpN2wzbFRWcG5NYmZXQTFfVDFPaUdiV3d5cE5hQzRjSjdGem4zUk5SdWl0T0RHVnBRN1Y0Z2dSY193OHVBdXFMeDVicWNuWmQzTWtnM0RNSloxOTBEcWpQV1pyamE5MjFfSVBKZFlPWTJRTk1BRGF4Qnh1aXo0UQ?oc=5",
+   "title": "30 Days After Increased Beef Imports, US Ranchers Are Getting Paid Less for Cattle",
    "summary": ""
   },
   {
@@ -5094,17 +5105,6 @@
   },
   {
    "id": "g50",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Drovers Magazine (영문)",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDIyblJGTC1pMVI1aktudC00VXA3eW5SOS1rRUdtZ2lyamJiNl82eVNBOHBMR0stUjdnaG5Tb0tyNWJab2pMNFlOS2ZhUDM0ZGpNVi15cmVWQ09EeXQtVnVxTjc2ak55TV83V1VmX3dKX1ZQeTBBSTRERDF4VEl5Q1hXWVNpV1Y3NVhCMS1SVVhRQi1wc1dVTklaSklUanNhUU5hNDJhUQ?oc=5",
-   "title": "Cattle Market Standoff: Shrinking Supply Meets Stalled Wholesale Beef Prices",
-   "summary": ""
-  },
-  {
-   "id": "g51",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "축산물",
