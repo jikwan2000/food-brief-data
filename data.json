@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:23:29.446Z",
+ "updated": "2026-10-16T18:23:50.840Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2055,7 +2055,7 @@
     ],
     [
      "2026-10-16",
-     0.4546
+     0.4597
     ]
    ],
    "base": 0.4220902690824005,
@@ -3171,7 +3171,7 @@
     ],
     [
      "2026-10-16",
-     258.2
+     259
     ]
    ],
    "base": 251.1895513227513,
@@ -4359,7 +4359,7 @@
     ],
     [
      "2026-10-16",
-     1471.6
+     1480
     ]
    ],
    "base": 1211.8355732119146,
@@ -4752,7 +4752,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g29",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4763,7 +4763,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g39",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4774,7 +4774,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g43",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4785,7 +4785,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4793,6 +4793,17 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWFlZkF3ai1ZM2JoaE5ibXZBcGxQemVPUnFYdzE4MmFtQXRxajRJcWNuR3ZRSF9FMEJqZ1ZjbGkyN2Y3OUlyVF8zMDRFM3phTVpISjR1MUtaazBRY0dIQdIBYEFVX3lxTFBMQWFlZkF3ai1ZM2JoaE5ibXZBcGxQemVPUnFYdzE4MmFtQXRxajRJcWNuR3ZRSF9FMEJqZ1ZjbGkyN2Y3OUlyVF8zMDRFM3phTVpISjR1MUtaazBRY0dIQQ?oc=5",
    "title": "고물가·엔저에…日 닭고기 소비, 소·돼지고기 추월",
+   "summary": ""
+  },
+  {
+   "id": "g47",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mb2Q4WkRZS1gxOWQtRDJUSUpSWTdHYmFmWV9vZWY1ZmlWel9CSkxyaW1SZ2QyV0loUkNYWGRBYlpnNEl0WEZ1WGplMGxNWmZWdWVpVFNUNF9lbGRZOENsWg?oc=5",
+   "title": "\"소고기는 사치, 돼지고기도 버겁다\"…닭고기에 1위 내준 '돈가스의 나라'",
    "summary": ""
   },
   {
@@ -4812,24 +4823,24 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "아시아경제",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mb2Q4WkRZS1gxOWQtRDJUSUpSWTdHYmFmWV9vZWY1ZmlWel9CSkxyaW1SZ2QyV0loUkNYWGRBYlpnNEl0WEZ1WGplMGxNWmZWdWVpVFNUNF9lbGRZOENsWg?oc=5",
-   "title": "\"소고기는 사치, 돼지고기도 버겁다\"…닭고기에 1위 내준 '돈가스의 나라'",
-   "summary": ""
-  },
-  {
-   "id": "g50",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
    "source": "YTN",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLcWQ2VzFlT3JzYVAtRHZTMU1IVVRzclp2UHpCN2oxNFNBd1BPb2h5RFVCNVZxc25kNHZ5S1FhcHFvNlc0bWtjWXlKR2Y5TVhTdWhhMjZmTEJCc1BXUFFxbHBOd0s4VTE0Vkp3SFNjXzBjQjRrY3c?oc=5",
    "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g53",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": null,
+   "source": "AgroSpectrum India (영문)",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3YzQUtpT01VUTRLdGwwN3BfRlpJcnY2OFpwNEdSb2dtQTNKTUE1dWdnVkZvZ3pxckFyNTJ6cEV1ckt2TXJaSE5TQ0VMRkNuUEh3eUU4UlM0R0dOX2pKZ1NEZG1ob2t6WE5NOW9jSVE0emxzdTdMSGJNUVVFM1AxZ1kxV1pZOExYVGpWXzRRZWZFd1U2RUZyVmxzV3hhcHBVYVpwdVBzb0U1WGdtbFJickJuUlFpSFRROC1OY1BmREVLcUVy?oc=5",
+   "title": "FAO Food Price Index rises in March as Near East conflict raises energy costs",
+   "summary": ""
+  },
+  {
+   "id": "g54",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4840,7 +4851,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g55",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4862,7 +4873,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g25",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4873,7 +4884,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g31",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4884,7 +4895,18 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g34",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "마켓인",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
+   "title": "삼양식품, 환율 걱정은 기우?…해외서 더 잘 팔리는 불닭",
+   "summary": ""
+  },
+  {
+   "id": "g42",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "농산물",
@@ -4895,14 +4917,14 @@
    "summary": ""
   },
   {
-   "id": "g58",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "AgNet West (영문)",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JMUVBVHhpWnZFWWRQbXpUMGo0ekczSF9fWG9sejJma201OGxKUkxibGtrUHlPbHlaMEFraE5OMXlVYUdkV2RuVnh4cDNGSFZNS0p6RUpZTG1iZElZYmJyQWg2RVVXcjBDYm9LSmVENzRqaU0?oc=5",
-   "title": "Post-Civil War Wheat Prices Changed U.S. Farming",
+   "id": "g3",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMnJXdGg3bU1TWFZCOE9mSmNWN05GQl93U1gtVk1EcHlnZ3diY3FGVm5SM3ZCNXlaZ3hWTWRma3BHU1E5RnlWUEM0NHhpUTRkMUFucnlsaEF3cGt2enJMR1l1S2oybldMUU1qdVhCdDE?oc=5",
+   "title": "\"배추값 떨어졌다면서요\"…김장 하려던 주부가 깜짝 놀란 이유",
    "summary": ""
   },
   {
@@ -4950,7 +4972,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g26",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4961,7 +4983,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g37",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4972,7 +4994,7 @@
    "summary": ""
   },
   {
-   "id": "g60",
+   "id": "g59",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4988,9 +5010,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
-   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
+   "source": "nbn 시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
+   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
@@ -4999,20 +5021,20 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "nbn 시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
-   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
-   "summary": ""
-  },
-  {
-   "id": "g3",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
    "source": "농민신문",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
    "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
+   "summary": ""
+  },
+  {
+   "id": "g7",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90SnNfYk9GeFpYMDhfVlNSZEJxbVdBa2NCZ295eXY0cnl5ajRobFhOS0pPdkk5cDlDYjcyRHFKQUNiTVMxOENZSVI5OVd2TGEwWjZZMWdwd2kzU0E?oc=5",
+   "title": "옥천군, 깻잎·애호박 107농가에 농축산물 가격안정기금 1억 8,264만 원 지급",
    "summary": ""
   },
   {
@@ -5038,7 +5060,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5049,7 +5071,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g30",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5060,7 +5082,18 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g32",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "corn",
+   "source": "한국식품의약신문",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQei1IbHh6MU42ZmFXSnhmck9zMDN0T3ByVHhMUlFqUTM2YjB3WUpBR1RWYmRMX2xKM1lyakl0dHprOGIya0F2OUQ5aWJ5MTNNcTJYTHN4Ym16S3VfdWhPVUZZRlZwSTA?oc=5",
+   "title": "옥수수 공급망 불안, 장바구니 물가로 확산…상시 대응체계 필요",
+   "summary": ""
+  },
+  {
+   "id": "g50",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "축산물",
@@ -5071,7 +5104,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g51",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "축산물",
@@ -5082,7 +5115,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g52",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5148,7 +5181,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g22",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "정책·유통",
@@ -5159,7 +5192,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g28",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5170,7 +5203,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g33",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5181,7 +5214,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5192,7 +5225,18 @@
    "summary": ""
   },
   {
-   "id": "g59",
+   "id": "g56",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "FarmWeekNow (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGlFNENTQ1Y3N0NrbWtvTzhSMDkxQkJVNExHbWUzSHZSZzN2RlNlSm43M3NLM0w0ejF0LTZZVzFXRUVWZ3h0YzUxQ2lSUHh2THlkQW1Ra3lsX29TOGtOejg3aGRFMHFYeThQc1VKVXl4S3ZjUWVSSnNPZGZlU3NSWnVqeGtGeW42RFlFVGJzM1EwVEVicTUzck5iVERObmV2bld3UWZid29zMXQ3QmlLTXNqWlhKSTM4ZEI2b0Uxa0o5Z3l1RjB3enpwVmFDbDNEdnJTQg?oc=5",
+   "title": "Grain prices face harvest pressure test",
+   "summary": ""
+  },
+  {
+   "id": "g58",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5247,7 +5291,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g36",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5258,7 +5302,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g38",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5269,7 +5313,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g45",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "수산물",
@@ -5280,18 +5324,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
-   "d": "2026-10-11",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": null,
-   "source": "AgroSpectrum India (영문)",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3YzQUtpT01VUTRLdGwwN3BfRlpJcnY2OFpwNEdSb2dtQTNKTUE1dWdnVkZvZ3pxckFyNTJ6cEV1ckt2TXJaSE5TQ0VMRkNuUEh3eUU4UlM0R0dOX2pKZ1NEZG1ob2t6WE5NOW9jSVE0emxzdTdMSGJNUVVFM1AxZ1kxV1pZOExYVGpWXzRRZWZFd1U2RUZyVmxzV3hhcHBVYVpwdVBzb0U1WGdtbFJickJuUlFpSFRROC1OY1BmREVLcUVy?oc=5",
-   "title": "FAO Food Price Index rises in March as Near East conflict raises energy costs",
-   "summary": ""
-  },
-  {
-   "id": "g24",
+   "id": "g23",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "가공·소재",
@@ -5302,7 +5335,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g27",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "가공·소재",
@@ -5313,7 +5346,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
@@ -5324,7 +5357,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
@@ -5335,7 +5368,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g44",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "수산물",
@@ -5343,17 +5376,6 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XYUdXX2JMVXVwTUdKN1g0amZFZUxWbVdaYTI5MDc2YmxlZ2ZiMkZlQmxpRzcxSVZ6dGxUeXZ6bEZKd1BQd05qdUNqYUhNdUtDQnBTaVFDNndGVWfSAWBBVV95cUxOT2p5MW1oSktoWXZrUjFRTFhrQmpmb3ZZTXpGSGdEb3BQeW1TMy1QWWJvQ2RCRVlhQTA2NFBwNlhZcjFucXJGQ3dVSGxDV3ZGSG1ORDRheWdEODRuRkE5QWg?oc=5",
    "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
-   "summary": ""
-  },
-  {
-   "id": "g7",
-   "d": "2026-10-09",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzRrb0xXRjZaZDFjdnJiYXpJMFB3dDhVUGtVTmNvLTdFWmRuc1AwcjVnemVjTFhHYklKbU1NOVN1cGp5Wm1uSlUzQll5V2ZkM1JoaGRMMjREeHdCeWpnN0FJMURSVjFqeV9tZ1pfelFjem41UW5OeXhINmxWNXpERm1QdU5ueXljQVZNRURR?oc=5",
-   "title": "아일랜드 41주차 도매 농산물 가격: 콜리플라워·양배추·감자 등 - 뉴스 및 통계",
    "summary": ""
   },
   {
@@ -5365,39 +5387,6 @@
    "source": "매일경제 마켓",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnU2JnMXp4cG9VWXJVUFNkNW5CMjJwaW8tU194cDY2a0dyOVFOU09HVXNIRHBGQkQxdDJsOENjclZzWTIyQTREaGdJb1pUR2F5LWc?oc=5",
    "title": "[이번주뭘살까] 고등어·홍시부터 맨투맨까지…유통업계 가을 할인전",
-   "summary": ""
-  },
-  {
-   "id": "g22",
-   "d": "2026-10-09",
-   "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSk85TjBMRjNTZHZ6WFJVNHpxcWl3d0VxNmxfa0N4OUlLR2M5b2F3eGczY0xvM1ZhNXhzOTYzQng0V3FHdElKRlE3Z0o3UEdRLXFURV9ZY244WmJWX2k5ZFJ6aTR3eHdfNXZLckoyZG5IeWFLMnpXTkFXUEYtcnFHRHVBU0dMZGk2cTBDaHM2d1hBSFNHUEExNGh2eURuWmlEbjhaQ1FMSzhZZVZyVW9RMmdEYS1pdlNyeFFNMkZvQy1TNGJjRmpuRmNtRGt3NHhDV3o1Z3l4c2hYTXpwMkNpS3lQOHgxc3FCWEhXNDdNSlVWLWkwSkhheFVXZGZiMVdZRVZIMDI5WEZqSl9qQXVkLVlLV0lCcDlYZXpoclI3UXVZVHUyalZSZEw5NjhhSHUzREgw?oc=5",
-   "title": "업데이트 날짜와 변경 항목을 읽는 칼 진화 게임 정보",
-   "summary": ""
-  },
-  {
-   "id": "g31",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "corn",
-   "source": "Investing.com 한국어",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WQVNrWTZSNWkwWnV5UWdfdUZWV1FoQ1I1Z3hqMTN6am91bUtLTklyd3BGc05tYzVwelFNcDBzRmZOWmFnWXltMkw4bnYwakhETHBDNVRVeEFqYTBYejZhS0I1aXp3OUVyT3I1LURQWVJ1RkVMNUE?oc=5",
-   "title": "미국 옥수수 전망, 유럽 밀 가격에 부담 By Investing.com",
-   "summary": ""
-  },
-  {
-   "id": "g34",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "Investing.com 한국어",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xTURKRzFrOWl6dkExaU5hUTBNRi15NmhOYzNVeWtuMHZLMGQ0SGlkMmg5U2YySndKNVFVUVk3dExtYS1MZjlzVm5fai1Nel9SSXdRaG9kNF9SWEF3VmpIYm42NExUdWlMVjdUNzEzZTZvYkt3THc?oc=5",
-   "title": "말레이시아 팜유 선물, 수출 관세 면제 불발에 하락",
    "summary": ""
   }
  ],
