@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:24:26.434Z",
+ "updated": "2026-10-16T03:22:56.671Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -938,9 +938,13 @@
     [
      "2026-10-15",
      5689
+    ],
+    [
+     "2026-10-16",
+     4990
     ]
    ],
-   "base": 5821.805555555555,
+   "base": 5813.933760683761,
    "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
   },
   "rawsugar": {
@@ -3158,8 +3162,12 @@
      262.7
     ],
     [
+     "2026-10-15",
+     262
+    ],
+    [
      "2026-10-16",
-     261.5
+     261.1
     ]
    ],
    "base": 251.1895513227513,
@@ -4342,8 +4350,12 @@
      1478.2
     ],
     [
+     "2026-10-15",
+     1480.4
+    ],
+    [
      "2026-10-16",
-     1483
+     1475.8
     ]
    ],
    "base": 1211.8355732119146,
@@ -4725,7 +4737,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g26",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4733,6 +4745,28 @@
    "source": "한국식품의약신문",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94QUF1TFBDQWwtdlNYNW5XRzRwdldCQ2V6VmJIeVV6TGtkTzNxRlIzU09jbHp2MGhqS1MwbWpRYnUwX3RxWmZKOHJEQmhPSnN1UWxyVDg0eWt2ek1kZnM2Sm1QMTI1dVk?oc=5",
    "title": "국제 원당값 3분기 22.9% 급등…국내 식품업계 영향 제한적",
+   "summary": ""
+  },
+  {
+   "id": "g52",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Barchart.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalZCbl8tN0RTSUsxbmNOS2ZvVFNmMzJjRXUyLTZTcGwza3U3RThCTjdaWkg4aDRMeHZHUVVpdzVocHZBYzQxUFpaMmN2Y19aQmZMSml6MDRiRVZOcmpFa0p0RHZadEhsVFNZWmJuUkdyUlRiRTZ3VnJLN3Y0WmhKeDlOcnB6RXZQWXRMNDJGNE8tc3p1MUpwdmQ0d3l6T00?oc=5",
+   "title": "Sugar Prices Climb on Weather Threats to Global Output",
+   "summary": ""
+  },
+  {
+   "id": "g3",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMnJXdGg3bU1TWFZCOE9mSmNWN05GQl93U1gtVk1EcHlnZ3diY3FGVm5SM3ZCNXlaZ3hWTWRma3BHU1E5RnlWUEM0NHhpUTRkMUFucnlsaEF3cGt2enJMR1l1S2oybldMUU1qdVhCdDE?oc=5",
+   "title": "\"배추값 떨어졌다면서요\"…김장 하려던 주부가 깜짝 놀란 이유",
    "summary": ""
   },
   {
@@ -4791,7 +4825,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g27",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4802,7 +4836,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g37",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4813,7 +4847,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g39",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4824,7 +4858,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "농산물",
@@ -4835,7 +4869,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g46",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "축산물",
@@ -4846,7 +4880,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g53",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4857,7 +4891,7 @@
    "summary": ""
   },
   {
-   "id": "g58",
+   "id": "g57",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -4873,24 +4907,13 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
-   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
-   "summary": ""
-  },
-  {
-   "id": "g2",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
    "source": "nbn 시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
    "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -4923,7 +4946,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -4934,7 +4957,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g32",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -4945,29 +4968,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Drovers Magazine (영문)",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDIyblJGTC1pMVI1aktudC00VXA3eW5SOS1rRUdtZ2lyamJiNl82eVNBOHBMR0stUjdnaG5Tb0tyNWJab2pMNFlOS2ZhUDM0ZGpNVi15cmVWQ09EeXQtVnVxTjc2ak55TV83V1VmX3dKX1ZQeTBBSTRERDF4VEl5Q1hXWVNpV1Y3NVhCMS1SVVhRQi1wc1dVTklaSklUanNhUU5hNDJhUQ?oc=5",
-   "title": "Cattle Market Standoff: Shrinking Supply Meets Stalled Wholesale Beef Prices",
-   "summary": ""
-  },
-  {
    "id": "g50",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "NPR (영문)",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEpqZlh0Mm5GNFMtR3pIbmFpQTZ0REhLVzFqR1JwUkh5NzFrYVI2eUFHQzQtZXpSUE1wbXlBR2RpT1RiSFhBYUJoelFCbVBBa3JsYzZ5SXktY1VsRVBReUVTSlpJXzAzYUkyb2NaZmpvN0JjdVY1MkhVaHNleE94TmE1cG1OTXJRUUFfcUJ2dm1fbFgtV2Z1NEJwc3paYnZ3WTZuQ3JKOHRaeWxzZlYzOFFrNnlBMTN4Qks4Qg?oc=5",
-   "title": "Texans share how rising beef prices are affecting them this election season",
-   "summary": ""
-  },
-  {
-   "id": "g51",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -4978,18 +4979,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Barchart.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSndDQm50V1FsQ205TlB0Z2ZZUDBEaTVXWHJrVkpkNkhaM3h6VDRqNU1DaUYzM3JPQlh5c0VCcXVUcW4xSUVVbzBseDVTNndRQkFjZEJuX1RMRTFpR0hlcDRNRDdLczJGek9HT1pHRXBVMHYwVFY1NzhVUldDdDNBUFpTdXRqVFpBTXh5TFhJdFRzb1NQcWFweGlUMlBsTjh4cmc?oc=5",
-   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
-   "summary": ""
-  },
-  {
-   "id": "g56",
+   "id": "g55",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5011,7 +5001,7 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g17",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -5022,7 +5012,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g19",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -5044,7 +5034,18 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g23",
+   "d": "2026-10-12",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT1JRdkhtTnd2bXB0VkRXY0xGMjFkTHpGTDNIYU83NW11aGlPcV9MODZ6NDJYQzVQMDdGeTJSQUY2STFjdi1oTWIxOS1vVTFwOU4yRkFpaTY1c2lSR1hrdkp6UGVOMkxDYkpQR01NYWN5bEtVTnVMSkkxel9NSXJybE56eUVyOEhm?oc=5",
+   "title": "슬롯 가속화 작업 배경음 반복과 음소거 설정",
+   "summary": ""
+  },
+  {
+   "id": "g35",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5055,7 +5056,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g36",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5066,18 +5067,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
-   "d": "2026-10-12",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": null,
-   "source": "Food and Agriculture Organization (영문)",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmM3RWlRcXotSU81b19ZNnBVSmxadXV0Z0FUODVGMm9jX3JTd3BEMmhKTTRXOGU3bVFTUXRFN0R4eTBjdmlST05JS1BCLS01ZlcxUzJqMWtyWUFnVjR4S25tTGZRN0sxeTNNNkRHQU9PcnNTZkFyZmszeWRwYnRvdFpFcXFnYTZpWnBvSzlfRE00bDNnU1FMRmFnTWlwcFBzb0ZDUExqZXJYSDBNRGNMMDVTdEdNel8wWlRwbTd2aTExbUdDWk1J?oc=5",
-   "title": "World Food Forum 2026: Flagship event opens under theme “Innovate Today. Nourish Tomorrow.”",
-   "summary": ""
-  },
-  {
-   "id": "g55",
+   "id": "g54",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5088,7 +5078,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g56",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5121,7 +5111,7 @@
    "summary": ""
   },
   {
-   "id": "g15",
+   "id": "g16",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5132,7 +5122,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g18",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5143,7 +5133,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g38",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5154,7 +5144,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g45",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "수산물",
@@ -5165,7 +5155,18 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g51",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": null,
+   "source": "AgroSpectrum India (영문)",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3YzQUtpT01VUTRLdGwwN3BfRlpJcnY2OFpwNEdSb2dtQTNKTUE1dWdnVkZvZ3pxckFyNTJ6cEV1ckt2TXJaSE5TQ0VMRkNuUEh3eUU4UlM0R0dOX2pKZ1NEZG1ob2t6WE5NOW9jSVE0emxzdTdMSGJNUVVFM1AxZ1kxV1pZOExYVGpWXzRRZWZFd1U2RUZyVmxzV3hhcHBVYVpwdVBzb0U1WGdtbFJickJuUlFpSFRROC1OY1BmREVLcUVy?oc=5",
+   "title": "FAO Food Price Index rises in March as Near East conflict raises energy costs",
+   "summary": ""
+  },
+  {
+   "id": "g24",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "가공·소재",
@@ -5176,7 +5177,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g30",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "가공·소재",
@@ -5187,7 +5188,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g40",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
@@ -5198,7 +5199,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
@@ -5209,7 +5210,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g44",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "수산물",
@@ -5220,7 +5221,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "축산물",
@@ -5253,14 +5254,14 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g15",
    "d": "2026-10-09",
    "region": "국내",
-   "cat": "정책·유통",
+   "cat": "수산물",
    "item": null,
-   "source": "투데이코리아",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWUJOV3BmWTNwQzcteWxEdXdPdVo3dEFIYlFpWTNuVkttWGRGMWM5TWdVb1FqdFozbEU5bTRqOU1qb1dON2s1MVNLZ0ZhSkR0SS1nX0xyTFNraHFOME1vX0YxSTRWMEhwU2k2aUFUNnA?oc=5",
-   "title": "[박현채 칼럼] 물가 대책 패러다임 변화 필요",
+   "source": "뉴데일리 충청세종",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9feG01MW9oM2k4Tzd6dEV0cHBrVXNsMk1leTlLTUItZVRITldCUlFxMDhuS1UzRm0zdDVOUHZrb3BsZXpfRUJIZW8tNnc5ejVRSE16SFNpQkNDTldWUm4za09VUFV0ZWNwYmc2NHhUT2V0NVBpUGIwOWln0gF_QVVfeXFMTWQ2NGlfZTJSQmV4OXdXTUVNbUN4ejlnLTZaVXhpMUZIaXFSeEFXR3BuSTRPV0d2UGVmSEFtQWIzRWFaSzkyVDlMNVZhUGY3WjlVYnJNcGNITktnelppbHFMZWltbWxGU0lmMXRRcm95VklmUGpQUzVudHhTN190SQ?oc=5",
+   "title": "충남 수산물대축제 춘장대해수욕장서 첫 개막",
    "summary": ""
   },
   {
@@ -5275,7 +5276,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g28",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5286,7 +5287,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g29",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5297,7 +5298,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g31",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5308,7 +5309,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g33",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5319,7 +5320,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g34",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "가공·소재",
@@ -5330,7 +5331,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g41",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "농산물",
@@ -5341,7 +5342,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "축산물",
@@ -5352,7 +5353,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-09",
    "region": "해외",
    "cat": "축산물",
