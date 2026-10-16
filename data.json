@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:25:07.794Z",
+ "updated": "2026-10-16T00:24:26.434Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -945,10 +945,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-10",
-     0.3512
-    ],
     [
      "2025-09-11",
      0.3488
@@ -2062,10 +2058,6 @@
   "wheat": {
    "raw": [
     [
-     "2025-09-10",
-     178.5
-    ],
-    [
      "2025-09-11",
      178.9
     ],
@@ -3166,8 +3158,8 @@
      262.7
     ],
     [
-     "2026-10-15",
-     261.7
+     "2026-10-16",
+     261.5
     ]
    ],
    "base": 251.1895513227513,
@@ -3249,10 +3241,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-10",
-     1107.2
-    ],
     [
      "2025-09-11",
      1120.4
@@ -4354,8 +4342,8 @@
      1478.2
     ],
     [
-     "2026-10-15",
-     1481.1
+     "2026-10-16",
+     1483
     ]
    ],
    "base": 1211.8355732119146,
@@ -4962,6 +4950,17 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
+   "source": "Drovers Magazine (영문)",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDIyblJGTC1pMVI1aktudC00VXA3eW5SOS1rRUdtZ2lyamJiNl82eVNBOHBMR0stUjdnaG5Tb0tyNWJab2pMNFlOS2ZhUDM0ZGpNVi15cmVWQ09EeXQtVnVxTjc2ak55TV83V1VmX3dKX1ZQeTBBSTRERDF4VEl5Q1hXWVNpV1Y3NVhCMS1SVVhRQi1wc1dVTklaSklUanNhUU5hNDJhUQ?oc=5",
+   "title": "Cattle Market Standoff: Shrinking Supply Meets Stalled Wholesale Beef Prices",
+   "summary": ""
+  },
+  {
+   "id": "g50",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
    "source": "NPR (영문)",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEpqZlh0Mm5GNFMtR3pIbmFpQTZ0REhLVzFqR1JwUkh5NzFrYVI2eUFHQzQtZXpSUE1wbXlBR2RpT1RiSFhBYUJoelFCbVBBa3JsYzZ5SXktY1VsRVBReUVTSlpJXzAzYUkyb2NaZmpvN0JjdVY1MkhVaHNleE94TmE1cG1OTXJRUUFfcUJ2dm1fbFgtV2Z1NEJwc3paYnZ3WTZuQ3JKOHRaeWxzZlYzOFFrNnlBMTN4Qks4Qg?oc=5",
    "title": "Texans share how rising beef prices are affecting them this election season",
@@ -5067,6 +5066,17 @@
    "summary": ""
   },
   {
+   "id": "g52",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": null,
+   "source": "Food and Agriculture Organization (영문)",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmM3RWlRcXotSU81b19ZNnBVSmxadXV0Z0FUODVGMm9jX3JTd3BEMmhKTTRXOGU3bVFTUXRFN0R4eTBjdmlST05JS1BCLS01ZlcxUzJqMWtyWUFnVjR4S25tTGZRN0sxeTNNNkRHQU9PcnNTZkFyZmszeWRwYnRvdFpFcXFnYTZpWnBvSzlfRE00bDNnU1FMRmFnTWlwcFBzb0ZDUExqZXJYSDBNRGNMMDVTdEdNel8wWlRwbTd2aTExbUdDWk1J?oc=5",
+   "title": "World Food Forum 2026: Flagship event opens under theme “Innovate Today. Nourish Tomorrow.”",
+   "summary": ""
+  },
+  {
    "id": "g55",
    "d": "2026-10-12",
    "region": "해외",
@@ -5155,17 +5165,6 @@
    "summary": ""
   },
   {
-   "id": "g52",
-   "d": "2026-10-11",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": null,
-   "source": "AgroSpectrum India (영문)",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3YzQUtpT01VUTRLdGwwN3BfRlpJcnY2OFpwNEdSb2dtQTNKTUE1dWdnVkZvZ3pxckFyNTJ6cEV1ckt2TXJaSE5TQ0VMRkNuUEh3eUU4UlM0R0dOX2pKZ1NEZG1ob2t6WE5NOW9jSVE0emxzdTdMSGJNUVVFM1AxZ1kxV1pZOExYVGpWXzRRZWZFd1U2RUZyVmxzV3hhcHBVYVpwdVBzb0U1WGdtbFJickJuUlFpSFRROC1OY1BmREVLcUVy?oc=5",
-   "title": "FAO Food Price Index rises in March as Near East conflict raises energy costs",
-   "summary": ""
-  },
-  {
    "id": "g23",
    "d": "2026-10-10",
    "region": "해외",
@@ -5227,8 +5226,8 @@
    "cat": "축산물",
    "item": null,
    "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVDFsT2RHdkxwMk9hS0x1Z01rbExmMjZGMlV5RzVCVHpYVXBkSzR4c1pZWkQtdlF5T1dDaVVZT1hTMy1qX3loYjAweTJOSnR5LTlFRWZBeWhzTUNKR3JKbl9VNGM5Q3UzTnBKaFA4ZjZidjVDX19tNTM5eDhaUzNVSkFud29aczJobkNHcmk5V1BxOXVIZ1RQdWNNNW1hdmlPUy1WcjM0Qk9VTFg2dFI0a1RVcHkyeGU5cVdtcFFPaHFWZ29HYWI4eVZMeUhXbG10TFhn?oc=5",
-   "title": "korwin 토토사이 보너스 전용 심벌 확인",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV1YyQ2FLZW44U3ZkNm9VUmRyRmJFaFZNRWxrOHFuZ1dMZDJpaTFmUmN4SlFKTU8zalpaMVdJQkRVcnJvUXJWbXFJUnJkYkx0R0ViRjlkbG4tOUh6elNJOHltakQyLWllTjRYalhfcEVzM3N6WGFCU2RRZGdwelVlN21YS1ktNGJKT1AzT2FYTG91MHdYeUl6RnBCanVHZFR6TVJZMnh0TGsxOGg5Zk4xWlo1RlRyUkV6cDhCOFgtT1hSM0Z3aUJlQVpFaTdpa1lWR1E3QkhWM2dPcHdhb2VOcFhJSGdGTlk1QmgtZnAzS1QxM1ZNaVlRWDVB?oc=5",
+   "title": "가로 전환이 필요한지 확인하는 비맞고 걷는꿈 모바일 안내",
    "summary": ""
   },
   {
@@ -5240,6 +5239,17 @@
    "source": "IndexBox",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzRrb0xXRjZaZDFjdnJiYXpJMFB3dDhVUGtVTmNvLTdFWmRuc1AwcjVnemVjTFhHYklKbU1NOVN1cGp5Wm1uSlUzQll5V2ZkM1JoaGRMMjREeHdCeWpnN0FJMURSVjFqeV9tZ1pfelFjem41UW5OeXhINmxWNXpERm1QdU5ueXljQVZNRURR?oc=5",
    "title": "아일랜드 41주차 도매 농산물 가격: 콜리플라워·양배추·감자 등 - 뉴스 및 통계",
+   "summary": ""
+  },
+  {
+   "id": "g10",
+   "d": "2026-10-09",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "매일경제 마켓",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnU2JnMXp4cG9VWXJVUFNkNW5CMjJwaW8tU194cDY2a0dyOVFOU09HVXNIRHBGQkQxdDJsOENjclZzWTIyQTREaGdJb1pUR2F5LWc?oc=5",
+   "title": "[이번주뭘살까] 고등어·홍시부터 맨투맨까지…유통업계 가을 할인전",
    "summary": ""
   },
   {
@@ -5350,28 +5360,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2V0Qzc2dWNaTVRCZnYxZmxGTGRveGhIbzZzZnUxeGRsaFZRMFdGWmpmREd0RnhmMXV6MFVkVDdVNV9RY1lOVDJROVF4U3g1dmhZYTZfQkx5NFVnQmlPYS1fSWdZY0pUelVDRkduSW5QTnhoT3VHZFFPRDc5ZWdQWWVvT3RqLXNQSXc?oc=5",
    "title": "베트남으로 수입되는 냉동육이 놀라울 정도로 저렴한 가격으로 시장에 쏟아지고 있다.",
-   "summary": ""
-  },
-  {
-   "id": "g50",
-   "d": "2026-10-09",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Politico (영문)",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWFJODlUd0VGMUxyNzZMWDkyRGM2THp5cFdSY2FncjVXUEdVeXB3N3M1a3M2NEVtSnQwRUN5N0ZDOTZTeFppT1k4UXRIZkdYVUM0Q0RsSXpoc0wxWVpfMXN5MGpJeDdaUkZieWp6MW9jb3JPSVRNTnowUkxZQU5xQ0lIU2xOeGo5MmduMA?oc=5",
-   "title": "Trump’s beef gamble isn’t paying off",
-   "summary": ""
-  },
-  {
-   "id": "g10",
-   "d": "2026-10-08",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "매일경제 마켓",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQZmVFSHNaMGpFZ2ZkSU1TTm5JOEhxREQ2RGUyTFg0d096cFlybHNxTVBwVFZZbHBLN293RDNGTVlIU0dDa0hKWjlfM2NSLTli?oc=5",
-   "title": "\"추석인데 소비 급감할라\" 어민들 시름…지자체는 소비촉진 총력",
    "summary": ""
   }
  ],
