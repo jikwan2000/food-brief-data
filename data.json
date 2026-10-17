@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:22:01.789Z",
+ "updated": "2026-10-17T00:25:35.642Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -949,10 +949,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-11",
-     0.3488
-    ],
     [
      "2025-09-12",
      0.3481
@@ -2065,10 +2061,6 @@
   },
   "wheat": {
    "raw": [
-    [
-     "2025-09-11",
-     178.9
-    ],
     [
      "2025-09-12",
      178.9
@@ -3253,10 +3245,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-11",
-     1120.4
-    ],
     [
      "2025-09-12",
      1132.7
@@ -4741,7 +4729,7 @@
    "summary": ""
   },
   {
-   "id": "g11",
+   "id": "g10",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -4845,9 +4833,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "S&P Global (영문)",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
-   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
+   "source": "The New York Times (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
+   "title": "A Global Sugar Crisis, Made and Felt in India",
    "summary": ""
   },
   {
@@ -4856,9 +4844,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "The New York Times (영문)",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "El Niño Threatens Global Sugar Supply",
+   "source": "S&P Global (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
+   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
    "summary": ""
   },
   {
@@ -4917,17 +4905,6 @@
    "summary": ""
   },
   {
-   "id": "g3",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "아시아경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMnJXdGg3bU1TWFZCOE9mSmNWN05GQl93U1gtVk1EcHlnZ3diY3FGVm5SM3ZCNXlaZ3hWTWRma3BHU1E5RnlWUEM0NHhpUTRkMUFucnlsaEF3cGt2enJMR1l1S2oybldMUU1qdVhCdDE?oc=5",
-   "title": "\"배추값 떨어졌다면서요\"…김장 하려던 주부가 깜짝 놀란 이유",
-   "summary": ""
-  },
-  {
    "id": "g5",
    "d": "2026-10-14",
    "region": "국내",
@@ -4947,6 +4924,17 @@
    "source": "IndexBox",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzlSR2RfOUJXSDZ5cmoyNUQyaFZpVFQtd0I3QTR6QVdCMHpubXVpMTljT3FCLXllTWV6a0hZMVc2NkVVZ01nbFZCN3NyTjNGOUxlVmJlNVhQVGhHeUwyN2g1ZXB0c0JIUUdZZmhzRTFTdWJFWlBwVW5qMGRycmVKcDNFRmJkMnl3SVZDelZMUHlQX2pmQlhoMHkyU1pwS1FWWUhF?oc=5",
    "title": "2026년 41주차 노르웨이 냉동 고등어 수출: 물량 감소, 가격 상승",
+   "summary": ""
+  },
+  {
+   "id": "g11",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "부산일보",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcGVLOHpqZFh1R2p1UFByX2hPbU9LdUdMbV9tbXpXYXBKZjB4TnYzRXc0UXMwX21mMlJDYXpGX2ozVVlFRWh5NTRfVmU2WWd0XzdyaXlueS1FVzBDcnd2eDlKR2RrMGp1bVFCcmIyNTNBZw?oc=5",
+   "title": "[골목시장, 다시 장날] 곰장어·선짓국에 고등어까지… 서민들의 밥상 지키는 충무동해안시장",
    "summary": ""
   },
   {
@@ -5021,13 +5009,24 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
+   "source": "경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
+   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
+   "summary": ""
+  },
+  {
+   "id": "g2",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
    "source": "nbn 시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
    "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5098,9 +5097,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "corn",
-   "source": "한국식품의약신문",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQei1IbHh6MU42ZmFXSnhmck9zMDN0T3ByVHhMUlFqUTM2YjB3WUpBR1RWYmRMX2xKM1lyakl0dHprOGIya0F2OUQ5aWJ5MTNNcTJYTHN4Ym16S3VfdWhPVUZZRlZwSTA?oc=5",
-   "title": "옥수수 공급망 불안, 장바구니 물가로 확산…상시 대응체계 필요",
+   "source": "돼지와사람",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHpFNXNMZWpyLXZxWGRQRF9aNU5Cem5WVXRVQ0tWc1htNklIU2hXRkloRU1VUHhkQThDMm0zbDNHdENnZEFQX3gzS3JaWGJYS2pjUmRmQ2xpS0RlZFdhVlNTOUY?oc=5",
+   "title": "환율 덕에 사료곡물 수입가격 하락 전망…국제곡물 선물가격은 상승세",
    "summary": ""
   },
   {
@@ -5376,17 +5375,6 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XYUdXX2JMVXVwTUdKN1g0amZFZUxWbVdaYTI5MDc2YmxlZ2ZiMkZlQmxpRzcxSVZ6dGxUeXZ6bEZKd1BQd05qdUNqYUhNdUtDQnBTaVFDNndGVWfSAWBBVV95cUxOT2p5MW1oSktoWXZrUjFRTFhrQmpmb3ZZTXpGSGdEb3BQeW1TMy1QWWJvQ2RCRVlhQTA2NFBwNlhZcjFucXJGQ3dVSGxDV3ZGSG1ORDRheWdEODRuRkE5QWg?oc=5",
    "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
-   "summary": ""
-  },
-  {
-   "id": "g10",
-   "d": "2026-10-09",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "매일경제 마켓",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnU2JnMXp4cG9VWXJVUFNkNW5CMjJwaW8tU194cDY2a0dyOVFOU09HVXNIRHBGQkQxdDJsOENjclZzWTIyQTREaGdJb1pUR2F5LWc?oc=5",
-   "title": "[이번주뭘살까] 고등어·홍시부터 맨투맨까지…유통업계 가을 할인전",
    "summary": ""
   }
  ],
