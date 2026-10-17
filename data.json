@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:18:23.049Z",
+ "updated": "2026-10-17T18:18:13.651Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4942,17 +4942,6 @@
    "summary": ""
   },
   {
-   "id": "g35",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "증권일보",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GTXFreGVTanJxWVoya25BRF9obUJDX3M1U1Q0MjhyTDl4VVpFQ0dfRmxZNFpRZ3Z3c21pT1R6QzFhU0U2NVA3cXBPU0dTZGREUDE5cGphTERfR3VjSHpqRg?oc=5",
-   "title": "삼양식품, 원화 강세에도 견조한 성장세...해외 모멘텀 확대 구간",
-   "summary": ""
-  },
-  {
    "id": "g43",
    "d": "2026-10-15",
    "region": "해외",
@@ -5134,9 +5123,20 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "corn",
-   "source": "한국식품의약신문",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQei1IbHh6MU42ZmFXSnhmck9zMDN0T3ByVHhMUlFqUTM2YjB3WUpBR1RWYmRMX2xKM1lyakl0dHprOGIya0F2OUQ5aWJ5MTNNcTJYTHN4Ym16S3VfdWhPVUZZRlZwSTA?oc=5",
-   "title": "옥수수 공급망 불안, 장바구니 물가로 확산…상시 대응체계 필요",
+   "source": "돼지와사람",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHpFNXNMZWpyLXZxWGRQRF9aNU5Cem5WVXRVQ0tWc1htNklIU2hXRkloRU1VUHhkQThDMm0zbDNHdENnZEFQX3gzS3JaWGJYS2pjUmRmQ2xpS0RlZFdhVlNTOUY?oc=5",
+   "title": "환율 덕에 사료곡물 수입가격 하락 전망…국제곡물 선물가격은 상승세",
+   "summary": ""
+  },
+  {
+   "id": "g42",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3RaekNQTlZaZVFSdnVTMFhYeERDcGJReUxnQlR6a0Fsc2hzc0dNODFyWHVVUG1SN0dRanBpajNrekNQeDFnR1FLVkJERDZrdEdZNzNYNF8tZHBmdDJXeGpxZHFzSkEwNlQzMU5lYVppWjR5bzFFakVqRnp5Nm5OaWg4TUd0Y0FLQkRWdENGRktxTGZtTVE?oc=5",
+   "title": "보스턴 터미널 마켓 과일 가격 보고서: 2026년 10월 13일",
    "summary": ""
   },
   {
@@ -5239,6 +5239,17 @@
    "summary": ""
   },
   {
+   "id": "g36",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "토요경제",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSdIBb0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSQ?oc=5",
+   "title": "삼양식품·농심, 3분기 이익 동반 증가 전망…해외가 실적 견인",
+   "summary": ""
+  },
+  {
    "id": "g57",
    "d": "2026-10-12",
    "region": "해외",
@@ -5316,7 +5327,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5346,17 +5357,6 @@
    "source": "머니투데이",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxWnZxTkhyNEItZU5XOGNGVFBMNzBHUUFGUDNZLU1keHFQMEhwSDlIZ0FGVTFqTkg5bDY2X3JLenM1cTdvenp6TDk0MWVhVUd4NkEzMmtRZlJZTENWX2Nlcl9qME5xS0VHR3E00gFwQVVfeXFMTUUxZDBuS2YzYzdHQmtEcjh2dWNQNGVYSS1SY004b0FwYTczMkNyeFlkcDNodUNhbFZ2QlVxQ2NNWkRaalJNQ3BBYmJtVzRlQWYtZ01WX2gwQzA1alp0cWdiaWZhLVdkMWFJV3FaWFRQSg?oc=5",
    "title": "수입산 할인 지원에 105억 썼다?…해수부 \"수치 오류·소비자 부담 완화 조치\" - 머니투데이",
-   "summary": ""
-  },
-  {
-   "id": "g42",
-   "d": "2026-10-10",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM094VHJPeTlBS0phOEJkc0ZJd1paV2p4NndvZEo1clJXUDBaZXFzOTVkMWE5RlNBUjNuMXQzOURTM2JPMGx0ODF1di1yUVFHaWRFTkFzQ21rdExCR2JtSGVBLWdfZktVSUpZMXpTbzh6NHV6WTJ3c1YzSmxaT0JjbTNiYzFmbVR1VjBWUW8tTFhuQ3dfZW5TMV90QVBRd1NtaHc?oc=5",
-   "title": "글로벌 키위 과일 시장: 규모, 동향 및 2035까지의 예측",
    "summary": ""
   },
   {
