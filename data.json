@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T03:21:21.338Z",
+ "updated": "2026-10-17T06:23:53.992Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3167,7 +3167,7 @@
     ],
     [
      "2026-10-16",
-     258.6
+     258.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4351,7 +4351,7 @@
     ],
     [
      "2026-10-16",
-     1479.3
+     1480
     ]
    ],
    "base": 1211.8355732119146,
@@ -4722,6 +4722,17 @@
  },
  "news": [
   {
+   "id": "g53",
+   "d": "2026-10-17",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": null,
+   "source": "AgroSpectrum India (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR3pFdm5oY0JGYkV4Q1hocG9ubTgtSDNKLTlvZEF5QkFGYWlrTWpfNXNkYzdDVUpHUUhmdUVqT2VDUGxwYXR3T0ZYTkRoRjBvbW5tSjBqN3NxWmdDWFp1RFNRUUJscklqNVI0d3RVS0xCb2FUM0NsMzdqNWdzazdRMDhRRTBFeG1jbFhWeVRNUmwxUmU1d1RvVmxqTlVNWUxfVjNIejFJSEJEZEo0dVk0V0drLUZjMFNuVWwzaHZ1ZGxkb3AwYi15MC1PN3V2U0paZHA2akRR?oc=5",
+   "title": "FAO Food Price Index up for third consecutive month largely on rising vegetable oil prices",
+   "summary": ""
+  },
+  {
    "id": "g6",
    "d": "2026-10-16",
    "region": "국내",
@@ -4821,17 +4832,6 @@
    "summary": ""
   },
   {
-   "id": "g53",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": null,
-   "source": "AgroSpectrum India (영문)",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3YzQUtpT01VUTRLdGwwN3BfRlpJcnY2OFpwNEdSb2dtQTNKTUE1dWdnVkZvZ3pxckFyNTJ6cEV1ckt2TXJaSE5TQ0VMRkNuUEh3eUU4UlM0R0dOX2pKZ1NEZG1ob2t6WE5NOW9jSVE0emxzdTdMSGJNUVVFM1AxZ1kxV1pZOExYVGpWXzRRZWZFd1U2RUZyVmxzV3hhcHBVYVpwdVBzb0U1WGdtbFJickJuUlFpSFRROC1OY1BmREVLcUVy?oc=5",
-   "title": "FAO Food Price Index rises in March as Near East conflict raises energy costs",
-   "summary": ""
-  },
-  {
    "id": "g54",
    "d": "2026-10-16",
    "region": "해외",
@@ -4917,6 +4917,17 @@
    "source": "K채널",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJTTRJTG82amlTbGcxTEZsYlpEbnFpay1CUkRQV3lZb2Rmc3Znb1JrbHBTQ2U0WHBMME4ySjFqNld4ZGZWRDROclZBNTkwNVE2bUxQalNRT1U4ajJzeFRWcm1LWDR4R3lhUlE?oc=5",
    "title": "경기도농수산진흥원, ‘도래미마켓 제철과일 특별전’ 개최",
+   "summary": ""
+  },
+  {
+   "id": "g3",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMnJXdGg3bU1TWFZCOE9mSmNWN05GQl93U1gtVk1EcHlnZ3diY3FGVm5SM3ZCNXlaZ3hWTWRma3BHU1E5RnlWUEM0NHhpUTRkMUFucnlsaEF3cGt2enJMR1l1S2oybldMUU1qdVhCdDE?oc=5",
+   "title": "\"배추값 떨어졌다면서요\"…김장 하려던 주부가 깜짝 놀란 이유",
    "summary": ""
   },
   {
@@ -5013,24 +5024,13 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "wmp",
-   "source": "Yahoo Finance Australia (영문)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVc4Y2loT19jdmhWWDlmeEM0S2hQUjVLdzJZYWFIeXRDN3JEMFVIZ2hoVHFDQW5EcmF5Nm1YRmRxRUtvX3k2OUhuLUZ2VmNfdTEwa2dEb1NjT2N1R20ycDNrZGZNSmRzVWxxaER1Ulo4TmRwS2dLTHlJbU9XLVdnUFh4ajNWUkZQalU2SmxB?oc=5",
-   "title": "New Zealand Shares End Marginally Higher; Mercury NZ Says Fiscal Q1 Trading Margin Up 19%",
+   "source": "Future Market Insights (영문)",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90TjNoZ0ljLUpmUGxCYy0yV1ptUlBILWNMbHFock9ubXdHMl8yalp4MHJleFNHVFRYcWJ5b1JaZUhqYWtPTGN5ZGdWNWltc1ZoZE5hOS0zRXZHSEJfRzdxNVNJRktzYVBtS1BFU2dhMTg?oc=5",
+   "title": "Milk Powder Market Size, Share, Trends 2036",
    "summary": ""
   },
   {
    "id": "g1",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
-   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
-   "summary": ""
-  },
-  {
-   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5041,7 +5041,7 @@
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5074,7 +5074,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g18",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "축산물",
@@ -5173,14 +5173,14 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g19",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
    "item": null,
-   "source": "JTBC",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZU3BwMm9iUGdXV2VCV2N2QnhENzdyaEtOa0VhMmpia2J0NzN5Qm1yQ21YNmJHNE9XbDY4WWczRFVLYmVFOXpsYnYteGhVUHNzNnhwUg?oc=5",
-   "title": "4만원 주고 사서 4천원대에 팔았다…브라질산 계란 수입 논란",
+   "source": "문화일보",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hQWJfWXFCYm4wR3k3amFiYXBQU2FncnBpeGVfd1kwT3lJWnVFaVZjUDQ3UFllY1hsanF3eWMxTnVjdWFpWS1pYWhkRTZTanRt?oc=5",
+   "title": "정부, 계란한판 3만9천원 수입해 4980원에 풀었다는데",
    "summary": ""
   },
   {
@@ -5228,14 +5228,14 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g36",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
    "item": "palm",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
-   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
+   "source": "토요경제",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSdIBb0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSQ?oc=5",
+   "title": "삼양식품·농심, 3분기 이익 동반 증가 전망…해외가 실적 견인",
    "summary": ""
   },
   {
@@ -5294,7 +5294,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g17",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5316,7 +5316,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
