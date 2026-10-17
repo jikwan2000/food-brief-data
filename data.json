@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:20:35.245Z",
+ "updated": "2026-10-17T12:21:30.525Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4755,6 +4755,17 @@
    "summary": ""
   },
   {
+   "id": "g15",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "에너지경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14clVQa2VkdnRXSXFybVAxaWhJSHdjV1ZCc3JuV19EMXVVcmk4MVoxcVVNX1NUWXpudVdlVmdiUUlGak5IeEFVZ2tHa1JKajJ5S3Z4SHlrMHhVSk0?oc=5",
+   "title": "“가을 전어 먹고 참치 해체쇼 보세요”...수협중앙회, ‘도심 속 바다축제’ 개최",
+   "summary": ""
+  },
+  {
    "id": "g28",
    "d": "2026-10-16",
    "region": "해외",
@@ -4876,7 +4887,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g23",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4893,7 +4904,7 @@
    "cat": "가공·소재",
    "item": "wheat",
    "source": "세계일보",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82eVRKZFNma0l4aUpMYURBcGFZdlVxMWdveTlLU3NhdnJfeWk4c2p5YW0wM1Y0NGF4emVpbzBzUXpUSkF2UUdSUG1pWVZ3RWpER2RodtIBVEFVX3lxTE82eVRKZFNma0l4aUpMYURBcGFZdlVxMWdveTlLU3NhdnJfeWk4c2p5YW0wM1Y0NGF4emVpbzBzUXpUSkF2UUdSUG1pWVZ3RWpER2Rodg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rUHoxd1B2RUJPWk1uaHF4V1lTMUw3a19DbnRMTVg2QXdQUTFQdVViU2I4YVFidEs3U19EVy1RUk05Wm1hYnBVYk1yYVdXUVY5NGpyeFByQWTSAVRBVV95cUxPNnlUSmRTZmtJeGlKTGFEQXBhWXZVcTFnb3k5S1NzYXZyX3lpOHNqeWFtMDNWNDRheHplaW8wc1F6VEpBdlFHUlBtaVlWd0VqREdkaHY?oc=5",
    "title": "중동發 곡물가 상승에 사료값 ‘불똥’… 밥상물가 위태롭다 [농어촌이 미래다-그린 라이프]",
    "summary": ""
   },
@@ -4917,6 +4928,17 @@
    "source": "마켓인",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
    "title": "삼양식품, 환율 걱정은 기우?…해외서 더 잘 팔리는 불닭",
+   "summary": ""
+  },
+  {
+   "id": "g35",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "증권일보",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GTXFreGVTanJxWVoya25BRF9obUJDX3M1U1Q0MjhyTDl4VVpFQ0dfRmxZNFpRZ3Z3c21pT1R6QzFhU0U2NVA3cXBPU0dTZGREUDE5cGphTERfR3VjSHpqRg?oc=5",
+   "title": "삼양식품, 원화 강세에도 견조한 성장세...해외 모멘텀 확대 구간",
    "summary": ""
   },
   {
@@ -4950,17 +4972,6 @@
    "source": "부산일보",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcGVLOHpqZFh1R2p1UFByX2hPbU9LdUdMbV9tbXpXYXBKZjB4TnYzRXc0UXMwX21mMlJDYXpGX2ozVVlFRWh5NTRfVmU2WWd0XzdyaXlueS1FVzBDcnd2eDlKR2RrMGp1bVFCcmIyNTNBZw?oc=5",
    "title": "[골목시장, 다시 장날] 곰장어·선짓국에 고등어까지… 서민들의 밥상 지키는 충무동해안시장",
-   "summary": ""
-  },
-  {
-   "id": "g15",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "환경일보",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Oc0poaDBjQ0NpREdMb0xaNmhUR1d6TU1adzhUb1d4bThqNjAybnpOZHZvX3YyTVNJUFgxRVpkY3h4QVpCN0k5LTh1OUF5Nm16RmxqS05yUVRMTk1MUk1wRXlZckFsR1ZJ?oc=5",
-   "title": "수산발전기금 25년간 기업 기부 전무",
    "summary": ""
   },
   {
@@ -5069,7 +5080,7 @@
    "cat": "수산물",
    "item": null,
    "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3F2bVBtSTFJa2FSZ1pLMnZJN2VlYXFkSkFpVnEycWJyLURKbnNPaTN4ZXR4WHJuT3d1blVwMTZGalZsVGpPR2RtN1VXS0xpVGxvb2liZ2pFZFN0M3RZMUtvbEUyQVZZZDkxaW5WSldmRVJtcjVZUHBCSkRuQlhHbHY4WUYwUE5RRndF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qTHM4ZVVYcC1HOGpSZW1YMHJWSEJxYVNWaEIya2VjRkstWW91ZEM4dkJDN1M0UWt1UnBJWHBmWkJtN1RLRkhfckN1OXB6bE9JQnhFVzkwTk5pY2PSAWBBVV95cUxOd18yZy1UZjJjVGEzQkJOU1M5aFJNOFpPRkpCN0pNUmZsa080SzQ2Wmc2YTVDM21Ed0hCZlF2ZldjbHJWVVY5VWYxNUZZeXZDVUtYakZrWjd5Mll2WjM1VWM?oc=5",
    "title": "어민지원 수산발전기금, 25년간 기업 기부금 한 푼도 없어",
    "summary": ""
   },
@@ -5085,7 +5096,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g24",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5137,17 +5148,6 @@
    "source": "Fastmarkets (영문)",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3F2bERRMnJYTzJab21VVm16UEM4YmhTdjR5TnkybkhNTjNObFRTOENlcmN3a0dHTk16b1RJbGswMTA2RGtSdE5OY0xTQmhHMkE3MXh2N2pWdnpJY1MwaEdhdDR0aGxUSlp1bkNYVkpaVEI3S1RmNmEtaXJiSU1La2pVZVZMSEJBbEJ2WXB6Zm9nc3BIZFQyRWVDR0pEMzVIOXRwY2RfUElfMENxLXRwMmdfUi1DbmxqSnJhdWc2WTFKZzhjeTA2U29TTEY1cGhKd0VpVUdDRlB2eGhfYTYtVFJLSFJPWXZm?oc=5",
    "title": "FAO Food Price Index rises in September on higher cereal, vegoil prices and benchmark at highest since November 2022",
-   "summary": ""
-  },
-  {
-   "id": "g57",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Marine Link (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FCb0JFOVprU3hWcC15Rm9laEgyMDdZcjhuVzA3VjRiSWViZEhDZ0J2eElPX3RINno0RFRMT016TDFoUWU5X1UxdjVZRFdfcFdqZVFoZXM1dW42MWJjdXY1YTRwQklwbDY3ZnMxYUdlRFNkWmNLWi1LZ0RhdFQxUzh3?oc=5",
-   "title": "EU Wheat Prices Rise After Another Black Sea Attack, Algerian tender",
    "summary": ""
   },
   {
@@ -5228,18 +5228,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
-   "d": "2026-10-12",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
-   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
-   "summary": ""
-  },
-  {
-   "id": "g56",
+   "id": "g57",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5268,7 +5257,7 @@
    "item": "cabbage",
    "source": "한국경제",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWjUwYXc3OG1yMXdfbjlKLWRERkUyamZpZTlnNUF6bl9tVmFuRkpIVEkyaEFPYnNDRGNjRFRJV3Z1OVZReG1pdmVNT0xQa0N4cWNTcGl0VEV1QQ?oc=5",
-   "title": "\"올해는 金배추 아니라더니…\" 김장 앞두고 난감해진 이유가",
+   "title": "배추 내렸지만 양념이 금값…'김장 물가' 부담 더 커진다",
    "summary": ""
   },
   {
@@ -5379,6 +5368,17 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XYUdXX2JMVXVwTUdKN1g0amZFZUxWbVdaYTI5MDc2YmxlZ2ZiMkZlQmxpRzcxSVZ6dGxUeXZ6bEZKd1BQd05qdUNqYUhNdUtDQnBTaVFDNndGVWfSAWBBVV95cUxOT2p5MW1oSktoWXZrUjFRTFhrQmpmb3ZZTXpGSGdEb3BQeW1TMy1QWWJvQ2RCRVlhQTA2NFBwNlhZcjFucXJGQ3dVSGxDV3ZGSG1ORDRheWdEODRuRkE5QWg?oc=5",
    "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
+   "summary": ""
+  },
+  {
+   "id": "g56",
+   "d": "2026-10-10",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "Farm Progress (영문)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
+   "title": "Wheat prices climb as Russia, Ukraine seek export workarounds",
    "summary": ""
   }
  ],
