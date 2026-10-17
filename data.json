@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:23:53.992Z",
+ "updated": "2026-10-17T09:20:35.245Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4762,7 +4762,7 @@
    "item": "wheat",
    "source": "매일경제",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TQWVkRHlKMFR2Rm9zRlFnWVBFU1pFVnN6SjhpZG5vdjNUM2k3N3ZwNUoyLXRtT091SjFBVUhXdWRXT0k0MGZyWGJyOVkxUmE2RFE?oc=5",
-   "title": "호르무즈에 꽉 막힌 비료 수송길 … 곡물 풍년에도 식량가격 들썩",
+   "title": "호르무즈에 꽉 막힌 비료 수송길 … 하반기부터 식량가격 들썩",
    "summary": ""
   },
   {
@@ -4778,6 +4778,17 @@
   },
   {
    "id": "g41",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "노컷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XU0VjUF9FcFhtZW91R0ZKaHQxUzlQM296VEE5NnBhTnBEWlFESFpoM0U0dmhnbGFCc3Ryb1BBZ3NjS0tCdjJ3NU9XRm5HaTJvVXc?oc=5",
+   "title": "채소·과일류 등 농축산물 가격 하락세…소고기·달걀 등 축산물 등락 엇갈려",
+   "summary": ""
+  },
+  {
+   "id": "g42",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4909,28 +4920,6 @@
    "summary": ""
   },
   {
-   "id": "g43",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "K채널",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJTTRJTG82amlTbGcxTEZsYlpEbnFpay1CUkRQV3lZb2Rmc3Znb1JrbHBTQ2U0WHBMME4ySjFqNld4ZGZWRDROclZBNTkwNVE2bUxQalNRT1U4ajJzeFRWcm1LWDR4R3lhUlE?oc=5",
-   "title": "경기도농수산진흥원, ‘도래미마켓 제철과일 특별전’ 개최",
-   "summary": ""
-  },
-  {
-   "id": "g3",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "아시아경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMnJXdGg3bU1TWFZCOE9mSmNWN05GQl93U1gtVk1EcHlnZ3diY3FGVm5SM3ZCNXlaZ3hWTWRma3BHU1E5RnlWUEM0NHhpUTRkMUFucnlsaEF3cGt2enJMR1l1S2oybldMUU1qdVhCdDE?oc=5",
-   "title": "\"배추값 떨어졌다면서요\"…김장 하려던 주부가 깜짝 놀란 이유",
-   "summary": ""
-  },
-  {
    "id": "g5",
    "d": "2026-10-14",
    "region": "국내",
@@ -5035,13 +5024,24 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
+   "source": "경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
+   "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
+   "summary": ""
+  },
+  {
+   "id": "g2",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
    "source": "nbn 시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
    "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5228,14 +5228,14 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
    "item": "palm",
-   "source": "토요경제",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSdIBb0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSQ?oc=5",
-   "title": "삼양식품·농심, 3분기 이익 동반 증가 전망…해외가 실적 견인",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
+   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
    "summary": ""
   },
   {
@@ -5316,7 +5316,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g36",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5360,7 +5360,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
