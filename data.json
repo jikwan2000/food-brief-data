@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:18:13.651Z",
+ "updated": "2026-10-17T21:18:10.880Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4953,6 +4953,17 @@
    "summary": ""
   },
   {
+   "id": "g50",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "NerdWallet (영문)",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FRkNyNV9nVm5vTnlael9YQTlhV25vM21nVXlETHhLV252dV9DUk1RemYtT0ZhUk53ME0tWkJUVkNJeWRQQVkzWTgxVjd1dWw5QkotRG9UTmdmeHlNRkh5QnpGNVBGRjRHVnY1amZzem5lcDA?oc=5",
+   "title": "Why Is Beef So Expensive?",
+   "summary": ""
+  },
+  {
    "id": "g5",
    "d": "2026-10-14",
    "region": "국내",
@@ -5019,17 +5030,6 @@
    "summary": ""
   },
   {
-   "id": "g51",
-   "d": "2026-10-14",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Civil Eats (영문)",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTY2ZGhMck9WTVJja0ZjMkozVFBSS2s4WTBuMEFLRndyTU9qczhQaG8yaVdscGRnRnBkOHJLTWxpN2wzbFRWcG5NYmZXQTFfVDFPaUdiV3d5cE5hQzRjSjdGem4zUk5SdWl0T0RHVnBRN1Y0Z2dSY193OHVBdXFMeDVicWNuWmQzTWtnM0RNSloxOTBEcWpQV1pyamE5MjFfSVBKZFlPWTJRTk1BRGF4Qnh1aXo0UQ?oc=5",
-   "title": "30 Days After Increased Beef Imports, US Ranchers Are Getting Paid Less for Cattle",
-   "summary": ""
-  },
-  {
    "id": "g59",
    "d": "2026-10-14",
    "region": "해외",
@@ -5085,7 +5085,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g19",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "축산물",
@@ -5140,7 +5140,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g51",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "축산물",
@@ -5159,6 +5159,17 @@
    "source": "Fastmarkets (영문)",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3F2bERRMnJYTzJab21VVm16UEM4YmhTdjR5TnkybkhNTjNObFRTOENlcmN3a0dHTk16b1RJbGswMTA2RGtSdE5OY0xTQmhHMkE3MXh2N2pWdnpJY1MwaEdhdDR0aGxUSlp1bkNYVkpaVEI3S1RmNmEtaXJiSU1La2pVZVZMSEJBbEJ2WXB6Zm9nc3BIZFQyRWVDR0pEMzVIOXRwY2RfUElfMENxLXRwMmdfUi1DbmxqSnJhdWc2WTFKZzhjeTA2U29TTEY1cGhKd0VpVUdDRlB2eGhfYTYtVFJLSFJPWXZm?oc=5",
    "title": "FAO Food Price Index rises in September on higher cereal, vegoil prices and benchmark at highest since November 2022",
+   "summary": ""
+  },
+  {
+   "id": "g57",
+   "d": "2026-10-13",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "Marine Link (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FCb0JFOVprU3hWcC15Rm9laEgyMDdZcjhuVzA3VjRiSWViZEhDZ0J2eElPX3RINno0RFRMT016TDFoUWU5X1UxdjVZRFdfcFdqZVFoZXM1dW42MWJjdXY1YTRwQklwbDY3ZnMxYUdlRFNkWmNLWi1LZ0RhdFQxUzh3?oc=5",
+   "title": "EU Wheat Prices Rise After Another Black Sea Attack, Algerian tender",
    "summary": ""
   },
   {
@@ -5184,7 +5195,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g18",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -5250,7 +5261,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g56",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5368,17 +5379,6 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XYUdXX2JMVXVwTUdKN1g0amZFZUxWbVdaYTI5MDc2YmxlZ2ZiMkZlQmxpRzcxSVZ6dGxUeXZ6bEZKd1BQd05qdUNqYUhNdUtDQnBTaVFDNndGVWfSAWBBVV95cUxOT2p5MW1oSktoWXZrUjFRTFhrQmpmb3ZZTXpGSGdEb3BQeW1TMy1QWWJvQ2RCRVlhQTA2NFBwNlhZcjFucXJGQ3dVSGxDV3ZGSG1ORDRheWdEODRuRkE5QWg?oc=5",
    "title": "[팩트체크] 중국서 잡아 제주서 말린 생선…제품명에 '제주' 붙여도 될까",
-   "summary": ""
-  },
-  {
-   "id": "g56",
-   "d": "2026-10-10",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Farm Progress (영문)",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYldLcDU3LWE0dE90THhYcDNHdVNGa1pHWlNXOTU2SFZvcVhzc0N5eEdYTU9hMFJQeEVFQjBENkwzVnRZZTRPWUJWNGVwdDREVWgxOEpPTlczY3Awb3VmUDRJWmk1Q0ZLZm5zby00R2J6MVMwUV85UElEWFl2NF9meU0wMm1FMTBnWUhhaThpVlotcV90dFVMcThPbHRDakh2TVB6YQ?oc=5",
-   "title": "Wheat prices climb as Russia, Ukraine seek export workarounds",
    "summary": ""
   }
  ],
