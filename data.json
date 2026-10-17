@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:25:35.642Z",
+ "updated": "2026-10-17T03:21:21.338Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -942,9 +942,13 @@
     [
      "2026-10-16",
      4990
+    ],
+    [
+     "2026-10-17",
+     4067
     ]
    ],
-   "base": 5813.933760683761,
+   "base": 5730.1025641025635,
    "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
   },
   "rawsugar": {
@@ -4740,7 +4744,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g28",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4762,7 +4766,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4835,7 +4839,7 @@
    "item": "rawsugar",
    "source": "The New York Times (영문)",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "A Global Sugar Crisis, Made and Felt in India",
+   "title": "El Niño Threatens Global Sugar Supply",
    "summary": ""
   },
   {
@@ -4861,7 +4865,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4869,6 +4873,17 @@
    "source": "한국식품의약신문",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94QUF1TFBDQWwtdlNYNW5XRzRwdldCQ2V6VmJIeVV6TGtkTzNxRlIzU09jbHp2MGhqS1MwbWpRYnUwX3RxWmZKOHJEQmhPSnN1UWxyVDg0eWt2ek1kZnM2Sm1QMTI1dVk?oc=5",
    "title": "국제 원당값 3분기 22.9% 급등…국내 식품업계 영향 제한적",
+   "summary": ""
+  },
+  {
+   "id": "g29",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82eVRKZFNma0l4aUpMYURBcGFZdlVxMWdveTlLU3NhdnJfeWk4c2p5YW0wM1Y0NGF4emVpbzBzUXpUSkF2UUdSUG1pWVZ3RWpER2RodtIBVEFVX3lxTE82eVRKZFNma0l4aUpMYURBcGFZdlVxMWdveTlLU3NhdnJfeWk4c2p5YW0wM1Y0NGF4emVpbzBzUXpUSkF2UUdSUG1pWVZ3RWpER2Rodg?oc=5",
+   "title": "중동發 곡물가 상승에 사료값 ‘불똥’… 밥상물가 위태롭다 [농어촌이 미래다-그린 라이프]",
    "summary": ""
   },
   {
@@ -4960,7 +4975,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g25",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5070,7 +5085,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g23",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5191,7 +5206,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g27",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5290,6 +5305,17 @@
    "summary": ""
   },
   {
+   "id": "g26",
+   "d": "2026-10-11",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "세계일보",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTdIBVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTQ?oc=5",
+   "title": "가격 담합 철퇴 맞은 설탕제품들",
+   "summary": ""
+  },
+  {
    "id": "g36",
    "d": "2026-10-11",
    "region": "해외",
@@ -5323,28 +5349,6 @@
    "summary": ""
   },
   {
-   "id": "g23",
-   "d": "2026-10-10",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "연합인포맥스",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04Y1A0elFyVWZOTllFVy14Z2tlWjFXckN0M3JCR21PYlF3NHlFX2NVZU9wUUVOS1JtajJtVGk5eVBObWlfZnNfbklKRkhfcUZGckc4QWRqOTh0ZEJjc0wxNWMya1ppQWsxNGt6UVo2b0I?oc=5",
-   "title": "설탕값, 10년 만 최대폭 급등…\"국내 식품株 영향은 제한적\"",
-   "summary": ""
-  },
-  {
-   "id": "g27",
-   "d": "2026-10-10",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "세상을 바꾸는 시민언론 민들레",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tV1JKZkNjOFVNUzIwaURWTEJWejE4dEhraG1XN1d2Mklla0hHREhTcW81ZFl6TDhjdGk2aHhFM3MyaHUwdVR1cHlOZDJVanVkX2FJZ013aVpHUVlnd0YzbzBGX0FscjdESEdTXw?oc=5",
-   "title": "애그플레이션의 습격?…진짜 공포는 내년에",
-   "summary": ""
-  },
-  {
    "id": "g40",
    "d": "2026-10-10",
    "region": "해외",
@@ -5356,7 +5360,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
