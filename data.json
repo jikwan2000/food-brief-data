@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:21:30.525Z",
+ "updated": "2026-10-17T15:18:23.049Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4733,6 +4733,17 @@
    "summary": ""
   },
   {
+   "id": "g1",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcFR2TG9fTHhrU1E2YkJSWmZ2MC1XQ1JaSGhQbFFOci03LUNTb0VlLWRPeVZxaXROZ1hDdUhVWk5EbXNPR1A2YUtmN09XT2VKWmZFOVVwRmR1NVR1NXJPbFNTeFdIZ0xUa3ZF0gFwQVVfeXFMTjNwRFRfdFk2QlhqRVlPOHlISzFpd0hsQVc5NS1NXzJOQklUSnkyYzVPZlBlVkdSUURRUTZoeEtJMENGU1RYcUcxMlNHT3I5MVVRanJxT3Z5QV9pTDBxVk1VNmJoVTlhR25iZTVSVlh5cA?oc=5",
+   "title": "배추·무 가격 내려도...여전히 부담스러운 김장물가, 왜? - 머니투데이",
+   "summary": ""
+  },
+  {
    "id": "g6",
    "d": "2026-10-16",
    "region": "국내",
@@ -4740,7 +4751,7 @@
    "item": null,
    "source": "전업농신문",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41UWJZM2tCYjM5TmRIX19WWFcyMDhnUkVvWGJCSjh2bnVScThkdDFfa3pNc2pXdDA0OWhNbG96bndhdHk3Z1c4N2g0eE9INnp1azhZUEJaaHBwcW14bHR3cWFOeDY1bGpFYXh4Rw?oc=5",
-   "title": "농산물 가격안정제 본격 시행…마늘‧양파 우선 적용",
+   "title": "농산물 가격안정제 본격 시행…마늘·양파 우선 적용",
    "summary": ""
   },
   {
@@ -4788,7 +4799,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4799,7 +4810,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4942,6 +4953,17 @@
    "summary": ""
   },
   {
+   "id": "g43",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "K채널",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJTTRJTG82amlTbGcxTEZsYlpEbnFpay1CUkRQV3lZb2Rmc3Znb1JrbHBTQ2U0WHBMME4ySjFqNld4ZGZWRDROclZBNTkwNVE2bUxQalNRT1U4ajJzeFRWcm1LWDR4R3lhUlE?oc=5",
+   "title": "경기도농수산진흥원, ‘도래미마켓 제철과일 특별전’ 개최",
+   "summary": ""
+  },
+  {
    "id": "g5",
    "d": "2026-10-14",
    "region": "국내",
@@ -5030,7 +5052,7 @@
    "summary": ""
   },
   {
-   "id": "g1",
+   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5041,7 +5063,7 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5049,17 +5071,6 @@
    "source": "nbn 시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
    "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
-   "summary": ""
-  },
-  {
-   "id": "g3",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pN0RPMkZ3Z2xpRjU1T0FIb0k3ZTNNdUtfYzg0M2Z6c29CcHJEbTk5Qmt1T0hpbUlmNERhMElSUlRSeUUybTZndTNXSUozb0lkczhlUS1PYXl0Zw?oc=5",
-   "title": "[2026년 10월13일(화)] 배추·쪽파·양파·고구마·포도 경락값 분석",
    "summary": ""
   },
   {
@@ -5123,9 +5134,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "corn",
-   "source": "돼지와사람",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHpFNXNMZWpyLXZxWGRQRF9aNU5Cem5WVXRVQ0tWc1htNklIU2hXRkloRU1VUHhkQThDMm0zbDNHdENnZEFQX3gzS3JaWGJYS2pjUmRmQ2xpS0RlZFdhVlNTOUY?oc=5",
-   "title": "환율 덕에 사료곡물 수입가격 하락 전망…국제곡물 선물가격은 상승세",
+   "source": "한국식품의약신문",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQei1IbHh6MU42ZmFXSnhmck9zMDN0T3ByVHhMUlFqUTM2YjB3WUpBR1RWYmRMX2xKM1lyakl0dHprOGIya0F2OUQ5aWJ5MTNNcTJYTHN4Ym16S3VfdWhPVUZZRlZwSTA?oc=5",
+   "title": "옥수수 공급망 불안, 장바구니 물가로 확산…상시 대응체계 필요",
    "summary": ""
   },
   {
@@ -5338,18 +5349,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
-   "d": "2026-10-10",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWW1TSWRTR25LQjA1NzIycERVMVZSRzhwNG9wUWlsdndWeDlrOXc2NXZiQ0l0eUZOMUY4VFFXMVdJWnlPNlRwZ0Y2MVdpRm5BbGx2ajRlLVJZbFBHaGFkY1BSeDRNeF9kcmhiNTJyZzNvZTBUdzJSMl9QWWpEZXhHMVAzRkRvT1NKNWx1OUlmUE9pYXBzMVJnYWJVcG4zQUc0UUgyU0p5RnJhUW1Ib1lNNzh1am00em4tR1hQNWp3RHppT21VWWlZRDJFQzBSTEZY?oc=5",
-   "title": "슈퍼 과일 게임 분류와 테마 분류",
-   "summary": ""
-  },
-  {
-   "id": "g43",
+   "id": "g42",
    "d": "2026-10-10",
    "region": "해외",
    "cat": "농산물",
