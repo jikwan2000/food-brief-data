@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T03:22:02.047Z",
+ "updated": "2026-10-18T06:23:12.998Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4710,7 +4710,7 @@
  },
  "news": [
   {
-   "id": "g43",
+   "id": "g41",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -4721,7 +4721,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g52",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -4776,7 +4776,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g28",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4787,7 +4787,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g39",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4798,7 +4798,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4820,7 +4820,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g45",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4831,7 +4831,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4842,7 +4842,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g47",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4853,7 +4853,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g48",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4864,18 +4864,18 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g53",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
    "source": "The New York Times (영문)",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "El Niño Threatens Global Sugar Supply",
+   "title": "A Global Sugar Crisis, Made and Felt in India",
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g54",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4897,18 +4897,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
-   "d": "2026-10-15",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "매일일보",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xaFp1Mzc2ekMzdnhxQTBTMjlRZ0hwUDltR0w1QWttUkFab1c3Z0lFYXQ4YUJnMEEwX3loczlEb0JsbU11anNRcG5oZnlZZ2VsVXVxZGNQVTdWWjJuQkdiSGhhTy0?oc=5",
-   "title": "계란값 다시 7000원대…겨울철 AI 확산에 가격 불안 커지나",
-   "summary": ""
-  },
-  {
-   "id": "g24",
+   "id": "g23",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4919,7 +4908,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g29",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4930,7 +4919,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g31",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4941,7 +4930,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g34",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -4952,7 +4941,18 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g43",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "K채널",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJTTRJTG82amlTbGcxTEZsYlpEbnFpay1CUkRQV3lZb2Rmc3Znb1JrbHBTQ2U0WHBMME4ySjFqNld4ZGZWRDROclZBNTkwNVE2bUxQalNRT1U4ajJzeFRWcm1LWDR4R3lhUlE?oc=5",
+   "title": "경기도농수산진흥원, ‘도래미마켓 제철과일 특별전’ 개최",
+   "summary": ""
+  },
+  {
+   "id": "g49",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -4985,14 +4985,14 @@
    "summary": ""
   },
   {
-   "id": "g11",
+   "id": "g14",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "수산물",
-   "item": "mackerel",
-   "source": "부산일보",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcGVLOHpqZFh1R2p1UFByX2hPbU9LdUdMbV9tbXpXYXBKZjB4TnYzRXc0UXMwX21mMlJDYXpGX2ozVVlFRWh5NTRfVmU2WWd0XzdyaXlueS1FVzBDcnd2eDlKR2RrMGp1bVFCcmIyNTNBZw?oc=5",
-   "title": "[골목시장, 다시 장날] 곰장어·선짓국에 고등어까지… 서민들의 밥상 지키는 충무동해안시장",
+   "item": null,
+   "source": "환경일보",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Oc0poaDBjQ0NpREdMb0xaNmhUR1d6TU1adzhUb1d4bThqNjAybnpOZHZvX3YyTVNJUFgxRVpkY3h4QVpCN0k5LTh1OUF5Nm16RmxqS05yUVRMTk1MUk1wRXlZckFsR1ZJ?oc=5",
+   "title": "수산발전기금 25년간 기업 기부 전무",
    "summary": ""
   },
   {
@@ -5007,7 +5007,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g37",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5018,7 +5018,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g50",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "축산물",
@@ -5029,7 +5029,7 @@
    "summary": ""
   },
   {
-   "id": "g59",
+   "id": "g58",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5073,7 +5073,7 @@
    "summary": ""
   },
   {
-   "id": "g13",
+   "id": "g12",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "수산물",
@@ -5084,10 +5084,10 @@
    "summary": ""
   },
   {
-   "id": "g21",
+   "id": "g18",
    "d": "2026-10-13",
    "region": "국내",
-   "cat": "정책·유통",
+   "cat": "축산물",
    "item": null,
    "source": "축산신문",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95TVdhUGh2OXM0WGlJS2ljU01MQ2c4amYtSDQ1TURtRkxDRi1veXFkZWlNaUt6c2thLVlGUmNUVExiakdkMlN2ODcyaFlxQm9kUThETGxELWM5TnhITktKTTV3bUtRZXFi?oc=5",
@@ -5095,7 +5095,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5106,7 +5106,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g30",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5117,7 +5117,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g32",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5128,18 +5128,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3RaekNQTlZaZVFSdnVTMFhYeERDcGJReUxnQlR6a0Fsc2hzc0dNODFyWHVVUG1SN0dRanBpajNrekNQeDFnR1FLVkJERDZrdEdZNzNYNF8tZHBmdDJXeGpxZHFzSkEwNlQzMU5lYVppWjR5bzFFakVqRnp5Nm5OaWg4TUd0Y0FLQkRWdENGRktxTGZtTVE?oc=5",
-   "title": "보스턴 터미널 마켓 과일 가격 보고서: 2026년 10월 13일",
-   "summary": ""
-  },
-  {
-   "id": "g52",
+   "id": "g51",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5150,7 +5139,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g56",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5172,7 +5161,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g13",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "수산물",
@@ -5183,7 +5172,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g16",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -5194,7 +5183,18 @@
    "summary": ""
   },
   {
-   "id": "g22",
+   "id": "g19",
+   "d": "2026-10-12",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "문화일보",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hQWJfWXFCYm4wR3k3amFiYXBQU2FncnBpeGVfd1kwT3lJWnVFaVZjUDQ3UFllY1hsanF3eWMxTnVjdWFpWS1pYWhkRTZTanRt?oc=5",
+   "title": "정부, 계란한판 3만9천원 수입해 4980원에 풀었다는데",
+   "summary": ""
+  },
+  {
+   "id": "g21",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "정책·유통",
@@ -5205,7 +5205,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g22",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "정책·유통",
@@ -5216,7 +5216,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g25",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5227,7 +5227,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g27",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5238,7 +5238,7 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g33",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5249,7 +5249,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g36",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5260,7 +5260,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g55",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5271,7 +5271,7 @@
    "summary": ""
   },
   {
-   "id": "g58",
+   "id": "g57",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5293,29 +5293,18 @@
    "summary": ""
   },
   {
-   "id": "g12",
+   "id": "g11",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "수산물",
-   "item": null,
-   "source": "녹색경제신문",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdTdFaVVqeFp0cFNaRi1fRWlKbzh6LXp3Z3Y5VUFtUmJfaVIyWWU4NkxnY0ZmSV9nSXNkT0xNbnhOdFhDS19BWkVOQ1pFbFhUZlBWWjg4VVhRRFpJNnNLdG1VbEIta2ly?oc=5",
-   "title": "해수부 ‘수산물 상생할인’ 수치 오류 논란…수입산 66억 지원, 어민 소득 효과는 미검증",
+   "item": "mackerel",
+   "source": "자본시장뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BMmV1THdncmFnVWI4RTVjMXlDOWZmcHVSY3poOTdKWC1ZbW1kSTBLekcwY1UtZ2M5cXhTSm9feDJKNDFPbm5EdzkycktHQzlYTzJFRjZ1czRVMVVXdTFIT2dCb3B5S1U?oc=5",
+   "title": "[데스크칼럼] 평균 8% 인상인데 햇반은 12% 올랐다",
    "summary": ""
   },
   {
-   "id": "g16",
-   "d": "2026-10-11",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "조달경제신문",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qdTFORmIzc3QyWjhzX0Z1SXhWZmYtUG1ZNkstQy1RX0h1Z2lJdEFRWWcxcV9FYVctenV6Q3hVclp0NTF4X3ZjQ3ZLNlRTTVVSTTdXWlZaMk9jMmEtOWwtSTVrMndMVnFZLW9pR3R3?oc=5",
-   "title": "국감 쟁점 된 '1,300원 브라질 계란' 데이터 추적해보니…",
-   "summary": ""
-  },
-  {
-   "id": "g18",
+   "id": "g17",
    "d": "2026-10-11",
    "region": "국내",
    "cat": "축산물",
@@ -5326,18 +5315,18 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g26",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "세계일보",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTdIBVEFVX3lxTFBsNGNybEJKSHp2ZjdzcHQ5UnFoNUo0ajVROEc3bTY1TWVQUklILUlYb2pqTkdFVUx4RTdERmdObDZzYnpoUURsTzV2ZGZISUtjVG5FTQ?oc=5",
-   "title": "가격 담합 철퇴 맞은 설탕제품들",
+   "source": "경향신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qNUxNS2x4azNjWmhOdFhnZ01ZWVNDcE50bGNoOWVCYWJKc2xfUXJFWUpoSWZIQU9lWHdRUGg1akJQekNRU3ZPQzRFUDVoeGFPaUZYMy1EZDJfd9IBX0FVX3lxTE5jNF9Qc0dHWE4zZUpDRlN6MURxempkZmZXVTBBbWJmXzhsdU1vaFJfeUJSNFhmbkU3eVZncEh5dlNra3JiYUdkQ3gzVWt5cW5PLWI1SDBFY1J5d2J4VVpz?oc=5",
+   "title": "[포토뉴스]삼양사, 설탕·밀가루 등 가격 담합으로 누적 과징금 1위",
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5348,7 +5337,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g38",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
@@ -5359,7 +5348,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g44",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "수산물",
