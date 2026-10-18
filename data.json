@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:18:36.104Z",
+ "updated": "2026-10-18T21:17:43.425Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4842,7 +4842,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g27",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4850,6 +4850,17 @@
    "source": "매일경제",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TQWVkRHlKMFR2Rm9zRlFnWVBFU1pFVnN6SjhpZG5vdjNUM2k3N3ZwNUoyLXRtT091SjFBVUhXdWRXT0k0MGZyWGJyOVkxUmE2RFE?oc=5",
    "title": "호르무즈에 꽉 막힌 비료 수송길 … 하반기부터 식량가격 들썩",
+   "summary": ""
+  },
+  {
+   "id": "g29",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "Investing.com 한국어",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNDlGQUdraFNEdVNqYlhYRWNhd2NqOEExZXRoQmJLZXhVVGxRRGo3el9EbWJseEtSQVdySzJ1ZURES0xIbkRWWXJ2d1JxOVpXTFYyeW1tTXJBUFRhRUN0UmlQZE1XYUU4cTlrN21RdUE?oc=5",
+   "title": "[원자재 시황] 반도체 투매에 금값 반등…WTI 98달러 육박 By EBN",
    "summary": ""
   },
   {
@@ -4985,7 +4996,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g28",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5008,17 +5019,6 @@
   },
   {
    "id": "g33",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "마켓인",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
-   "title": "“불닭 해외서 더 잘 팔리네”…주가 10% 빠진 삼양식품, 175만원 간다는데",
-   "summary": ""
-  },
-  {
-   "id": "g34",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5304,14 +5304,14 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g35",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Investing.com 한국어",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFUm9ZU0pIWWJGUWtlenBOdUVBUVpvZkJYSXczdDFPb3huQ0N2R2kzMGJLQjBCRDRsNGVFNjhtZWp0RU12NGFqaEJ3UlhLXzlIM05BZ3AtT3ZQN3pQdHdtYkt2U0tocERxSk56cU55d20zeGdHZ2c?oc=5",
-   "title": "유럽 밀 선물, 알제리 구매 입찰 발행에 상승",
+   "item": "palm",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
+   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
    "summary": ""
   },
   {
@@ -5337,7 +5337,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g34",
    "d": "2026-10-11",
    "region": "해외",
    "cat": "가공·소재",
