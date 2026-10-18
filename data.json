@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:20:55.435Z",
+ "updated": "2026-10-18T15:18:42.530Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4710,6 +4710,17 @@
  },
  "news": [
   {
+   "id": "g0",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Nl85T0ZEZkVycDgxc3lScFFYekttY3NSWlp4SVF4dU96ckRLd29sR1NnTHQ0WUpRU05tdThpaEd6UmN5cm9JMkcxLWp1N3ZNalQ2YkJLZzdRSDF5alR5elUyZVJzLTQ?oc=5",
+   "title": "김장철 앞두고 배추·무 가격↓…새우젓 30% 급등",
+   "summary": ""
+  },
+  {
    "id": "g43",
    "d": "2026-10-18",
    "region": "해외",
@@ -4721,7 +4732,7 @@
    "summary": ""
   },
   {
-   "id": "g1",
+   "id": "g2",
    "d": "2026-10-17",
    "region": "국내",
    "cat": "농산물",
@@ -4743,7 +4754,18 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
+   "d": "2026-10-17",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "브런치",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CWmJfN0UxVW8tdFVVVV9QTnY3TDNDS185eTVJTmcxdzA5NlpzQmdHU040LXhUV0JSOHFZNEg0elNIY2oyTFZkQm1R?oc=5",
+   "title": "농산물 유통개혁과 수출전략",
+   "summary": ""
+  },
+  {
+   "id": "g42",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -4765,7 +4787,7 @@
    "summary": ""
   },
   {
-   "id": "g0",
+   "id": "g1",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "농산물",
@@ -4842,7 +4864,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g41",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4913,9 +4935,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "S&P Global (영문)",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
-   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
+   "source": "Barchart.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmNyWXJzOGlrakpvOTl6MWQ1dDdPV0pCeEJmbWxkRk41eTlYSzk0aW55dmRUa3pTS0JneWlOUk5RNG8yZlNMS1h4S01pZ19rX3VVZnNuUGtJU1o3NEFGMHhFNWY3dDAtSkFUV2dFTm5zdU9GTEh0dXdqUzhWUG02YjRUUnM4UWZjSkRwamxkZ0Yyby04TUhKUzNSNEFaWkpGV0ZYSg?oc=5",
+   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
    "summary": ""
   },
   {
@@ -4938,6 +4960,28 @@
    "source": "머니투데이",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LYzVld2dPT3NZMVNyeUhqaXRIdWx5M1dVQkpJcjRzWnE0QVpMeFkxbHpXYVEyTmxxQjh6TW1JU3k3b2lUS3BybjlwZjJYUV82NWhZOVJKUGVFN3FUbkJfOHhZeFl6cGliT2lV0gFwQVVfeXFMTkluMnVsQmFLWDIxV19NNHpILUtOWkktdEpnTC1IMDlva2dIV2dUQWd5T2FBdU0zbnl5RXRUN2ZsY3J5ajFyUVJxTHd0NThNV0lzOEM4VEQ2eVE5VWdJb2Z5d2YtZ1lCTWZkRUlIbGxmdQ?oc=5",
    "title": "[농담] 유통혁신 외치는데 도매시장은 동시휴업…농민 출하권 누가 지키나 - 머니투데이",
+   "summary": ""
+  },
+  {
+   "id": "g19",
+   "d": "2026-10-15",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "동아일보",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NQU5PN1hvTWF5SzNESnVOeG94Z2dvd2R5RjhEclUtd05ueVpiV1NlYkF6RXBnTUJpd3lrTXZueEFkUnBCQVBtbjhEVjlTRWFLQVdZR1RHSDlRbkNjcWZjdmV3YkszR3VBc0lfZURXUml3N210cHfSAWZBVV95cUxQVERObWpHa25ZdDRCYTN0eHY3SmRYUnNXTDdOcndlNWY4MmhIN3FNSDRjeDZKRDlXSzQwZnZzTW9yamRtX0hrNHhFVDFZdGNRcWdrR0tLeWlIekRTcHFGOVV2c1E2Smc?oc=5",
+   "title": "브라질산 계란 한판 수입가 4만4000원…올해만 16억 썼다, 왜?",
+   "summary": ""
+  },
+  {
+   "id": "g26",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "뉴스핌",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmVNZWNHUmJHU01aYzNsUzdKalExelhHdHFxcVBtQ2dLbGd1eWEzMlNkeTZSdzZtY0U0eGpuNHNEZjJrYVgwcU14S0ZmYkxhSTJXU3I0ZEJJajV1?oc=5",
+   "title": "[인도 특징주] 설탕 인플레에 엇갈린 소비재 주가… 제과株 울고 다변화株 버틴다",
    "summary": ""
   },
   {
@@ -5084,7 +5128,7 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
@@ -5092,17 +5136,6 @@
    "source": "경향신문",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jUldlTk82Y3doLW83VGNfYmJTdTRzS2ZlM3BFaVNZeVlBS3lfR2NMdm1fN1gxcGZRcnpPUE55b3hHRThTelJmYm9EcC02TVY1UTQtV1doMkdkQdIBX0FVX3lxTE9GajNQM0RrNDY0YXJXX0hES2Z2aUVxS2pxWThQcmNFZG9ncjV0c0ZVN09wdTZzVHdKRk8zcWVBSk4teDljYkNUWkl1RXpud3NiQk15UVNiVVBJYlRaSzB3?oc=5",
    "title": "“김장 할까, 아니면 사 먹을까” 4인 가족 김장 가격 따져보니…",
-   "summary": ""
-  },
-  {
-   "id": "g3",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "nbn 시사경제",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
-   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
    "summary": ""
   },
   {
@@ -5128,7 +5161,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g17",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "축산물",
@@ -5169,17 +5202,6 @@
    "source": "돼지와사람",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHpFNXNMZWpyLXZxWGRQRF9aNU5Cem5WVXRVQ0tWc1htNklIU2hXRkloRU1VUHhkQThDMm0zbDNHdENnZEFQX3gzS3JaWGJYS2pjUmRmQ2xpS0RlZFdhVlNTOUY?oc=5",
    "title": "환율 덕에 사료곡물 수입가격 하락 전망…국제곡물 선물가격은 상승세",
-   "summary": ""
-  },
-  {
-   "id": "g42",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3RaekNQTlZaZVFSdnVTMFhYeERDcGJReUxnQlR6a0Fsc2hzc0dNODFyWHVVUG1SN0dRanBpajNrekNQeDFnR1FLVkJERDZrdEdZNzNYNF8tZHBmdDJXeGpxZHFzSkEwNlQzMU5lYVppWjR5bzFFakVqRnp5Nm5OaWg4TUd0Y0FLQkRWdENGRktxTGZtTVE?oc=5",
-   "title": "보스턴 터미널 마켓 과일 가격 보고서: 2026년 10월 13일",
    "summary": ""
   },
   {
@@ -5227,7 +5249,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g18",
    "d": "2026-10-12",
    "region": "국내",
    "cat": "축산물",
@@ -5271,7 +5293,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g25",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5312,28 +5334,6 @@
    "source": "https://en.edairynews.com/ (영문)",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmloNnBMSHEzMzRzOXhaNmlKS3ZSWjNqVjRxMHZqdWRRa0hQR01kUUI5SmYwRWl6LVR0NkNJVnZraGpINC1YN1hEUTZlOHpETUVtNzRTdFVRNkU0SC1xX0R2X2ptRmcwTUV6MUF2T2tMcGllcTJhZWVwcTBRcnR4Z0sta2RQZjJISHdCOUZLNko3REhZR1lwOXJJOA?oc=5",
    "title": "Fonterra’s 25-year Milk Price Legacy Shaped By Global Market Dynamics",
-   "summary": ""
-  },
-  {
-   "id": "g17",
-   "d": "2026-10-11",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "중앙일보",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRNXVuYU51VG5fbzRFeWlud05JZXlHVUdNOTB1M09JdGt6dEt4RUtqQVNPQWdRTDFZbllKU0VERHRPb2RUX1hQVU5mSzUxZkxTRlJ3UUJ3?oc=5",
-   "title": "3만9000원에 사서 4980원에 팔았다…브라질산 계란 논란",
-   "summary": ""
-  },
-  {
-   "id": "g25",
-   "d": "2026-10-11",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "경향신문",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jNF9Qc0dHWE4zZUpDRlN6MURxempkZmZXVTBBbWJmXzhsdU1vaFJfeUJSNFhmbkU3eVZncEh5dlNra3JiYUdkQ3gzVWt5cW5PLWI1SDBFY1J5d2J4VVpz0gFfQVVfeXFMTmM0X1BzR0dYTjNlSkNGU3oxRHF6amRmZldVMEFtYmZfOGx1TW9oUl95QlI0WGZuRTd5VmdwSHl2U2trcmJhR2RDeDNVa3lxbk8tYjVIMEVjUnl3YnhVWnM?oc=5",
-   "title": "[포토뉴스]삼양사, 설탕·밀가루 등 가격 담합으로 누적 과징금 1위",
    "summary": ""
   },
   {
