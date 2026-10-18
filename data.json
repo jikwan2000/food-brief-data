@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:18:42.530Z",
+ "updated": "2026-10-18T18:18:36.104Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4732,7 +4732,18 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g52",
+   "d": "2026-10-18",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "The New York Times (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
+   "title": "A Global Sugar Crisis, Made and Felt in India",
+   "summary": ""
+  },
+  {
+   "id": "g3",
    "d": "2026-10-17",
    "region": "국내",
    "cat": "농산물",
@@ -4902,9 +4913,9 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "MBC 뉴스",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aNEdvMlZrSlAyWXhKV1l0UFhJSDNSOGZsUGcxNmNTY0NYcDd0ZWRRVHFMNElyUEh1LWxGaHR6bWI2dW04VFl0VkJOOTRMUXE4clpveldhbEIwNG41MmdmMlJ5YkZtTVJMZzV6RlRXZjkxbGRE0gF0QVVfeXFMT1o0R28yVmtKUDJZeEpXWXRQWElIM1I4ZmxQZzE2Y1NjQ1hwN3RlZFFUcUw0SXJQSHUtbEZodHptYjZ1bThUWXRWQk45NExRcThyWm96V2FsQjA0bjUyZ2YyUnliRm1NUkxnNXpGVFdmOTFsZEQ?oc=5",
-   "title": "고물가·엔저에‥日 닭고기 소비, 소·돼지고기 추월",
+   "source": "YTN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMF9rVU9IQWxPdmkyUjV2V3Q1LVJvQnBjaXJUeWkxNEZvYkV5LWxPdzd5eVNpYVFrXzMtempsS1RCNk85ZGszUUU5MDFheDlySjdjcUhnanEwT01Ob0E?oc=5",
+   "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
    "summary": ""
   },
   {
@@ -4913,20 +4924,9 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "YTN",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLcWQ2VzFlT3JzYVAtRHZTMU1IVVRzclp2UHpCN2oxNFNBd1BPb2h5RFVCNVZxc25kNHZ5S1FhcHFvNlc0bWtjWXlKR2Y5TVhTdWhhMjZmTEJCc1BXUFFxbHBOd0s4VTE0Vkp3SFNjXzBjQjRrY3c?oc=5",
-   "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
-   "summary": ""
-  },
-  {
-   "id": "g52",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "The New York Times (영문)",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "A Global Sugar Crisis, Made and Felt in India",
+   "source": "MBC 뉴스",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbVQ2RTQzOHFTcGtxajJWVDZ4RHItelhRbUFUQUtHYThFSWp1emwzanNyYnFKQk1nSjBYdWZZVkNSNmg2d3dzODRTSUJBc1lucGR6R3l0VUpDSGxibk5aa3lINmdQSXlMdjg2bGZ6X014WExq0gF0QVVfeXFMT1o0R28yVmtKUDJZeEpXWXRQWElIM1I4ZmxQZzE2Y1NjQ1hwN3RlZFFUcUw0SXJQSHUtbEZodHptYjZ1bThUWXRWQk45NExRcThyWm96V2FsQjA0bjUyZ2YyUnliRm1NUkxnNXpGVFdmOTFsZEQ?oc=5",
+   "title": "고물가·엔저에‥日 닭고기 소비, 소·돼지고기 추월",
    "summary": ""
   },
   {
@@ -4935,9 +4935,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "Barchart.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmNyWXJzOGlrakpvOTl6MWQ1dDdPV0pCeEJmbWxkRk41eTlYSzk0aW55dmRUa3pTS0JneWlOUk5RNG8yZlNMS1h4S01pZ19rX3VVZnNuUGtJU1o3NEFGMHhFNWY3dDAtSkFUV2dFTm5zdU9GTEh0dXdqUzhWUG02YjRUUnM4UWZjSkRwamxkZ0Yyby04TUhKUzNSNEFaWkpGV0ZYSg?oc=5",
-   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
+   "source": "S&P Global (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
+   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
    "summary": ""
   },
   {
@@ -5014,7 +5014,7 @@
    "item": "palm",
    "source": "마켓인",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
-   "title": "삼양식품, 환율 걱정은 기우?…해외서 더 잘 팔리는 불닭",
+   "title": "“불닭 해외서 더 잘 팔리네”…주가 10% 빠진 삼양식품, 175만원 간다는데",
    "summary": ""
   },
   {
@@ -5128,7 +5128,7 @@
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g2",
    "d": "2026-10-13",
    "region": "국내",
    "cat": "농산물",
