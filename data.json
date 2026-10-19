@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T21:17:43.425Z",
+ "updated": "2026-10-19T00:25:49.121Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3160,6 +3160,10 @@
     [
      "2026-10-16",
      258.7
+    ],
+    [
+     "2026-10-19",
+     258.9
     ]
    ],
    "base": 251.1895513227513,
@@ -4340,6 +4344,10 @@
     [
      "2026-10-16",
      1480
+    ],
+    [
+     "2026-10-19",
+     1473.8
     ]
    ],
    "base": 1211.8355732119146,
@@ -4739,18 +4747,7 @@
    "item": "rawsugar",
    "source": "The New York Times (영문)",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "A Global Sugar Crisis, Made and Felt in India",
-   "summary": ""
-  },
-  {
-   "id": "g3",
-   "d": "2026-10-17",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmblJndllJNS1HVnp5T0NubUhvZ1JNVnQ2MXRGTG1ReG4tTXViZ1pQdHNPT2ZmSjJHRUQyUno2TzJFaDZBdThkWW1NT2ZIWmhLTWJtckNIanF5WGfSAWBBVV95cUxQcHVwOWlQR2dHejNSUjZDakROeFlxcUJGem10MTRiTTRiclhFVzU0bmJaYVk2VkhMSDA3TDNjbG1ldGhFMDNxWHU5V00zamgwdVNVZ3RKTnhRTHlQZ2piTVo?oc=5",
-   "title": "배추·무 가격 내렸지만 새우젓은 30% 급등…김장 물가 변수로",
+   "title": "El Niño Threatens Global Sugar Supply",
    "summary": ""
   },
   {
@@ -5139,6 +5136,17 @@
    "summary": ""
   },
   {
+   "id": "g3",
+   "d": "2026-10-13",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "nbn 시사경제",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
+   "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
+   "summary": ""
+  },
+  {
    "id": "g7",
    "d": "2026-10-13",
    "region": "국내",
@@ -5156,7 +5164,7 @@
    "cat": "수산물",
    "item": null,
    "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3F2bVBtSTFJa2FSZ1pLMnZJN2VlYXFkSkFpVnEycWJyLURKbnNPaTN4ZXR4WHJuT3d1blVwMTZGalZsVGpPR2RtN1VXS0xpVGxvb2liZ2pFZFN0M3RZMUtvbEUyQVZZZDkxaW5WSldmRVJtcjVZUHBCSkRuQlhHbHY4WUYwUE5RRndF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qTHM4ZVVYcC1HOGpSZW1YMHJWSEJxYVNWaEIya2VjRkstWW91ZEM4dkJDN1M0UWt1UnBJWHBmWkJtN1RLRkhfckN1OXB6bE9JQnhFVzkwTk5pY2PSAWBBVV95cUxOd18yZy1UZjJjVGEzQkJOU1M5aFJNOFpPRkpCN0pNUmZsa080SzQ2Wmc2YTVDM21Ed0hCZlF2ZldjbHJWVVY5VWYxNUZZeXZDVUtYakZrWjd5Mll2WjM1VWM?oc=5",
    "title": "어민지원 수산발전기금, 25년간 기업 기부금 한 푼도 없어",
    "summary": ""
   },
@@ -5304,6 +5312,17 @@
    "summary": ""
   },
   {
+   "id": "g34",
+   "d": "2026-10-12",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "토요경제",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSdIBb0FVX3lxTE9Kb01xQlU4c1U1Q016eDBLMHV0amlWTGdiY2I4b255c19RSV9UbFdCM25HY2xrV3VHWTRWVmNxVW5FeEpuQ1dHcDFoUUV1NHNaSXlVUTEzQ3N0S3RqOERmcUdFakpuY0ZFeGxOeGFHSQ?oc=5",
+   "title": "삼양식품·농심, 3분기 이익 동반 증가 전망…해외가 실적 견인",
+   "summary": ""
+  },
+  {
    "id": "g35",
    "d": "2026-10-12",
    "region": "해외",
@@ -5334,17 +5353,6 @@
    "source": "https://en.edairynews.com/ (영문)",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmloNnBMSHEzMzRzOXhaNmlKS3ZSWjNqVjRxMHZqdWRRa0hQR01kUUI5SmYwRWl6LVR0NkNJVnZraGpINC1YN1hEUTZlOHpETUVtNzRTdFVRNkU0SC1xX0R2X2ptRmcwTUV6MUF2T2tMcGllcTJhZWVwcTBRcnR4Z0sta2RQZjJISHdCOUZLNko3REhZR1lwOXJJOA?oc=5",
    "title": "Fonterra’s 25-year Milk Price Legacy Shaped By Global Market Dynamics",
-   "summary": ""
-  },
-  {
-   "id": "g34",
-   "d": "2026-10-11",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "한국경제",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83MXM0WF93elI1MVBNQ3FIR043M1JXZHhXVjdMTWt6ZVpDWkVtTVFOUUxOWXJsMmJKTzdkOXNWNFJCZE1JMVJPNjBpUFpoblJaWFpxOG5LMURudw?oc=5",
-   "title": "\"삼양식품, 환율 영향 제한적…조정은 매수 기회\"-KB",
    "summary": ""
   }
  ],
