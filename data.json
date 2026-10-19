@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T03:25:18.580Z",
+ "updated": "2026-10-19T06:32:49.158Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3167,7 +3167,7 @@
     ],
     [
      "2026-10-19",
-     260.3
+     259.9
     ]
    ],
    "base": 251.1895513227513,
@@ -4351,7 +4351,7 @@
     ],
     [
      "2026-10-19",
-     1482.6
+     1478.6
     ]
    ],
    "base": 1211.8355732119146,
@@ -4722,7 +4722,29 @@
  },
  "news": [
   {
-   "id": "g6",
+   "id": "g4",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "경기일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbWNSSkFGbVIweFR0QjdQWW1PeXZPV0NlQVdxU3VZa0tlRXdWLWE4R0FSLTlOZ0gwV05mQm1sbmVpRjJQQ0F6bUxiVU9ib2xlMnktbXBVVV9aWjQ?oc=5",
+   "title": "농식품부, 파프리카·샤인머스캣 등 농산물 가격 하락에 소비 촉진",
+   "summary": ""
+  },
+  {
+   "id": "g5",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "더바이어",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ranpsUEJwNFhpbmRDNTBQRnh4UlpCTTVWR2NMUWdJb1h6UWNwQUNZYjJxX2Z3YWRVZ0NkQ1V4MVBmRHBYLWJRTUFxRmlNMl83TUdnTHY0ZmhEMVdwcVEyU0JpR1BtWjRSeS1n?oc=5",
+   "title": "파프리카·애호박 도매가 폭락하자…정부가 꺼내든 카드는",
+   "summary": ""
+  },
+  {
+   "id": "g7",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "농산물",
@@ -4744,7 +4766,18 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g25",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "우리경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyNnRkaWpTNnJjQlN1eWRIY3Q2c3RNOE9QVGR4ZnljTFVMOU85SlcwM1plVkRRMDFOcXVjcnA4S1Vub0ctUEJVM19jWWdreWRBck9kNXN1WWg?oc=5",
+   "title": "세계 식량가격, 3년10개월 만에 최고…공급망 차질에 식품물가 상승 압력 확산",
+   "summary": ""
+  },
+  {
+   "id": "g38",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4752,6 +4785,17 @@
    "source": "현대경제",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hay04OWdGSF9wdTZwWEE3VFh1bml5NTd5bnZIbnppOHcySUxtaWdraXNGOUFWamc1eVZnbjlPZE9Vdm94WTA2dkRMZWpIdGV6RGhHTmUwNlFyX05KWEU1WF9RaDk0bjFZeWJJ?oc=5",
    "title": "애호박 63%·파프리카 56% 폭락…정부, 농산물 할인·수출 지원 확대",
+   "summary": ""
+  },
+  {
+   "id": "g50",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "The New York Times (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
+   "title": "A Global Sugar Crisis, Made and Felt in India",
    "summary": ""
   },
   {
@@ -4766,7 +4810,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -4777,18 +4821,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
-   "d": "2026-10-18",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "The New York Times (영문)",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
-   "title": "A Global Sugar Crisis, Made and Felt in India",
-   "summary": ""
-  },
-  {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -4799,7 +4832,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g39",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -4810,7 +4843,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g49",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -4829,17 +4862,6 @@
    "source": "머니투데이",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcFR2TG9fTHhrU1E2YkJSWmZ2MC1XQ1JaSGhQbFFOci03LUNTb0VlLWRPeVZxaXROZ1hDdUhVWk5EbXNPR1A2YUtmN09XT2VKWmZFOVVwRmR1NVR1NXJPbFNTeFdIZ0xUa3ZF0gFwQVVfeXFMTjNwRFRfdFk2QlhqRVlPOHlISzFpd0hsQVc5NS1NXzJOQklUSnkyYzVPZlBlVkdSUURRUTZoeEtJMENGU1RYcUcxMlNHT3I5MVVRanJxT3Z5QV9pTDBxVk1VNmJoVTlhR25iZTVSVlh5cA?oc=5",
    "title": "배추·무 가격 내려도...여전히 부담스러운 김장물가, 왜? - 머니투데이",
-   "summary": ""
-  },
-  {
-   "id": "g5",
-   "d": "2026-10-16",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "전업농신문",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41UWJZM2tCYjM5TmRIX19WWFcyMDhnUkVvWGJCSjh2bnVScThkdDFfa3pNc2pXdDA0OWhNbG96bndhdHk3Z1c4N2g0eE9INnp1azhZUEJaaHBwcW14bHR3cWFOeDY1bGpFYXh4Rw?oc=5",
-   "title": "농산물 가격안정제 본격 시행…마늘·양파 우선 적용",
    "summary": ""
   },
   {
@@ -4876,18 +4898,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Investing.com 한국어",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNDlGQUdraFNEdVNqYlhYRWNhd2NqOEExZXRoQmJLZXhVVGxRRGo3el9EbWJseEtSQVdySzJ1ZURES0xIbkRWWXJ2d1JxOVpXTFYyeW1tTXJBUFRhRUN0UmlQZE1XYUU4cTlrN21RdUE?oc=5",
-   "title": "[원자재 시황] 반도체 투매에 금값 반등…WTI 98달러 육박 By EBN",
-   "summary": ""
-  },
-  {
-   "id": "g37",
+   "id": "g36",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4898,7 +4909,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g37",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4909,7 +4920,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -4920,18 +4931,18 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g42",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
    "item": null,
    "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMQWFlZkF3ai1ZM2JoaE5ibXZBcGxQemVPUnFYdzE4MmFtQXRxajRJcWNuR3ZRSF9FMEJqZ1ZjbGkyN2Y3OUlyVF8zMDRFM3phTVpISjR1MUtaazBRY0dIQdIBYEFVX3lxTFBMQWFlZkF3ai1ZM2JoaE5ibXZBcGxQemVPUnFYdzE4MmFtQXRxajRJcWNuR3ZRSF9FMEJqZ1ZjbGkyN2Y3OUlyVF8zMDRFM3phTVpISjR1MUtaazBRY0dIQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GTVVZdWk3QmR5ZDFSQ3FJNk9FNmtXTTdfV0lyQjZ2TFNYRlg0SUpYUTJhbUU0UGFNVm5jMVllbTBEVHNodjVvMmNxcWRya3dfWkZJNUw2OTNaN03SAWBBVV95cUxQTEFhZWZBd2otWTNiaGhOYm12QXBsUHplT1JxWHcxODJhbUF0cWo0SXFjbkd2UUhfRTBCamdWY2xpMjdmNzlJclRfMzA0RTN6YU1aSEo0dTFLWmswUWNHSEE?oc=5",
    "title": "고물가·엔저에…日 닭고기 소비, 소·돼지고기 추월",
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g43",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4942,7 +4953,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g44",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4953,7 +4964,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g45",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -4964,7 +4975,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g51",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4975,7 +4986,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g52",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -4983,6 +4994,17 @@
    "source": "Farm Progress (영문)",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
    "title": "Grains still struggling to find post-WASDE momentum",
+   "summary": ""
+  },
+  {
+   "id": "g53",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "CME Group (영문)",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RGFRVTZqQUhQeVQ5ekctQ2hhTUM1cGFheFpVZVNMa3VQdlhLbndVakUzN2Z4RWZ6cHcwVkx2c1VHc0RnLWJxOGI5TF9VXzZmVkFEX05GQjVaN19YX1Z5czJ1UWVlYlFKRDdFaHVHVUpDcDJpMGp3aklVcw?oc=5",
+   "title": "KC Spot HRW Wheat Daily Price",
    "summary": ""
   },
   {
@@ -4997,17 +5019,6 @@
    "summary": ""
   },
   {
-   "id": "g25",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "뉴스핌",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MVmVNZWNHUmJHU01aYzNsUzdKalExelhHdHFxcVBtQ2dLbGd1eWEzMlNkeTZSdzZtY0U0eGpuNHNEZjJrYVgwcU14S0ZmYkxhSTJXU3I0ZEJJajV1?oc=5",
-   "title": "[인도 특징주] 설탕 인플레에 엇갈린 소비재 주가… 제과株 울고 다변화株 버틴다",
-   "summary": ""
-  },
-  {
    "id": "g27",
    "d": "2026-10-15",
    "region": "해외",
@@ -5019,7 +5030,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g29",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5030,7 +5041,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g31",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5041,7 +5052,7 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g33",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5052,7 +5063,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g46",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5063,13 +5074,13 @@
    "summary": ""
   },
   {
-   "id": "g4",
+   "id": "g6",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "농산물",
    "item": null,
    "source": "뉴스투데이",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XcURWYjE0TkhKWDZHem5fWG1NeWQ3Z1ZLalphSUEzam5lOWNLQi1HWWpLWVdrMTJ5SzlzamRNemtacWFxajhlQnE2a0JFT1VxeGNONFc3WWY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UMDE3eDVnSmdRc09rWVo2TFoyUWRjNDFETndKcnQ4S1FuQm5WV3FyZnpfemdqd19DclVXQldxd2FYU2dXSTJ5elplTGo2QURDTk42alRFMFV6OHRmNFE?oc=5",
    "title": "농산물가격안정제 첫 시행…관건은 ‘선제적 수급관리’",
    "summary": ""
   },
@@ -5118,7 +5129,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g34",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5129,7 +5140,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g47",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "축산물",
@@ -5140,7 +5151,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g55",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5170,17 +5181,6 @@
    "source": "nbn 시사경제",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UakpwSWJzWjhqV1djWWRkQm4wSkJXNm1VUTV1blBHMTRMdmVBaHBCVTV2aXAxNnlHSHRrTnNoRUh0ekVQOHFoLVkyTXUwLWdDc3ZYeVA5OEdKRXBpVVNabW8zWkVSenBZLVE?oc=5",
    "title": "배추 가격 내려도 김장 부담은 왜 남나…양념비와 준비 노동이 바꾸는 선택",
-   "summary": ""
-  },
-  {
-   "id": "g7",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "뉴스1",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55a0dPM2ZCOUo0WlJMa21kVzk4YndLSFZaZVVuLU00Ri1NdHRYVWxmOTNBSW91bWJmMUY3VG1oV0xjVVQ2Q1ZCdTI3eHY2OFFCVDJSOU5SRHdHTHFoTlR3?oc=5",
-   "title": "\"도매가, 기준가격 이하로 떨어져\"…옥천군, 농산물 가격안정기금 지급",
    "summary": ""
   },
   {
@@ -5217,7 +5217,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g28",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5228,7 +5228,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g30",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5239,7 +5239,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g48",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5316,29 +5316,18 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g32",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
    "item": "palm",
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmEwWjZwRzhnLTFCNWNwdkNEU1J1WllGRkN1T216ek1lMjZiNXg1NDdwWG9tRUVKT2UtRVRQZXZud3R5a0N6aUV4QXBrVE9VT3BnMVdYMHhyV2s5Y0gwYl91S1NZQWNoaTE5alFzY1VSRHVJX2V3YW1WN1lmSkI4eFY2eWpmVkhH?oc=5",
-   "title": "친환경 연료가 시장을 주도하는 가운데, 지난주에는 디젤 연료가 시장을 선도했습니다.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkZhVkJMUTlsWnFkcmNkbWUwQzJGWGtwcUlsVGxFNm5lUFpOQjJsQXpsS3lvYWJteWtjeVVsZ096b1ZHWmMydnIzcEpHYUNkRHZjLVF4Tllpa1dVNjhpYUlHWUVZVjFVZ1ktY2F2dFlMU25tcWFKQ2lpY01mdnJHMHIxeFBYOVJZTTRpSXBCRVNaWDBpWmFrWklPTE9JZHhYZ2VDY2Zn?oc=5",
+   "title": "원자재 시장: MXV 지수가 이번 주에 거의 1.7% 상승했으며, 디젤이 시장을 주도했습니다.",
    "summary": ""
   },
   {
    "id": "g54",
-   "d": "2026-10-12",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "FarmWeekNow (영문)",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGlFNENTQ1Y3N0NrbWtvTzhSMDkxQkJVNExHbWUzSHZSZzN2RlNlSm43M3NLM0w0ejF0LTZZVzFXRUVWZ3h0YzUxQ2lSUHh2THlkQW1Ra3lsX29TOGtOejg3aGRFMHFYeThQc1VKVXl4S3ZjUWVSSnNPZGZlU3NSWnVqeGtGeW42RFlFVGJzM1EwVEVicTUzck5iVERObmV2bld3UWZid29zMXQ3QmlLTXNqWlhKSTM4ZEI2b0Uxa0o5Z3l1RjB3enpwVmFDbDNEdnJTQg?oc=5",
-   "title": "Grain prices face harvest pressure test",
-   "summary": ""
-  },
-  {
-   "id": "g55",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
