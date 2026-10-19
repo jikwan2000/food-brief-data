@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:26:01.619Z",
+ "updated": "2026-10-19T21:23:05.926Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3171,7 +3171,7 @@
     ],
     [
      "2026-10-19",
-     256.9
+     257
     ]
    ],
    "base": 251.1895513227513,
@@ -4770,18 +4770,29 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g26",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "wheat",
+   "item": "rawsugar",
    "source": "우리경제신문",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyNnRkaWpTNnJjQlN1eWRIY3Q2c3RNOE9QVGR4ZnljTFVMOU85SlcwM1plVkRRMDFOcXVjcnA4S1Vub0ctUEJVM19jWWdreWRBck9kNXN1WWg?oc=5",
    "title": "세계 식량가격, 3년10개월 만에 최고…공급망 차질에 식품물가 상승 압력 확산",
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g27",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "글로벌이코노믹",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjdxcGp1bnNVS3hsdUxBRFZMeE5YcUNLdEhsLWVsZHBZQkpUZ0FQN2lTM09ZQll6REk0LW92aS11MjZXWmQxbFp4TE95U24xM3RRTm1aNFZCX0xaYXlsTGQ3V1pZNmdybUxCMWhCdGNPcFhwdHJEUEtVLWVKWmc4emZfWjBFdw?oc=5",
+   "title": "러·우크라 공습 격화에 국제 밀값 반등…흑해 수출 차질 우려",
+   "summary": ""
+  },
+  {
+   "id": "g31",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4792,7 +4803,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g32",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4803,7 +4814,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g34",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4814,7 +4825,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g39",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4825,7 +4836,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4836,7 +4847,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g50",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4844,17 +4855,6 @@
    "source": "Reuters (영문)",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
    "title": "Global food inflation is expected to intensify as supply shocks pile up",
-   "summary": ""
-  },
-  {
-   "id": "g54",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Brownfield Ag News (영문)",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlRYWFBcUg3Y0ZRQnl4Q29ubDNWajNnSWtBWTVDVWNURUpMdlBuRXpjbnBKd3NMWkNkU2Q4WTZGRmk5VW5KaG5DNGRjMDlxWWtfcFJBNW5Oa1NkZEdoVHRiRF92aURiYjU0ZnJpRE5KenM0RWk5TXdYeFQ3UVg1aTFNR3RFVXhic2gwX29ZVTEwV1lkQkFzTWVTb09jQQ?oc=5",
-   "title": "Conflicts driving wheat prices and some 2027 acreage decisions",
    "summary": ""
   },
   {
@@ -4891,7 +4891,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g42",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -4902,7 +4902,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g51",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -4910,6 +4910,17 @@
    "source": "The New York Times (영문)",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
    "title": "A Global Sugar Crisis, Made and Felt in India",
+   "summary": ""
+  },
+  {
+   "id": "g52",
+   "d": "2026-10-18",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Cleveland.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTU9MSURJLWltUE5ldDBxWkhmLVR4eXVjUGdfclYzd0dCbm5mOHF5cUd3V2t2NDZ1MjJOdGdqeVRpZFZDOGZYVUYxdTJnYmVLMV8xQmNUX1NWLTRJRndnRkdWS1UxY19NTkhmLTRlX2lsNTlMZ19FVzk0NXVETERuN2NGcnVNTkFQMGYzakZ2dmV6TExsYXQ3VFdTTFNfbllyMTNzTXl6NUlrY3fSAb8BQVVfeXFMTm1lR205VUZzWUNUVWItalk2QVBiS0ZuX1QyOTVIcFRQYmJWRWs0LXVjM09relJkdzB3MEZPQlNSd3BUX2NYNUhsM0NYaF80QzdtdTdlcFB4VFV2U2RLdzNzRVVKSVBCTUJQR1F3UE5hX2hXeW8wZlJ4NDlPM0ZHWEVoSmJyX2ZKWTB1T1JJMVVWY2lFRXZYN1Bjazg2bjJMaUxoa2p3eG5Xb2pDdFFldlRWOHZvdlVrRG5CNE9QdGc?oc=5",
+   "title": "Halloween candy is already expensive. Now there’s another problem",
    "summary": ""
   },
   {
@@ -4924,7 +4935,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g36",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -4935,7 +4946,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g41",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -4990,17 +5001,6 @@
    "summary": ""
   },
   {
-   "id": "g23",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "엔트로피타임즈",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4YjhIWThLbERFLWk4ZFpxcGJKd3ZQclU5c3JUUUo5QUJhOHdadnRwN3pvZFVqSWlZc1hTZkRPa05maEstN1ZwWmc1OTJmMHk4Rk9aaUVMU2FxZnpGS2ZrTHpLVQ?oc=5",
-   "title": "FAO 식량가격지수 2년여 만에 최고…설탕값 급등에 휘청",
-   "summary": ""
-  },
-  {
    "id": "g28",
    "d": "2026-10-16",
    "region": "해외",
@@ -5012,7 +5012,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g37",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5023,7 +5023,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g38",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -5034,7 +5034,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g43",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5045,7 +5045,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g44",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5056,7 +5056,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g45",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5067,7 +5067,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5082,10 +5082,10 @@
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "S&P Global (영문)",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
-   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
+   "item": "wheat",
+   "source": "Farm Progress (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
+   "title": "Grains still struggling to find post-WASDE momentum",
    "summary": ""
   },
   {
@@ -5115,17 +5115,6 @@
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "wheat",
-   "source": "세계일보",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rUHoxd1B2RUJPWk1uaHF4V1lTMUw3a19DbnRMTVg2QXdQUTFQdVViU2I4YVFidEs3U19EVy1RUk05Wm1hYnBVYk1yYVdXUVY5NGpyeFByQWTSAVRBVV95cUxPNnlUSmRTZmtJeGlKTGFEQXBhWXZVcTFnb3k5S1NzYXZyX3lpOHNqeWFtMDNWNDRheHplaW8wc1F6VEpBdlFHUlBtaVlWd0VqREdkaHY?oc=5",
-   "title": "중동發 곡물가 상승에 사료값 ‘불똥’… 밥상물가 위태롭다 [농어촌이 미래다-그린 라이프]",
-   "summary": ""
-  },
-  {
-   "id": "g30",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
    "item": "corn",
    "source": "팜인사이트",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dVdpVGwzd0RreTlVSXJfMUM4MUpxUDZ4elhoSjMwVzZZWGR6QVdGVE5HdXh2Zi15NEhDUEVrVkVFRFE4bElaenhaS2ppQlh5RTFOUFJrd2hQdzhkZlBjOXNENVJuRmV1VnVBSnR3?oc=5",
@@ -5133,7 +5122,7 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g33",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5144,7 +5133,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g47",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5210,7 +5199,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5221,7 +5210,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5232,7 +5221,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g48",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "축산물",
@@ -5243,7 +5232,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g55",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5298,7 +5287,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g23",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5309,7 +5298,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g30",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5320,7 +5309,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g49",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5331,7 +5320,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g25",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
@@ -5342,7 +5331,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g54",
    "d": "2026-10-12",
    "region": "해외",
    "cat": "가공·소재",
