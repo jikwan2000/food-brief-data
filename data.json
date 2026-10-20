@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:23:05.926Z",
+ "updated": "2026-10-20T00:28:58.426Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3170,8 +3170,8 @@
      258.7
     ],
     [
-     "2026-10-19",
-     257
+     "2026-10-20",
+     256.4
     ]
    ],
    "base": 251.1895513227513,
@@ -4354,7 +4354,7 @@
      1480
     ],
     [
-     "2026-10-19",
+     "2026-10-20",
      1470.5
     ]
    ],
@@ -4726,6 +4726,17 @@
  },
  "news": [
   {
+   "id": "g36",
+   "d": "2026-10-20",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "뷰어스",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGT2tpUUY2MTYydFRKbkgzcW9OZThIUW8zWmtGVGRLaWh5eUNWRE1MbWZmSFpZdkFLWE9wR1RjQlJRQWdaS2pQTWxzdEs2aG9UWElhYUFPZkg?oc=5",
+   "title": "[애널픽] \"삼양식품, 원화 강세에도 실적 견조…내년 중국 모멘텀\"",
+   "summary": ""
+  },
+  {
    "id": "g4",
    "d": "2026-10-19",
    "region": "국내",
@@ -4770,14 +4781,14 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g23",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "우리경제신문",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyNnRkaWpTNnJjQlN1eWRIY3Q2c3RNOE9QVGR4ZnljTFVMOU85SlcwM1plVkRRMDFOcXVjcnA4S1Vub0ctUEJVM19jWWdreWRBck9kNXN1WWg?oc=5",
-   "title": "세계 식량가격, 3년10개월 만에 최고…공급망 차질에 식품물가 상승 압력 확산",
+   "source": "글로벌이코노믹",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2Q5VGRIZVVHbnY4VDB0Y2NURHJxZnhQOEY2UDR3SWYzVFVLVkxZcVgtaHQ0eGpfRXh2LXJLeGYyMTFsN2J6MEFQWHhOMjNLTXpvOWtCZEU5aTFMZjZ2aThheExNa01Zd2poVTRsYVZwRkhmeXBndFZLOFkxN2VycGg1elpaaEg0?oc=5",
+   "title": "\"가뭄에 에탄올 규제까지\"… 印·태국·EU 생산 위험에 국제 설탕 가격 급등세",
    "summary": ""
   },
   {
@@ -4792,7 +4803,18 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g28",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "우리경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyNnRkaWpTNnJjQlN1eWRIY3Q2c3RNOE9QVGR4ZnljTFVMOU85SlcwM1plVkRRMDFOcXVjcnA4S1Vub0ctUEJVM19jWWdreWRBck9kNXN1WWg?oc=5",
+   "title": "세계 식량가격, 3년10개월 만에 최고…공급망 차질에 식품물가 상승 압력 확산",
+   "summary": ""
+  },
+  {
+   "id": "g32",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4803,7 +4825,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g33",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4814,18 +4836,18 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g39",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "palm",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS211MWI0c2RsNUExUjlfOTg2dmRlYWJscUZ6Vk0wTm51d3R0RmUtbHdGclNwYzVmVnJDOVMza0JaVkJzaExORGdCTnQ2LUJDa3c2RlQzNFN0UXBNeEZWU1RNdVlQbFpBNGlLc3F5ZXN4ZmVXSGxsZFROUEVLZlI3anRTSFNXMkNTMTBBOUNRb0w4a19JcHBlVmtNaHVhS2NEMmc?oc=5",
-   "title": "원자재 시장: 아라비카 커피 가격 급등, 대두 가격 하락세.",
+   "item": "thairice",
+   "source": "글로벌이코노믹",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDZub01KZ2VMcUZZS0ZjMzR4UjU2SVlwWmFVZHNtY2VvbHZQR1ZJVTVzcXdiakh4blk2eDRhT0hrZ1BtbkY3SU9Od0VkR2VPdVFTcEJINzd0NExZd05GOG45dlZxbS1pUGVNNUQ2X3M0ODFkQVNvRmpEczJkbC1rMW4yU1lESlRG?oc=5",
+   "title": "전쟁·가뭄·운임 폭등 '퍼펙트 스톰'… 전 세계 식품 인플레이션 2027년까지 장기화",
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g41",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4836,7 +4858,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g42",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4847,7 +4869,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g52",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4891,7 +4913,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g44",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -4902,7 +4924,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g53",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -4913,7 +4935,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g54",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -4935,7 +4957,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g38",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -4946,7 +4968,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g43",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -5001,7 +5023,18 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g24",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "엔트로피타임즈",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4YjhIWThLbERFLWk4ZFpxcGJKd3ZQclU5c3JUUUo5QUJhOHdadnRwN3pvZFVqSWlZc1hTZkRPa05maEstN1ZwWmc1OTJmMHk4Rk9aaUVMU2FxZnpGS2ZrTHpLVQ?oc=5",
+   "title": "FAO 식량가격지수 2년여 만에 최고…설탕값 급등에 휘청",
+   "summary": ""
+  },
+  {
+   "id": "g29",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5012,18 +5045,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "thairice",
-   "source": "아시아경제",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HdlVKYm1SMmViMUFwdXpRSHZ2eWhJeUNPanBFZTBvbVR5azVjc0xjWUNrQXlNT0VYUFRwNm0tSm1BLXp0eExuZW9ka3ZBdmxGaUZMLWd3Z2Y0Y1NhQTN4aw?oc=5",
-   "title": "임금님표이천쌀, 올해 수출 97.6t ‘역대 최대’…세계시장 공략 가속",
-   "summary": ""
-  },
-  {
-   "id": "g38",
+   "id": "g40",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -5034,7 +5056,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g45",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5045,7 +5067,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5056,7 +5078,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g47",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5067,7 +5089,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g48",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5075,17 +5097,6 @@
    "source": "MBC 뉴스",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbVQ2RTQzOHFTcGtxajJWVDZ4RHItelhRbUFUQUtHYThFSWp1emwzanNyYnFKQk1nSjBYdWZZVkNSNmg2d3dzODRTSUJBc1lucGR6R3l0VUpDSGxibk5aa3lINmdQSXlMdjg2bGZ6X014WExq0gF0QVVfeXFMT1o0R28yVmtKUDJZeEpXWXRQWElIM1I4ZmxQZzE2Y1NjQ1hwN3RlZFFUcUw0SXJQSHUtbEZodHptYjZ1bThUWXRWQk45NExRcThyWm96V2FsQjA0bjUyZ2YyUnliRm1NUkxnNXpGVFdmOTFsZEQ?oc=5",
    "title": "고물가·엔저에‥日 닭고기 소비, 소·돼지고기 추월",
-   "summary": ""
-  },
-  {
-   "id": "g53",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Farm Progress (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
-   "title": "Grains still struggling to find post-WASDE momentum",
    "summary": ""
   },
   {
@@ -5111,7 +5122,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g30",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5122,7 +5133,18 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g34",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "마켓인",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
+   "title": "“불닭 해외서 더 잘 팔리네”…주가 10% 빠진 삼양식품, 175만원 간다는데",
+   "summary": ""
+  },
+  {
+   "id": "g35",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5133,7 +5155,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g49",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5199,7 +5221,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g26",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5210,7 +5232,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g37",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5221,7 +5243,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g50",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "축산물",
@@ -5232,7 +5254,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g56",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5287,7 +5309,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g25",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5298,7 +5320,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g31",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5309,7 +5331,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g51",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5320,25 +5342,25 @@
    "summary": ""
   },
   {
-   "id": "g25",
-   "d": "2026-10-12",
+   "id": "g55",
+   "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "비건뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CVDFQQWdWR0ZhWEk1Q2VDUTk5OXMzXzROcE1uWC1BTDVRcE1YZE9QbkNMY19PeXN3elpEWE9OZnZPVUpxVW0wMkFuWHI5dmU3T0xIcU95WDJ3ZTI4TmM4TkFkSkdGZw?oc=5",
-   "title": "9월 국제 곡물·식물성유지 가격, 전년 상승률 종합지수 웃돌아",
+   "item": "wheat",
+   "source": "Marine Link (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FCb0JFOVprU3hWcC15Rm9laEgyMDdZcjhuVzA3VjRiSWViZEhDZ0J2eElPX3RINno0RFRMT016TDFoUWU5X1UxdjVZRFdfcFdqZVFoZXM1dW42MWJjdXY1YTRwQklwbDY3ZnMxYUdlRFNkWmNLWi1LZ0RhdFQxUzh3?oc=5",
+   "title": "EU Wheat Prices Rise After Another Black Sea Attack, Algerian tender",
    "summary": ""
   },
   {
-   "id": "g54",
-   "d": "2026-10-12",
+   "id": "g57",
+   "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
    "item": "wmp",
-   "source": "https://en.edairynews.com/ (영문)",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmloNnBMSHEzMzRzOXhaNmlKS3ZSWjNqVjRxMHZqdWRRa0hQR01kUUI5SmYwRWl6LVR0NkNJVnZraGpINC1YN1hEUTZlOHpETUVtNzRTdFVRNkU0SC1xX0R2X2ptRmcwTUV6MUF2T2tMcGllcTJhZWVwcTBRcnR4Z0sta2RQZjJISHdCOUZLNko3REhZR1lwOXJJOA?oc=5",
-   "title": "Fonterra’s 25-year Milk Price Legacy Shaped By Global Market Dynamics",
+   "source": "Czapp (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjRCU0lZUEwyRTdha3BrcEtyRTAyT0hDOVUzVFJ4NWx1MlNTaVl1U0J1QzBKOERzTnhyUGsyT2lJUTVlTkFuVHBDNWZZTUFoRHVLdWY1b0dfZ1hZcTdrTkt5YkpfOUtHemJZSVZIWld0ZjNVNWtySmVETnFlc1p4anZLY3hYeWpyNlBmNE1DLVc?oc=5",
+   "title": "Algeria Heats Up WMP Market Even Before El Niño",
    "summary": ""
   }
  ],
