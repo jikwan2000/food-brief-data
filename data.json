@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T15:26:44.248Z",
+ "updated": "2026-10-20T18:27:27.962Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3183,7 +3183,7 @@
     ],
     [
      "2026-10-20",
-     255.2
+     253.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4371,7 +4371,7 @@
     ],
     [
      "2026-10-20",
-     1476.4
+     1470.5
     ]
    ],
    "base": 1211.8355732119146,
@@ -4742,7 +4742,7 @@
  },
  "news": [
   {
-   "id": "g28",
+   "id": "g29",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4753,7 +4753,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g33",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4764,7 +4764,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g34",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4775,7 +4775,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g37",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4786,7 +4786,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g52",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4797,14 +4797,25 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g57",
+   "d": "2026-10-20",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "https://en.edairynews.com/ (영문)",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXV6cmZfMWROYVVQYkFybjJjWG1SMHp3T2ctMURIeFY4RVNPeFJ4Uk1ITE92UlFOcGFPd0tHZ2Z4VHJTNU1fRzF0ci0yX3o1NzVYUXlITGd0LU5ZRWV1bS1uMkVlRURVYjNlNW5qeWVFdDI2SGpQTUVfS09rRzBKOXFZQQ?oc=5",
+   "title": "Global Dairy Trade | GDT Index Rises 2.5%, Average Price Hits USD 4,021/MT",
+   "summary": ""
+  },
+  {
+   "id": "g58",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
    "item": "wmp",
    "source": "Dairynews.today (영문)",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelowUFpMeTBlLUJpZEtFbXNFbXVuenhLNjB5SW1HekVZSVdpaHFnSkFRNXlMUTNmY09GWElWdlBzazNVSV9HRWxPaHF2OVUwMVVxUy02TTNKdERyQnA5Z0wzZkYyQTRQSkp0YVI1Zjh4MTBNN29JZlFQM0RPckRFVjV6SEZTUmY0bnFPdm1hOFdla1lnNGJiaElEcFRwMTN0?oc=5",
-   "title": "Global dairy markets raise protein values as fats decline",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHl0NWFpbmlKZUdCeTVZV2RGT3hjRnFxTHRRR0N6Mm9MRC1rTVJFa2RpZ0owVFp2RGVQR1lXcDRFdWFQSkkwbURJRlhFeElpdFhPQ3E3X3dzQndHY093c1piZlBYaTZBLU54MVJYRGV5RGhtY1lobmdlTzdnNGRZMW1CaktJdkdoYmdIZUhISnNJa0VDSlZ6a29zZkx4X2FTRzB5UTFzMURHdw?oc=5",
+   "title": "GDT Index Rises 2.5% as Average Price Reaches USD 4,021/MT",
    "summary": ""
   },
   {
@@ -4874,7 +4885,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g28",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4885,7 +4896,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g30",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4896,7 +4907,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g32",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4907,18 +4918,18 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g35",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
    "item": "palm",
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0g2ZVFESkJyc2UzU1pncndRTkNfdklGUUhMbWxuUTlIaVhxcHVpNmhGV1hwMXFrVTZJMzFyTDI5V3Q5THdZbjdlUlFtM3FxSzVmUmFuOXMwOXNER1JwWHpheEFoOHU1U0NTWHFqbjkzbWFSTjVUSEUyTkxQaHFvVHhVQl9vNWhYVVRrSlVQRjNOeTNPR3k2SldaVG1odHg0czUwU3RNbw?oc=5",
-   "title": "브라질 대두유 수출, 2025년 연간 물량 추월…2026-27년 사상 최대 대두 작황 전망 - 뉴스 및 통계",
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hZHRUUkNoUWQwV2xaQkxTOG9oVi1wOTJ1TUdUUWZnNXlsXzg4ZTgxdHYzTDJLSmVFd0pJTmhzajVtLXgxUU5vQkpNNlBWeXU2MElTX2pNcXZkSUZOZkJtQmJOWmJQbXAwcTdfVlFB0gFuQVVfeXFMTWFkdFRSQ2hRZDBXbFpCTFM4b2hWLXA5MnVNR1RRZmc1eWxfODhlODF0djNMMktKZUV3SklOaHNqNW0teDFRTm9CSk02UFZ5dTYwSVNfak1xdmRJRk5mQm1CYk5aYlBtcDBxN19WUUE?oc=5",
+   "title": "\"삼양식품, 원화 강세에도 3분기 실적 컨센서스 부합할 것\"-현대차 - 머니투데이",
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g40",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4929,7 +4940,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4940,7 +4951,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4951,7 +4962,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g50",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -4962,7 +4973,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5006,7 +5017,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g45",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -5017,7 +5028,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5050,7 +5061,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g39",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -5061,7 +5072,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g44",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -5127,7 +5138,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g41",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -5138,7 +5149,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5149,7 +5160,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5160,7 +5171,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5171,7 +5182,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5179,6 +5190,17 @@
    "source": "Barchart.com (영문)",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmNyWXJzOGlrakpvOTl6MWQ1dDdPV0pCeEJmbWxkRk41eTlYSzk0aW55dmRUa3pTS0JneWlOUk5RNG8yZlNMS1h4S01pZ19rX3VVZnNuUGtJU1o3NEFGMHhFNWY3dDAtSkFUV2dFTm5zdU9GTEh0dXdqUzhWUG02YjRUUnM4UWZjSkRwamxkZ0Yyby04TUhKUzNSNEFaWkpGV0ZYSg?oc=5",
    "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
+   "summary": ""
+  },
+  {
+   "id": "g56",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "CME Group (영문)",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RGFRVTZqQUhQeVQ5ekctQ2hhTUM1cGFheFpVZVNMa3VQdlhLbndVakUzN2Z4RWZ6cHcwVkx2c1VHc0RnLWJxOGI5TF9VXzZmVkFEX05GQjVaN19YX1Z5czJ1UWVlYlFKRDdFaHVHVUpDcDJpMGp3aklVcw?oc=5",
+   "title": "KC Spot HRW Wheat Daily Price",
    "summary": ""
   },
   {
@@ -5209,13 +5231,24 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
+   "source": "한국식품의약신문",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94QUF1TFBDQWwtdlNYNW5XRzRwdldCQ2V6VmJIeVV6TGtkTzNxRlIzU09jbHp2MGhqS1MwbWpRYnUwX3RxWmZKOHJEQmhPSnN1UWxyVDg0eWt2ek1kZnM2Sm1QMTI1dVk?oc=5",
+   "title": "국제 원당값 3분기 22.9% 급등…국내 식품업계 영향 제한적",
+   "summary": ""
+  },
+  {
+   "id": "g26",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSURFTFI1R29PUEhHWU9IUGxxTFItOXdyb1MyR2tmR1dCVUVhR09QU1M2bHo1TjdPOTFOTmU0YlV3RThRLTg1WkpMR0loSGo2UXBYaURRVzdEaHRHRktOZDl4cHVOVnRQa0hjOUFlaktTdHBaS0xjYmtZeXEwc3NqcDNBMGlPMTFDb2FfMk5lOVdST1hxdG01SGRjZDVGYk16Q0JKRmFBbw?oc=5",
    "title": "원자재 시장: 설탕 가격이 1년 만에 최고치를 기록했고, 구리 가격은 3거래일 연속 하락했습니다.",
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g31",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5226,7 +5259,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g36",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5237,7 +5270,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5248,7 +5281,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g51",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5325,18 +5358,18 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g27",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
+   "item": "wheat",
    "source": "SDG뉴스",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fMVdBRW5GUVZtS2dCSTV4aWVtQXl1ZUZrLXU2QWhvZFl1VnVXNmtjVEdXTHpYc0dOMXRrTGNVNXBoRzE5NDRpRC02SzgzZVMzMXVGV21OcTh1NTk0TXdNTHZfSFAxMEU?oc=5",
    "title": "[식량위기] 세계 식량가격 다시 상승…호르무즈·흑해 물류 차질에 엘니뇨까지 ‘삼중 충격’",
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g38",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5344,17 +5377,6 @@
    "source": "한겨레",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUpaV0s4UzZKQlBVTFRnRFlVSTlKWk96S2tRZDBFQUVIZnA5MXREWWV4YjBNLVNlQ05kazdwUjhoMHcySzIxbTc3Y09ONWVkdkpVakRlU2NCSmV3VnRMeUNSeE9FM0xmVzhMbDIwM1lxQVR3LVdjY0MzNWo2ZWVvdzln?oc=5",
    "title": "‘쌀 대국’ 인도 가뭄, 태국은 폭우…세계의 식탁 덮친 엘니뇨",
-   "summary": ""
-  },
-  {
-   "id": "g57",
-   "d": "2026-10-14",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wmp",
-   "source": "Future Market Insights (영문)",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90TjNoZ0ljLUpmUGxCYy0yV1ptUlBILWNMbHFock9ubXdHMl8yalp4MHJleFNHVFRYcWJ5b1JaZUhqYWtPTGN5ZGdWNWltc1ZoZE5hOS0zRXZHSEJfRzdxNVNJRktzYVBtS1BFU2dhMTg?oc=5",
-   "title": "Milk Powder Market Size, Share, Trends 2036",
    "summary": ""
   },
   {
@@ -5366,17 +5388,6 @@
    "source": "축산신문",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95TVdhUGh2OXM0WGlJS2ljU01MQ2c4amYtSDQ1TURtRkxDRi1veXFkZWlNaUt6c2thLVlGUmNUVExiakdkMlN2ODcyaFlxQm9kUThETGxELWM5TnhITktKTTV3bUtRZXFi?oc=5",
    "title": "계란 가격 담합·AI 방역까지…농식품부 정책 ‘도마 위’",
-   "summary": ""
-  },
-  {
-   "id": "g55",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Marine Link (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1FCb0JFOVprU3hWcC15Rm9laEgyMDdZcjhuVzA3VjRiSWViZEhDZ0J2eElPX3RINno0RFRMT016TDFoUWU5X1UxdjVZRFdfcFdqZVFoZXM1dW42MWJjdXY1YTRwQklwbDY3ZnMxYUdlRFNkWmNLWi1LZ0RhdFQxUzh3?oc=5",
-   "title": "EU Wheat Prices Rise After Another Black Sea Attack, Algerian tender",
    "summary": ""
   }
  ],
