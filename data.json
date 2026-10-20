@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:27:17.527Z",
+ "updated": "2026-10-20T12:28:29.289Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2067,7 +2067,7 @@
     ],
     [
      "2026-10-20",
-     0.4568
+     0.453
     ]
    ],
    "base": 0.4220902690824005,
@@ -3183,7 +3183,7 @@
     ],
     [
      "2026-10-20",
-     258
+     259
     ]
    ],
    "base": 251.1895513227513,
@@ -4371,7 +4371,7 @@
     ],
     [
      "2026-10-20",
-     1480.6
+     1488.3
     ]
    ],
    "base": 1211.8355732119146,
@@ -4742,7 +4742,7 @@
  },
  "news": [
   {
-   "id": "g28",
+   "id": "g29",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4757,6 +4757,17 @@
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
+   "item": "corn",
+   "source": "남도일보",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRy1YRUgtaUFNbUQwVUdfYXprVGlYR0dqenc1cW1iUEptWVhOOFY5TFVwQmQ5LWZqN3dtdHJ1dDBQYXMySGQwalJQeS1zcGdQSUdneFFUa28zZkVVMG1DYkd4QTZDaGJUNnR0eV92eGjSAXBBVV95cUxOa0ctWEVILWlBTW1EMFVHX2F6a1RpWEdHanp3NXFtYlBKbVlYTjhWOUxVcEJkOS1majd3bXRydXQwUGFzMkhkMGpSUHktc3BnUElHZ3hRVGtvM2ZFVTBtQ2JHeEE2Q2hiVDZ0dHlfdnho?oc=5",
+   "title": "옥수수 90% 해외 의존…식량 공급망 ‘취약’",
+   "summary": ""
+  },
+  {
+   "id": "g34",
+   "d": "2026-10-20",
+   "region": "해외",
+   "cat": "가공·소재",
    "item": "palm",
    "source": "Sunsirs",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFanlHR1g1RkRvdDNhLTNKM0RPX0VKOGpYX3A4Wng3Z05pWXQ3YzhOa2s4Szc1eDA3Z1FKTGUyejZ1akxnQXU3TW40WUNYMk84MUg4YTZYZnhabmlKb3c?oc=5",
@@ -4764,7 +4775,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g37",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4772,6 +4783,17 @@
    "source": "뷰어스",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGT2tpUUY2MTYydFRKbkgzcW9OZThIUW8zWmtGVGRLaWh5eUNWRE1MbWZmSFpZdkFLWE9wR1RjQlJRQWdaS2pQTWxzdEs2aG9UWElhYUFPZkg?oc=5",
    "title": "[애널픽] \"삼양식품, 원화 강세에도 실적 견조…내년 중국 모멘텀\"",
+   "summary": ""
+  },
+  {
+   "id": "g57",
+   "d": "2026-10-20",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "Dairynews.today (영문)",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelowUFpMeTBlLUJpZEtFbXNFbXVuenhLNjB5SW1HekVZSVdpaHFnSkFRNXlMUTNmY09GWElWdlBzazNVSV9HRWxPaHF2OVUwMVVxUy02TTNKdERyQnA5Z0wzZkYyQTRQSkp0YVI1Zjh4MTBNN29JZlFQM0RPckRFVjV6SEZTUmY0bnFPdm1hOFdla1lnNGJiaElEcFRwMTN0?oc=5",
+   "title": "Global dairy markets raise protein values as fats decline",
    "summary": ""
   },
   {
@@ -4797,7 +4819,7 @@
    "summary": ""
   },
   {
-   "id": "g6",
+   "id": "g7",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "농산물",
@@ -4808,7 +4830,7 @@
    "summary": ""
   },
   {
-   "id": "g9",
+   "id": "g11",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4830,7 +4852,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g23",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4841,7 +4863,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g28",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4852,7 +4874,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g30",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4874,7 +4896,7 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g35",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4885,7 +4907,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g40",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4896,7 +4918,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4907,7 +4929,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4918,7 +4940,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4962,7 +4984,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g45",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -4973,7 +4995,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -4984,13 +5006,13 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "Cleveland.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTU9MSURJLWltUE5ldDBxWkhmLVR4eXVjUGdfclYzd0dCbm5mOHF5cUd3V2t2NDZ1MjJOdGdqeVRpZFZDOGZYVUYxdTJnYmVLMV8xQmNUX1NWLTRJRndnRkdWS1UxY19NTkhmLTRlX2lsNTlMZ19FVzk0NXVETERuN2NGcnVNTkFQMGYzakZ2dmV6TExsYXQ3VFdTTFNfbllyMTNzTXl6NUlrY3fSAb8BQVVfeXFMTm1lR205VUZzWUNUVWItalk2QVBiS0ZuX1QyOTVIcFRQYmJWRWs0LXVjM09relJkdzB3MEZPQlNSd3BUX2NYNUhsM0NYaF80QzdtdTdlcFB4VFV2U2RLdzNzRVVKSVBCTUJQR1F3UE5hX2hXeW8wZlJ4NDlPM0ZHWEVoSmJyX2ZKWTB1T1JJMVVWY2lFRXZYN1Bjazg2bjJMaUxoa2p3eG5Xb2pDdFFldlRWOHZvdlVrRG5CNE9QdGc?oc=5",
+   "source": "LehighValleyLive.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGVKb0pKVUVTWTJwVkctem1VT215NXVVb0dqWHctSXduX0xZZE03eWdhYmd1Z0dOLWN3aHd4QlhJMDBoUGctODY0QmRoLUQ2VjdRQnJoUUZVaFFlanV6QXNUR094TGZhOW9XLXRRVGxKRkt3SG5ZazI2UE4yVEIzamRid2tjUE5Db2pZN1djbzJZNUpjSXFzZm5nM2FfQWNOcHBpaERTbENvVlNWc1g1bTdmSno?oc=5",
    "title": "Halloween candy is already expensive. Now there’s another problem",
    "summary": ""
   },
@@ -5017,7 +5039,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g39",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -5028,7 +5050,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g44",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -5050,7 +5072,7 @@
    "summary": ""
   },
   {
-   "id": "g10",
+   "id": "g9",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -5083,7 +5105,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g24",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5094,7 +5116,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g41",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -5105,7 +5127,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5116,7 +5138,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5127,7 +5149,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5171,7 +5193,18 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g26",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSURFTFI1R29PUEhHWU9IUGxxTFItOXdyb1MyR2tmR1dCVUVhR09QU1M2bHo1TjdPOTFOTmU0YlV3RThRLTg1WkpMR0loSGo2UXBYaURRVzdEaHRHRktOZDl4cHVOVnRQa0hjOUFlaktTdHBaS0xjYmtZeXEwc3NqcDNBMGlPMTFDb2FfMk5lOVdST1hxdG01SGRjZDVGYk16Q0JKRmFBbw?oc=5",
+   "title": "원자재 시장: 설탕 가격이 1년 만에 최고치를 기록했고, 구리 가격은 3거래일 연속 하락했습니다.",
+   "summary": ""
+  },
+  {
+   "id": "g31",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5182,7 +5215,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g36",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5193,7 +5226,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5204,7 +5237,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g50",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5215,7 +5248,18 @@
    "summary": ""
   },
   {
-   "id": "g7",
+   "id": "g51",
+   "d": "2026-10-15",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "ABC News - Breaking News, Latest News and Videos (영문)",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUdxV2twV2R3a0dpcDJ5Zk84Z0trRG10VXhSNHpiekpBRHpJTnNPWXFvZmtfbHhYbFlfcjdfamlPcmUzbHRwU2s0Q3NySUJ0VlNfMGxIUHRtcWVBOWJyY2hjWmRfUm5ONXVTbkxhcVZWbTBtaUlTc2xnMFV4VS1IU9IBhgFBVV95cUxQcmdPLVJEU0dhWFdFUTdKaVNUd1BsS19QYmJrc2cxNl8yQkFLeGs4RDJxZUlCcHdVLTRldHluakpWZHp5REJzRlFXdHQtOEM0RHlGMGJkN2pjb1lsTUYzQkxPTkdmR1JlRnkxSzNhc1BXLWNXODFoMm1uMU5sLU1aWnY1REFLZw?oc=5",
+   "title": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?)",
+   "summary": ""
+  },
+  {
+   "id": "g6",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "농산물",
@@ -5237,7 +5281,7 @@
    "summary": ""
   },
   {
-   "id": "g11",
+   "id": "g10",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "수산물",
@@ -5281,18 +5325,18 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g27",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
-   "item": "rawsugar",
+   "item": "wheat",
    "source": "SDG뉴스",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fMVdBRW5GUVZtS2dCSTV4aWVtQXl1ZUZrLXU2QWhvZFl1VnVXNmtjVEdXTHpYc0dOMXRrTGNVNXBoRzE5NDRpRC02SzgzZVMzMXVGV21OcTh1NTk0TXdNTHZfSFAxMEU?oc=5",
    "title": "[식량위기] 세계 식량가격 다시 상승…호르무즈·흑해 물류 차질에 엘니뇨까지 ‘삼중 충격’",
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g38",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5303,18 +5347,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
-   "d": "2026-10-14",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Civil Eats (영문)",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTY2ZGhMck9WTVJja0ZjMkozVFBSS2s4WTBuMEFLRndyTU9qczhQaG8yaVdscGRnRnBkOHJLTWxpN2wzbFRWcG5NYmZXQTFfVDFPaUdiV3d5cE5hQzRjSjdGem4zUk5SdWl0T0RHVnBRN1Y0Z2dSY193OHVBdXFMeDVicWNuWmQzTWtnM0RNSloxOTBEcWpQV1pyamE5MjFfSVBKZFlPWTJRTk1BRGF4Qnh1aXo0UQ?oc=5",
-   "title": "30 Days After Increased Beef Imports, US Ranchers Are Getting Paid Less for Cattle",
-   "summary": ""
-  },
-  {
-   "id": "g56",
+   "id": "g58",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5322,17 +5355,6 @@
    "source": "Future Market Insights (영문)",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90TjNoZ0ljLUpmUGxCYy0yV1ptUlBILWNMbHFock9ubXdHMl8yalp4MHJleFNHVFRYcWJ5b1JaZUhqYWtPTGN5ZGdWNWltc1ZoZE5hOS0zRXZHSEJfRzdxNVNJRktzYVBtS1BFU2dhMTg?oc=5",
    "title": "Milk Powder Market Size, Share, Trends 2036",
-   "summary": ""
-  },
-  {
-   "id": "g57",
-   "d": "2026-10-14",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wmp",
-   "source": "Yahoo Finance Australia (영문)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVc4Y2loT19jdmhWWDlmeEM0S2hQUjVLdzJZYWFIeXRDN3JEMFVIZ2hoVHFDQW5EcmF5Nm1YRmRxRUtvX3k2OUhuLUZ2VmNfdTEwa2dEb1NjT2N1R20ycDNrZGZNSmRzVWxxaER1Ulo4TmRwS2dLTHlJbU9XLVdnUFh4ajNWUkZQalU2SmxB?oc=5",
-   "title": "New Zealand Shares End Marginally Higher; Mercury NZ Says Fiscal Q1 Trading Margin Up 19%",
    "summary": ""
   },
   {
@@ -5347,18 +5369,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
-   "d": "2026-10-13",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "corn",
-   "source": "돼지와사람",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHpFNXNMZWpyLXZxWGRQRF9aNU5Cem5WVXRVQ0tWc1htNklIU2hXRkloRU1VUHhkQThDMm0zbDNHdENnZEFQX3gzS3JaWGJYS2pjUmRmQ2xpS0RlZFdhVlNTOUY?oc=5",
-   "title": "환율 덕에 사료곡물 수입가격 하락 전망…국제곡물 선물가격은 상승세",
-   "summary": ""
-  },
-  {
-   "id": "g51",
+   "id": "g52",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
@@ -5369,7 +5380,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g56",
    "d": "2026-10-13",
    "region": "해외",
    "cat": "가공·소재",
