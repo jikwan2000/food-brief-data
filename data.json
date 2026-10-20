@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:27:27.962Z",
+ "updated": "2026-10-20T21:24:34.936Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3183,7 +3183,7 @@
     ],
     [
      "2026-10-20",
-     253.7
+     253.5
     ]
    ],
    "base": 251.1895513227513,
@@ -4371,7 +4371,7 @@
     ],
     [
      "2026-10-20",
-     1470.5
+     1470.7
     ]
    ],
    "base": 1211.8355732119146,
@@ -4742,7 +4742,7 @@
  },
  "news": [
   {
-   "id": "g29",
+   "id": "g30",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4814,7 +4814,7 @@
    "cat": "가공·소재",
    "item": "wmp",
    "source": "Dairynews.today (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHl0NWFpbmlKZUdCeTVZV2RGT3hjRnFxTHRRR0N6Mm9MRC1rTVJFa2RpZ0owVFp2RGVQR1lXcDRFdWFQSkkwbURJRlhFeElpdFhPQ3E3X3dzQndHY093c1piZlBYaTZBLU54MVJYRGV5RGhtY1lobmdlTzdnNGRZMW1CaktJdkdoYmdIZUhISnNJa0VDSlZ6a29zZkx4X2FTRzB5UTFzMURHdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelozRmNHcU03a08zMmZJOWw5TEQwT0haQ3VaQzhudHZRSnFlcnZNYnBrZkhjRGl6dlJhRlc0NEtoZmxubHpYQnhoQVZvMENraDRfd3VKdU80NkhkZFZmTGxVLTEwdVRVTm9nZkJjZDNwanNZOTYzOG9aTElpTndESm8wSXlWaHlSX3ZJcEJMX2ZLX3k0OEZKSG4wYlIxbkxo?oc=5",
    "title": "GDT Index Rises 2.5% as Average Price Reaches USD 4,021/MT",
    "summary": ""
   },
@@ -4863,6 +4863,17 @@
    "summary": ""
   },
   {
+   "id": "g15",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "www.mobiinside.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTm5udWYtZ242QzhlYkxVZ1RIckVCQmZKWlRQeWVWQ2hSRTdzM2wtajBDX0dtXzllc2UyNGdnYXFpY191N1V4QkcwNmZPcmhnMm5QSU4wWURrT0paLVR5SGVVN2tCSEo2TFlidlJEMnJXR2NvMlhzM2x5ZXJBcWd2X0V4ZDZ6ZEdRUlp3WF93TWs?oc=5",
+   "title": "[모두의 창업자를 위한 안내서] 노량진에서 찍은 사진들이 570억",
+   "summary": ""
+  },
+  {
    "id": "g21",
    "d": "2026-10-19",
    "region": "국내",
@@ -4896,7 +4907,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g29",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5050,17 +5061,6 @@
    "summary": ""
   },
   {
-   "id": "g15",
-   "d": "2026-10-17",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "AP신문",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zY2tral9mVFV2Z0RoMGNKUnQ1bWVTTkQwMVBHTkJ3d1VnOTYzb3JJRFZVOFo4R3RiYjNzREcwQUhMS2hXOU9iWGg1REhsQk1ucFpGQi1jTzFncjF3LUpQbkJkRjFPQ19UakY2dNIBbEFVX3lxTE9zY2tral9mVFV2Z0RoMGNKUnQ1bWVTTkQwMVBHTkJ3d1VnOTYzb3JJRFZVOFo4R3RiYjNzREcwQUhMS2hXOU9iWGg1REhsQk1ucFpGQi1jTzFncjF3LUpQbkJkRjFPQ19UakY2dA?oc=5",
-   "title": "노량진수산시장이 '바다축제'의 장으로…수협, 수산물 소비 살린다",
-   "summary": ""
-  },
-  {
    "id": "g39",
    "d": "2026-10-17",
    "region": "해외",
@@ -5187,9 +5187,9 @@
    "region": "해외",
    "cat": "가공·소재",
    "item": "rawsugar",
-   "source": "Barchart.com (영문)",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmNyWXJzOGlrakpvOTl6MWQ1dDdPV0pCeEJmbWxkRk41eTlYSzk0aW55dmRUa3pTS0JneWlOUk5RNG8yZlNMS1h4S01pZ19rX3VVZnNuUGtJU1o3NEFGMHhFNWY3dDAtSkFUV2dFTm5zdU9GTEh0dXdqUzhWUG02YjRUUnM4UWZjSkRwamxkZ0Yyby04TUhKUzNSNEFaWkpGV0ZYSg?oc=5",
-   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
+   "source": "S&P Global (영문)",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
+   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
    "summary": ""
   },
   {
@@ -5286,9 +5286,9 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "NerdWallet (영문)",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FRkNyNV9nVm5vTnlael9YQTlhV25vM21nVXlETHhLV252dV9DUk1RemYtT0ZhUk53ME0tWkJUVkNJeWRQQVkzWTgxVjd1dWw5QkotRG9UTmdmeHlNRkh5QnpGNVBGRjRHVnY1amZzem5lcDA?oc=5",
-   "title": "Why Is Beef So Expensive?",
+   "source": "ABC News - Breaking News, Latest News and Videos (영문)",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUdxV2twV2R3a0dpcDJ5Zk84Z0trRG10VXhSNHpiekpBRHpJTnNPWXFvZmtfbHhYbFlfcjdfamlPcmUzbHRwU2s0Q3NySUJ0VlNfMGxIUHRtcWVBOWJyY2hjWmRfUm5ONXVTbkxhcVZWbTBtaUlTc2xnMFV4VS1IU9IBhgFBVV95cUxQcmdPLVJEU0dhWFdFUTdKaVNUd1BsS19QYmJrc2cxNl8yQkFLeGs4RDJxZUlCcHdVLTRldHluakpWZHp5REJzRlFXdHQtOEM0RHlGMGJkN2pjb1lsTUYzQkxPTkdmR1JlRnkxSzNhc1BXLWNXODFoMm1uMU5sLU1aWnY1REFLZw?oc=5",
+   "title": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?)",
    "summary": ""
   },
   {
