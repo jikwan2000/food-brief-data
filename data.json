@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:27:16.021Z",
+ "updated": "2026-10-21T12:29:43.210Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2071,7 +2071,7 @@
     ],
     [
      "2026-10-21",
-     0.4555
+     0.4515
     ]
    ],
    "base": 0.4220902690824005,
@@ -3187,7 +3187,7 @@
     ],
     [
      "2026-10-21",
-     252.2
+     250.5
     ]
    ],
    "base": 251.1895513227513,
@@ -4375,7 +4375,7 @@
     ],
     [
      "2026-10-21",
-     1467.6
+     1459
     ]
    ],
    "base": 1211.8355732119146,
@@ -4757,18 +4757,7 @@
    "summary": ""
   },
   {
-   "id": "g13",
-   "d": "2026-10-21",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "인천투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcllZaDdWZ3IxaDc5MGl0SmZOWVlSYllXX0dhbWkxQjd1NkZPQkxDYnVDM2pTVWxrd0syQW1lYjZ5SVRLWFZwdkxPeG84dWo3cEF4VExkZ1FNc2FjUEp0TzVWcktRTmUyM3J1WTJnZHc?oc=5",
-   "title": "인천시, 24일 연안부두 수산물 축제 개막··· 꽃게 '반값' 할인 판매",
-   "summary": ""
-  },
-  {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "농산물",
@@ -4779,7 +4768,7 @@
    "summary": ""
   },
   {
-   "id": "g60",
+   "id": "g61",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "가공·소재",
@@ -4790,14 +4779,14 @@
    "summary": ""
   },
   {
-   "id": "g21",
+   "id": "g11",
    "d": "2026-10-20",
    "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "서울경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cFJQckRrcjdVcDk4WXA2bGtQMDdRcVp4dnZQTlQ0cWZDWWkyOWo5NDhyZy1sZ1RwNGdQbUp3azZkQy1oZHl6WDNtVGxtTFMzVWfSAVNBVV95cUxPOVQ3Z3NxX0w4ZEpCb2h5VlJtcWNoOXRCT0wxRkZaM3NJYmpncXpjbEt3aWNJdzlKSjgxU1MwbndfdzZxOS1OOURkTVBQdUJvbmZHMA?oc=5",
-   "title": "농축산물 급등에 생산자물가 두 달 연속 상승...9월 0.2%↑[Pick코노미]",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "소셜밸류",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kRnhoVEVmNDI4UU5weVlxVGEtWVJVRWNXYnROOGtrTDZhRGtlMkFLS2ZSMmVxYjZNUkNTamo2aEVCQVhRbEdrck1RbHJ1WkNyRm15Rm1pN3VXQXAyb3BwX0R1eWFDZTRsUTFkR9IBbEFVX3lxTE1kRnhoVEVmNDI4UU5weVlxVGEtWVJVRWNXYnROOGtrTDZhRGtlMkFLS2ZSMmVxYjZNUkNTamo2aEVCQVhRbEdrck1RbHJ1WkNyRm15Rm1pN3VXQXAyb3BwX0R1eWFDZTRsUTFkRw?oc=5",
+   "title": "초밥 브랜드 ′호주에서 온 회전초밥′, 부산 대연점·동래점 잇따라 오픈",
    "summary": ""
   },
   {
@@ -4867,7 +4856,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4878,7 +4867,7 @@
    "summary": ""
   },
   {
-   "id": "g59",
+   "id": "g60",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4922,7 +4911,7 @@
    "summary": ""
   },
   {
-   "id": "g10",
+   "id": "g9",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4933,7 +4922,7 @@
    "summary": ""
   },
   {
-   "id": "g12",
+   "id": "g13",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4955,7 +4944,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g22",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "정책·유통",
@@ -5032,7 +5021,18 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g43",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "이데일리",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUlCbUZFNlVsSEdnQWg5eXVTT0p5RzZsMkpHSEp4UjFzaXNxRnRzRTBheFZVOVdHbVZKeEJRVUNzcGFvSzJwenFBTmdaYzVFbVhLSGUwenZaU1ZnMGZkUXNOV1N5ckFVYnQzNXJNTEduWXVSQjA0N3pYR2hZYy11YQ?oc=5",
+   "title": "전쟁에 엘니뇨까지…세계 식품물가, 2027년까지 상승 경고",
+   "summary": ""
+  },
+  {
+   "id": "g45",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -5043,7 +5043,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g46",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -5054,7 +5054,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5065,7 +5065,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g56",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5087,7 +5087,7 @@
    "summary": ""
   },
   {
-   "id": "g11",
+   "id": "g10",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "수산물",
@@ -5098,7 +5098,7 @@
    "summary": ""
   },
   {
-   "id": "g22",
+   "id": "g21",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "정책·유통",
@@ -5109,7 +5109,18 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g23",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wNHJJR3phU3ExNDZHdTM0akpnSHpBS19sRzh3Vm85YmxGRU1oeEhTZlR5Umg4T2l3Wm1pdEpFaF8zNlpJVnd0dkFjLWRRS0dRbWtyZktZTVNoUzFUS1I3enZoNloycW1qUFM4Y19B?oc=5",
+   "title": "특수 라운드에만 나오는 소닉 카지노 보증 업체 심벌 정보",
+   "summary": ""
+  },
+  {
+   "id": "g48",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -5120,7 +5131,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g57",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5131,7 +5142,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g58",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5186,7 +5197,7 @@
    "summary": ""
   },
   {
-   "id": "g9",
+   "id": "g8",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -5194,6 +5205,17 @@
    "source": "헬로디디",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTM2pMWDlMZUpNUzZWdEZDWFVCOXRRemx4RHlYMVhVNXlwYUEteVFldVhyb3hlaEw2d28xRVBwZ0x2ZlZYc1JvQ3pPbjlFOXFIUHRCeVhad1FxRm02cDdFZzhiOXdUYzRyRnc?oc=5",
    "title": "AI가 두렵다? \"기술 리스크 기술로 해결해야···벤처 역할 더 커질 것\"",
+   "summary": ""
+  },
+  {
+   "id": "g12",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "리드경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZDRFYWpUR3ZDNklmUDFMU25BQW10ZEZDejBkQk1pcW94YmJGTkd3dll1ZjZud0JVZEdGWFYxY3B2Y0ZKZUZKRXNLQUg0QWYyMUFHMEV4WktaTUFwYW8waHJTc3lhRnlyd3ktYTEta0U?oc=5",
+   "title": "수협중앙회, 노량진에 바다가 열린다…24일 개막 ‘도심 속 바다축제’ 먹거리·공연 풍성",
    "summary": ""
   },
   {
@@ -5205,6 +5227,17 @@
    "source": "에너지경제신문",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14clVQa2VkdnRXSXFybVAxaWhJSHdjV1ZCc3JuV19EMXVVcmk4MVoxcVVNX1NUWXpudVdlVmdiUUlGak5IeEFVZ2tHa1JKajJ5S3Z4SHlrMHhVSk0?oc=5",
    "title": "“가을 전어 먹고 참치 해체쇼 보세요”...수협중앙회, ‘도심 속 바다축제’ 개최",
+   "summary": ""
+  },
+  {
+   "id": "g19",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "농업인신문",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uNE1UUGFLdEx5LU42bU9ibjdiZ0pELWU2cmtQclF5d3dfa2VTcEZJUXV4YWtvTkE4LTZETmFwNzluZmk5Y1MyeTRvOEYzNVZDanBYQ2JMOGVUY3dxMmxUV01IVzZDZm02RmZYbG13?oc=5",
+   "title": "“계란산업, ‘가격’도 ‘수급’도 정부 정책에 흔들렸다”",
    "summary": ""
   },
   {
@@ -5230,7 +5263,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g44",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -5241,7 +5274,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5252,7 +5285,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g50",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5263,7 +5296,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g51",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5274,7 +5307,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g52",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5285,7 +5318,7 @@
    "summary": ""
   },
   {
-   "id": "g58",
+   "id": "g59",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5318,7 +5351,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g18",
    "d": "2026-10-15",
    "region": "국내",
    "cat": "축산물",
@@ -5373,7 +5406,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5392,28 +5425,6 @@
    "source": "뉴스투데이",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UMDE3eDVnSmdRc09rWVo2TFoyUWRjNDFETndKcnQ4S1FuQm5WV3FyZnpfemdqd19DclVXQldxd2FYU2dXSTJ5elplTGo2QURDTk42alRFMFV6OHRmNFE?oc=5",
    "title": "농산물가격안정제 첫 시행…관건은 ‘선제적 수급관리’",
-   "summary": ""
-  },
-  {
-   "id": "g8",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzlSR2RfOUJXSDZ5cmoyNUQyaFZpVFQtd0I3QTR6QVdCMHpubXVpMTljT3FCLXllTWV6a0hZMVc2NkVVZ01nbFZCN3NyTjNGOUxlVmJlNVhQVGhHeUwyN2g1ZXB0c0JIUUdZZmhzRTFTdWJFWlBwVW5qMGRycmVKcDNFRmJkMnl3SVZDelZMUHlQX2pmQlhoMHkyU1pwS1FWWUhF?oc=5",
-   "title": "2026년 41주차 노르웨이 냉동 고등어 수출: 물량 감소, 가격 상승",
-   "summary": ""
-  },
-  {
-   "id": "g18",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JWExYWWJnTHBKc29tbHFsOExRbWcyNWlfVy1JbFVSSE42LXpPVkZxNUwxUkhTeDBYeGotRFdBNjVTRlc1WFoxY2FyNmJqRmVoZGk0djdtTDEtUQ?oc=5",
-   "title": "달걀 수입에 축산발전기금 1211억 썼다…축산업계 ‘공분’",
    "summary": ""
   }
  ],
