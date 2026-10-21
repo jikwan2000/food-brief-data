@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:24:34.936Z",
+ "updated": "2026-10-21T00:26:47.196Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -961,10 +961,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-15",
-     0.3527
-    ],
     [
      "2025-09-16",
      0.3505
@@ -2078,10 +2074,6 @@
   "wheat": {
    "raw": [
     [
-     "2025-09-15",
-     188.9
-    ],
-    [
      "2025-09-16",
      192.4
     ],
@@ -3182,8 +3174,8 @@
      257
     ],
     [
-     "2026-10-20",
-     253.5
+     "2026-10-21",
+     253.2
     ]
    ],
    "base": 251.1895513227513,
@@ -3265,10 +3257,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-15",
-     1141.1
-    ],
     [
      "2025-09-16",
      1161.6
@@ -4370,8 +4358,8 @@
      1470.3
     ],
     [
-     "2026-10-20",
-     1470.7
+     "2026-10-21",
+     1471.1
     ]
    ],
    "base": 1211.8355732119146,
@@ -4742,7 +4730,18 @@
  },
  "news": [
   {
-   "id": "g30",
+   "id": "g23",
+   "d": "2026-10-20",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cFJQckRrcjdVcDk4WXA2bGtQMDdRcVp4dnZQTlQ0cWZDWWkyOWo5NDhyZy1sZ1RwNGdQbUp3azZkQy1oZHl6WDNtVGxtTFMzVWfSAVNBVV95cUxPOVQ3Z3NxX0w4ZEpCb2h5VlJtcWNoOXRCT0wxRkZaM3NJYmpncXpjbEt3aWNJdzlKSjgxU1MwbndfdzZxOS1OOURkTVBQdUJvbmZHMA?oc=5",
+   "title": "농축산물 급등에 생산자물가 두 달 연속 상승...9월 0.2%↑[Pick코노미]",
+   "summary": ""
+  },
+  {
+   "id": "g31",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4753,7 +4752,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g34",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4764,7 +4763,7 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g35",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4775,7 +4774,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g38",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4786,7 +4785,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4797,7 +4796,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g58",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4808,7 +4807,7 @@
    "summary": ""
   },
   {
-   "id": "g58",
+   "id": "g59",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4852,7 +4851,7 @@
    "summary": ""
   },
   {
-   "id": "g11",
+   "id": "g10",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4885,7 +4884,7 @@
    "summary": ""
   },
   {
-   "id": "g23",
+   "id": "g24",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4896,7 +4895,7 @@
    "summary": ""
   },
   {
-   "id": "g28",
+   "id": "g29",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4907,7 +4906,7 @@
    "summary": ""
   },
   {
-   "id": "g29",
+   "id": "g30",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4918,7 +4917,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g33",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4929,7 +4928,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g36",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4940,7 +4939,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g41",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4951,7 +4950,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4962,7 +4961,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g44",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -4973,7 +4972,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g51",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -4984,7 +4983,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5006,7 +5005,7 @@
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g2",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "농산물",
@@ -5014,6 +5013,17 @@
    "source": "뉴스1",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0V3dfSU1aaFZfMXlicjlkWDlfY1Y4M1FORHlzby1uUGVxZ3htUzlNU240cGstVUc0RUh4TC00UkswN0s4N0tMdkhObw?oc=5",
    "title": "배추 가격은 하락했지만 새우젓 30% 폭등",
+   "summary": ""
+  },
+  {
+   "id": "g11",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN29ia0daVzNWVVFFQU1PMU1mLUF6bWt2S2hWaWV0S0ZjZHZHZS1odlRNUjFiWmFVZWJZVG9xOGNYQ21HQzVkZ3dQOW11ZTFzelJ5XzhGUTlSU3NUMnN2VWMzQ1g5QWlPLUpSY2xYQXJRTklqNGlHNnhPakRJNWpCVWNVd1VIclBYVENLM0pkcTBjX1gwQTFXNHhYSVN2R0VFUS1n?oc=5",
+   "title": "생선 두 마리에 16만 8천 VND가 드는데, 호치민시에서 정통 현지 음식을 찾아 수백만 VND를 쓰는 추세가 나타나고 있다.",
    "summary": ""
   },
   {
@@ -5028,7 +5038,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g46",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -5039,7 +5049,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5050,7 +5060,7 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-17",
    "region": "국내",
    "cat": "농산물",
@@ -5061,7 +5071,7 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g40",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -5072,7 +5082,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g45",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -5127,7 +5137,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5138,7 +5148,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
@@ -5149,7 +5159,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5160,7 +5170,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5171,7 +5181,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5182,7 +5192,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g56",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5193,7 +5203,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g57",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5215,7 +5225,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g18",
    "d": "2026-10-15",
    "region": "국내",
    "cat": "축산물",
@@ -5226,7 +5236,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g26",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5237,7 +5247,7 @@
    "summary": ""
   },
   {
-   "id": "g26",
+   "id": "g27",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5248,7 +5258,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g32",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5259,7 +5269,7 @@
    "summary": ""
   },
   {
-   "id": "g36",
+   "id": "g37",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
@@ -5270,7 +5280,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g50",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
@@ -5281,14 +5291,14 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g52",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "ABC News - Breaking News, Latest News and Videos (영문)",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUdxV2twV2R3a0dpcDJ5Zk84Z0trRG10VXhSNHpiekpBRHpJTnNPWXFvZmtfbHhYbFlfcjdfamlPcmUzbHRwU2s0Q3NySUJ0VlNfMGxIUHRtcWVBOWJyY2hjWmRfUm5ONXVTbkxhcVZWbTBtaUlTc2xnMFV4VS1IU9IBhgFBVV95cUxQcmdPLVJEU0dhWFdFUTdKaVNUd1BsS19QYmJrc2cxNl8yQkFLeGs4RDJxZUlCcHdVLTRldHluakpWZHp5REJzRlFXdHQtOEM0RHlGMGJkN2pjb1lsTUYzQkxPTkdmR1JlRnkxSzNhc1BXLWNXODFoMm1uMU5sLU1aWnY1REFLZw?oc=5",
-   "title": "Everyone has the same question in the midterms — where's the beef? (And how much does it cost?)",
+   "source": "NerdWallet (영문)",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FRkNyNV9nVm5vTnlael9YQTlhV25vM21nVXlETHhLV252dV9DUk1RemYtT0ZhUk53ME0tWkJUVkNJeWRQQVkzWTgxVjd1dWw5QkotRG9UTmdmeHlNRkh5QnpGNVBGRjRHVnY1amZzem5lcDA?oc=5",
+   "title": "Why Is Beef So Expensive?",
    "summary": ""
   },
   {
@@ -5314,17 +5324,6 @@
    "summary": ""
   },
   {
-   "id": "g10",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "부산일보",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcGVLOHpqZFh1R2p1UFByX2hPbU9LdUdMbV9tbXpXYXBKZjB4TnYzRXc0UXMwX21mMlJDYXpGX2ozVVlFRWh5NTRfVmU2WWd0XzdyaXlueS1FVzBDcnd2eDlKR2RrMGp1bVFCcmIyNTNBZw?oc=5",
-   "title": "[골목시장, 다시 장날] 곰장어·선짓국에 고등어까지… 서민들의 밥상 지키는 충무동해안시장",
-   "summary": ""
-  },
-  {
    "id": "g12",
    "d": "2026-10-14",
    "region": "국내",
@@ -5336,7 +5335,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g17",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "축산물",
@@ -5344,6 +5343,17 @@
    "source": "뉴스토마토",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LN0JNVnp2VTVYMUhjSDYyY2d3SWZpRWdiV05WQl8xYkVQREp5MWRkdS1uQWZxdHVpMEM1SmVCekxieVFzTHY3VFQ2RXk2ME81dTdjQ0FsaWR6Tmd1cTJubA?oc=5",
    "title": "계란 도매가 하락분 어디로…소비자가는 되레 상승",
+   "summary": ""
+  },
+  {
+   "id": "g19",
+   "d": "2026-10-14",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "농민신문",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JWExYWWJnTHBKc29tbHFsOExRbWcyNWlfVy1JbFVSSE42LXpPVkZxNUwxUkhTeDBYeGotRFdBNjVTRlc1WFoxY2FyNmJqRmVoZGk0djdtTDEtUQ?oc=5",
+   "title": "달걀 수입에 축산발전기금 1211억 썼다…축산업계 ‘공분’",
    "summary": ""
   },
   {
@@ -5358,7 +5368,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g28",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5369,7 +5379,7 @@
    "summary": ""
   },
   {
-   "id": "g38",
+   "id": "g39",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
@@ -5377,17 +5387,6 @@
    "source": "한겨레",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUpaV0s4UzZKQlBVTFRnRFlVSTlKWk96S2tRZDBFQUVIZnA5MXREWWV4YjBNLVNlQ05kazdwUjhoMHcySzIxbTc3Y09ONWVkdkpVakRlU2NCSmV3VnRMeUNSeE9FM0xmVzhMbDIwM1lxQVR3LVdjY0MzNWo2ZWVvdzln?oc=5",
    "title": "‘쌀 대국’ 인도 가뭄, 태국은 폭우…세계의 식탁 덮친 엘니뇨",
-   "summary": ""
-  },
-  {
-   "id": "g17",
-   "d": "2026-10-13",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "축산신문",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95TVdhUGh2OXM0WGlJS2ljU01MQ2c4amYtSDQ1TURtRkxDRi1veXFkZWlNaUt6c2thLVlGUmNUVExiakdkMlN2ODcyaFlxQm9kUThETGxELWM5TnhITktKTTV3bUtRZXFi?oc=5",
-   "title": "계란 가격 담합·AI 방역까지…농식품부 정책 ‘도마 위’",
    "summary": ""
   }
  ],
