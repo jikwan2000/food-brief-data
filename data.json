@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:26:47.196Z",
+ "updated": "2026-10-21T03:25:16.727Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -954,9 +954,13 @@
     [
      "2026-10-20",
      3643
+    ],
+    [
+     "2026-10-21",
+     3779
     ]
    ],
-   "base": 5417.897435897436,
+   "base": 5338.692307692308,
    "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
   },
   "rawsugar": {
@@ -3174,6 +3178,10 @@
      257
     ],
     [
+     "2026-10-20",
+     253.9
+    ],
+    [
      "2026-10-21",
      253.2
     ]
@@ -4358,8 +4366,12 @@
      1470.3
     ],
     [
-     "2026-10-21",
+     "2026-10-20",
      1471.1
+    ],
+    [
+     "2026-10-21",
+     1475.6
     ]
    ],
    "base": 1211.8355732119146,
@@ -4730,7 +4742,18 @@
  },
  "news": [
   {
-   "id": "g23",
+   "id": "g59",
+   "d": "2026-10-21",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wmp",
+   "source": "TradingView (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0xCYnBORjdyczk4d1YyZm5yZ1FzMXUxNjd2N3VPYjhNcHdvYzNxUGRpZkUybHlENVI0NFhTNVQwdzI4NGpicmt0T1d1LUw5dHFCMVFsRDBuZFgtSmJoOXlBZzl2bkxKQW5aMW5hNWxtWEwtcTN5Y0FCa2tzbEVKcVZDWGF6ejdjSE5jMlMzWkM2SUNQVkRxRGxzV183RE9fbWc?oc=5",
+   "title": "Global Dairy Prices Post Biggest Gain in 7 Months",
+   "summary": ""
+  },
+  {
+   "id": "g21",
    "d": "2026-10-20",
    "region": "국내",
    "cat": "정책·유통",
@@ -4741,7 +4764,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
+   "id": "g30",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4807,17 +4830,6 @@
    "summary": ""
   },
   {
-   "id": "g59",
-   "d": "2026-10-20",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wmp",
-   "source": "Dairynews.today (영문)",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelozRmNHcU03a08zMmZJOWw5TEQwT0haQ3VaQzhudHZRSnFlcnZNYnBrZkhjRGl6dlJhRlc0NEtoZmxubHpYQnhoQVZvMENraDRfd3VKdU80NkhkZFZmTGxVLTEwdVRVTm9nZkJjZDNwanNZOTYzOG9aTElpTndESm8wSXlWaHlSX3ZJcEJMX2ZLX3k0OEZKSG4wYlIxbkxo?oc=5",
-   "title": "GDT Index Rises 2.5% as Average Price Reaches USD 4,021/MT",
-   "summary": ""
-  },
-  {
    "id": "g4",
    "d": "2026-10-19",
    "region": "국내",
@@ -4851,7 +4863,7 @@
    "summary": ""
   },
   {
-   "id": "g10",
+   "id": "g11",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4862,7 +4874,7 @@
    "summary": ""
   },
   {
-   "id": "g15",
+   "id": "g14",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4873,7 +4885,7 @@
    "summary": ""
   },
   {
-   "id": "g21",
+   "id": "g20",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "정책·유통",
@@ -4881,6 +4893,17 @@
    "source": "푸드투데이",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84X290WURWSl91blRqWG1QSk9vaWZQS2pFQWlfYjJqM3FXZVdvdE51NDVNSE1pV1hyNVA0SnpzYWFSM0JDTmNabzQwVmlGYl85ZERhVi1DU0dmaFBOdDJ1U3RlZHVidw?oc=5",
    "title": "농식품부, 파프리카·토마토·샤인머스캣 최대 20% 할인",
+   "summary": ""
+  },
+  {
+   "id": "g23",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fbG1EZkgtNTB0SG1nWUo2QjRzQmFYandQUWlReDdLV0xnZ2VBV0NLQkJlTWpVRGNPSUl0OU5FWUtsQTR4cV81QURkMnZwdjladllTRU03MjB5Q1drUi1wM1JzX2xPRWc1WTNN?oc=5",
+   "title": "윈조이 게임 내 공지 표시 확인",
    "summary": ""
   },
   {
@@ -4906,7 +4929,7 @@
    "summary": ""
   },
   {
-   "id": "g30",
+   "id": "g31",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4939,7 +4962,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -4994,6 +5017,17 @@
    "summary": ""
   },
   {
+   "id": "g57",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "AgWeb (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmE5LUtPSkxEdG9TLVRxS1I1cWNuTXZuWVc1X2RSb3B6WmU0bEM0dkZRM041TEYyeDc1dlYySDFrNXZ3NWI0MzlSSHIzUDh5OHBOSDVNYmdVajFqNU5Qa1NuNjMzM2lHMlgzSGhqbHNaLUVBdVJRby1EY3FqY2V5b3VROWs5S3ctTlhHZXp1RWc?oc=5",
+   "title": "Grains Fall as Funds Continue to Sell, Corn Takes Out Report Low",
+   "summary": ""
+  },
+  {
    "id": "g0",
    "d": "2026-10-18",
    "region": "국내",
@@ -5005,7 +5039,7 @@
    "summary": ""
   },
   {
-   "id": "g2",
+   "id": "g3",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "농산물",
@@ -5013,17 +5047,6 @@
    "source": "뉴스1",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0V3dfSU1aaFZfMXlicjlkWDlfY1Y4M1FORHlzby1uUGVxZ3htUzlNU240cGstVUc0RUh4TC00UkswN0s4N0tMdkhObw?oc=5",
    "title": "배추 가격은 하락했지만 새우젓 30% 폭등",
-   "summary": ""
-  },
-  {
-   "id": "g11",
-   "d": "2026-10-18",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN29ia0daVzNWVVFFQU1PMU1mLUF6bWt2S2hWaWV0S0ZjZHZHZS1odlRNUjFiWmFVZWJZVG9xOGNYQ21HQzVkZ3dQOW11ZTFzelJ5XzhGUTlSU3NUMnN2VWMzQ1g5QWlPLUpSY2xYQXJRTklqNGlHNnhPakRJNWpCVWNVd1VIclBYVENLM0pkcTBjX1gwQTFXNHhYSVN2R0VFUS1n?oc=5",
-   "title": "생선 두 마리에 16만 8천 VND가 드는데, 호치민시에서 정통 현지 음식을 찾아 수백만 VND를 쓰는 추세가 나타나고 있다.",
    "summary": ""
   },
   {
@@ -5060,7 +5083,7 @@
    "summary": ""
   },
   {
-   "id": "g3",
+   "id": "g2",
    "d": "2026-10-17",
    "region": "국내",
    "cat": "농산물",
@@ -5071,7 +5094,18 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g15",
+   "d": "2026-10-17",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "AP신문",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zY2tral9mVFV2Z0RoMGNKUnQ1bWVTTkQwMVBHTkJ3d1VnOTYzb3JJRFZVOFo4R3RiYjNzREcwQUhMS2hXOU9iWGg1REhsQk1ucFpGQi1jTzFncjF3LUpQbkJkRjFPQ19UakY2dNIBbEFVX3lxTE9zY2tral9mVFV2Z0RoMGNKUnQ1bWVTTkQwMVBHTkJ3d1VnOTYzb3JJRFZVOFo4R3RiYjNzREcwQUhMS2hXOU9iWGg1REhsQk1ucFpGQi1jTzFncjF3LUpQbkJkRjFPQ19UakY2dA?oc=5",
+   "title": "노량진수산시장이 '바다축제'의 장으로…수협, 수산물 소비 살린다",
+   "summary": ""
+  },
+  {
+   "id": "g39",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
@@ -5115,7 +5149,7 @@
    "summary": ""
   },
   {
-   "id": "g13",
+   "id": "g12",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -5126,7 +5160,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g13",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -5203,17 +5237,6 @@
    "summary": ""
   },
   {
-   "id": "g57",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "CME Group (영문)",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53RGFRVTZqQUhQeVQ5ekctQ2hhTUM1cGFheFpVZVNMa3VQdlhLbndVakUzN2Z4RWZ6cHcwVkx2c1VHc0RnLWJxOGI5TF9VXzZmVkFEX05GQjVaN19YX1Z5czJ1UWVlYlFKRDdFaHVHVUpDcDJpMGp3aklVcw?oc=5",
-   "title": "KC Spot HRW Wheat Daily Price",
-   "summary": ""
-  },
-  {
    "id": "g16",
    "d": "2026-10-15",
    "region": "국내",
@@ -5233,6 +5256,17 @@
    "source": "동아일보",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NQU5PN1hvTWF5SzNESnVOeG94Z2dvd2R5RjhEclUtd05ueVpiV1NlYkF6RXBnTUJpd3lrTXZueEFkUnBCQVBtbjhEVjlTRWFLQVdZR1RHSDlRbkNjcWZjdmV3YkszR3VBc0lfZURXUml3N210cHfSAWZBVV95cUxQVERObWpHa25ZdDRCYTN0eHY3SmRYUnNXTDdOcndlNWY4MmhIN3FNSDRjeDZKRDlXSzQwZnZzTW9yamRtX0hrNHhFVDFZdGNRcWdrR0tLeWlIekRTcHFGOVV2c1E2Smc?oc=5",
    "title": "브라질산 계란 한판 수입가 4만4000원…올해만 16억 썼다, 왜?",
+   "summary": ""
+  },
+  {
+   "id": "g19",
+   "d": "2026-10-15",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "축산신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZEZBX3Jpb3RVYWZQTDgtTm95RHU2dVpKMGtwODRxQ29LdzlGanlGVmtqaGZfc1Y0c0lTYUhiSWR5WG9DWHFibVFzY2VQUmMtdi1aMVRLaXBoRlY5S3AzV3o3WHVIUWdy?oc=5",
+   "title": "계란 산지가격 하락세 뚜렷…소비자가격 반영은 더뎌",
    "summary": ""
   },
   {
@@ -5324,14 +5358,14 @@
    "summary": ""
   },
   {
-   "id": "g12",
+   "id": "g10",
    "d": "2026-10-14",
    "region": "국내",
    "cat": "수산물",
-   "item": null,
-   "source": "환경일보",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Oc0poaDBjQ0NpREdMb0xaNmhUR1d6TU1adzhUb1d4bThqNjAybnpOZHZvX3YyTVNJUFgxRVpkY3h4QVpCN0k5LTh1OUF5Nm16RmxqS05yUVRMTk1MUk1wRXlZckFsR1ZJ?oc=5",
-   "title": "수산발전기금 25년간 기업 기부 전무",
+   "item": "mackerel",
+   "source": "부산일보",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcGVLOHpqZFh1R2p1UFByX2hPbU9LdUdMbV9tbXpXYXBKZjB4TnYzRXc0UXMwX21mMlJDYXpGX2ozVVlFRWh5NTRfVmU2WWd0XzdyaXlueS1FVzBDcnd2eDlKR2RrMGp1bVFCcmIyNTNBZw?oc=5",
+   "title": "[골목시장, 다시 장날] 곰장어·선짓국에 고등어까지… 서민들의 밥상 지키는 충무동해안시장",
    "summary": ""
   },
   {
@@ -5346,28 +5380,6 @@
    "summary": ""
   },
   {
-   "id": "g19",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "농민신문",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JWExYWWJnTHBKc29tbHFsOExRbWcyNWlfVy1JbFVSSE42LXpPVkZxNUwxUkhTeDBYeGotRFdBNjVTRlc1WFoxY2FyNmJqRmVoZGk0djdtTDEtUQ?oc=5",
-   "title": "달걀 수입에 축산발전기금 1211억 썼다…축산업계 ‘공분’",
-   "summary": ""
-  },
-  {
-   "id": "g20",
-   "d": "2026-10-14",
-   "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "뉴데일리",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mb2JONzZGdEVWcW9kWEQxSFR5WFM0SVBCZnMzUF9sMFdkaTd5Zk1MandOb0lMYlE2UmpHTzZfY2VDYmZSYkl3NUR5SGlZcjdhTlJ0eTk3dkduRENiQzYxVmRZY29ualNUTXBCbVY5T3k4MlNLYUJxSWk0ONIBgAFBVV95cUxNZy1WYTZSV3FFbTlRUzdiTDRzWm50VHV4UmRocHBxczliVVNyMnZQNFlMM2g0T2tyczc4UmdLWFg5S1lqVWI5b1o5YVdDMmM0U2NVZWRuN0dRajBiYmxOTGl2SThGc1R1NUMzYXRCaGFUUHVTUERQdDdzMUo0S09keQ?oc=5",
-   "title": "\"아랫돌 빼서 윗돌 괴기\" … 재정으로 누른 '밥상물가' 지속성 도마",
-   "summary": ""
-  },
-  {
    "id": "g28",
    "d": "2026-10-14",
    "region": "해외",
@@ -5379,14 +5391,14 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g41",
    "d": "2026-10-14",
    "region": "해외",
    "cat": "가공·소재",
    "item": "thairice",
-   "source": "한겨레",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUpaV0s4UzZKQlBVTFRnRFlVSTlKWk96S2tRZDBFQUVIZnA5MXREWWV4YjBNLVNlQ05kazdwUjhoMHcySzIxbTc3Y09ONWVkdkpVakRlU2NCSmV3VnRMeUNSeE9FM0xmVzhMbDIwM1lxQVR3LVdjY0MzNWo2ZWVvdzln?oc=5",
-   "title": "‘쌀 대국’ 인도 가뭄, 태국은 폭우…세계의 식탁 덮친 엘니뇨",
+   "source": "서울경제TV",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tLWllc1JUUUJTOFhma1p1d2U0bjRxVHlkZ3VUVUF5d1NHd1hHZWlWMnVRak5iZmxpNU1RM1drcWVQQU84aEV0cmVUcW12eEwtQ09sRmFacWhBTkcyaGtWa3dnLUM?oc=5",
+   "title": "당진 아미쌀, 호주 시장 뚫는다…오세아니아 수출 교두보 모색",
    "summary": ""
   }
  ],
