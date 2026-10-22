@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:30:35.082Z",
+ "updated": "2026-10-22T09:28:49.896Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2072,6 +2072,10 @@
     [
      "2026-10-21",
      0.4508
+    ],
+    [
+     "2026-10-22",
+     0.4524
     ]
    ],
    "base": 0.4220902690824005,
@@ -3187,7 +3191,7 @@
     ],
     [
      "2026-10-22",
-     246.8
+     246.7
     ]
    ],
    "base": 251.1895513227513,
@@ -4375,7 +4379,7 @@
     ],
     [
      "2026-10-22",
-     1457.5
+     1453.1
     ]
    ],
    "base": 1211.8355732119146,
@@ -4779,6 +4783,17 @@
    "summary": ""
   },
   {
+   "id": "g8",
+   "d": "2026-10-21",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2VGLTk1YXh2cWlLUVVBdGpIc3E2b01vNkVvUklodXBqcGRYTFk3M3lQUVVsbTkzY3lKVnZCRWdVRVJ3QkNnSGJxMHhhNUJzclpCc1h6V0RKd08tczYwWlZtXzljUzV0cm5lbUJ2VlVCSEo3OUpsOE82VTlnTF9XZ3RqelhqWHRNQm5GeUJnUTE4TDZTU1VmRW9PN0g?oc=5",
+   "title": "42주차 노르웨이산 냉동 고등어 가격 상승, 청어·필레 흐름은 - 뉴스 및 통계",
+   "summary": ""
+  },
+  {
    "id": "g36",
    "d": "2026-10-21",
    "region": "해외",
@@ -4831,17 +4846,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0lJdnE0VS14SDJ5RjExVFF1ZXVFUmJ0aWF5OVZsRzZ3RmdNOEx6Yk9iem5MMmxfcFo2aElVWXBGeTJLVGJocUlYTVZ1VXJZX3FlMlEwZHVnQ1NacXFZMUc0NHY5TElra0E5VzM4dEFXcWVTRVRjV2piTkZyQzJCTHJkY1VzcmdRWThaNTVYUFlkSWFjcjJNUTdZOA?oc=5",
    "title": "수입 고등어는 가격대가 다양하며, 일부 종류는 kg당 거의 35만 VND에 달합니다.",
-   "summary": ""
-  },
-  {
-   "id": "g11",
-   "d": "2026-10-20",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "소셜밸류",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kRnhoVEVmNDI4UU5weVlxVGEtWVJVRWNXYnROOGtrTDZhRGtlMkFLS2ZSMmVxYjZNUkNTamo2aEVCQVhRbEdrck1RbHJ1WkNyRm15Rm1pN3VXQXAyb3BwX0R1eWFDZTRsUTFkR9IBbEFVX3lxTE1kRnhoVEVmNDI4UU5weVlxVGEtWVJVRWNXYnROOGtrTDZhRGtlMkFLS2ZSMmVxYjZNUkNTamo2aEVCQVhRbEdrck1RbHJ1WkNyRm15Rm1pN3VXQXAyb3BwX0R1eWFDZTRsUTFkRw?oc=5",
-   "title": "초밥 브랜드 ′호주에서 온 회전초밥′, 부산 대연점·동래점 잇따라 오픈",
    "summary": ""
   },
   {
@@ -4966,7 +4970,7 @@
    "summary": ""
   },
   {
-   "id": "g8",
+   "id": "g11",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4985,6 +4989,17 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUHRuVW9FcGh1RDFDYmgzRkhnRnhGYWk2UDJzeV9FX2t0YlJNeEI5VFNXV3ZBWkNCM19tNHotN0NRdnZzUVU4YlBHeGtNVWFfNldPNDI3Z0trM2xYdEg1edIBYEFVX3lxTE5yUHRuVW9FcGh1RDFDYmgzRkhnRnhGYWk2UDJzeV9FX2t0YlJNeEI5VFNXV3ZBWkNCM19tNHotN0NRdnZzUVU4YlBHeGtNVWFfNldPNDI3Z0trM2xYdEg1eQ?oc=5",
    "title": "경남 청년어업인 생산 제철 수산물, GS샵서 20% 할인 판매",
+   "summary": ""
+  },
+  {
+   "id": "g15",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "www.mobiinside.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTm5udWYtZ242QzhlYkxVZ1RIckVCQmZKWlRQeWVWQ2hSRTdzM2wtajBDX0dtXzllc2UyNGdnYXFpY191N1V4QkcwNmZPcmhnMm5QSU4wWURrT0paLVR5SGVVN2tCSEo2TFlidlJEMnJXR2NvMlhzM2x5ZXJBcWd2X0V4ZDZ6ZEdRUlp3WF93TWs?oc=5",
+   "title": "[모두의 창업자를 위한 안내서] 노량진에서 찍은 사진들이 570억",
    "summary": ""
   },
   {
@@ -5054,17 +5069,6 @@
    "summary": ""
   },
   {
-   "id": "g38",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hZHRUUkNoUWQwV2xaQkxTOG9oVi1wOTJ1TUdUUWZnNXlsXzg4ZTgxdHYzTDJLSmVFd0pJTmhzajVtLXgxUU5vQkpNNlBWeXU2MElTX2pNcXZkSUZOZkJtQmJOWmJQbXAwcTdfVlFB0gFuQVVfeXFMTWFkdFRSQ2hRZDBXbFpCTFM4b2hWLXA5MnVNR1RRZmc1eWxfODhlODF0djNMMktKZUV3SklOaHNqNW0teDFRTm9CSk02UFZ5dTYwSVNfak1xdmRJRk5mQm1CYk5aYlBtcDBxN19WUUE?oc=5",
-   "title": "\"삼양식품, 원화 강세에도 3분기 실적 컨센서스 부합할 것\"-현대차 - 머니투데이",
-   "summary": ""
-  },
-  {
    "id": "g40",
    "d": "2026-10-19",
    "region": "해외",
@@ -5117,6 +5121,17 @@
    "source": "The New York Times (영문)",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0ajBXNG1jQUd0aXZmQzFLaUx5UnFTeVhTTTdjbFlCdUtKR1lPM3NCWl9xN2ZIM1A5Q1V6allNVFQyRl9RZHdaX3BDUS02SWNzMXFKa0E3dURaTnI5TmtJSG13Zm5kdW9sQU9walctUzN2NzFPbWdWUmpTcm5pYmM?oc=5",
    "title": "Opinion | Your Burger Is Going to Get Only More Expensive",
+   "summary": ""
+  },
+  {
+   "id": "g52",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "WKRN News 2 (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGl0YzREZjQ1WGlCUVFiUk90c3lyQ0FHSWVnc2p3OXVHYjdIa2xGUy0zWHJpLWN0VEtsdm02bEdHOEN0Z3ptTVdYd2RXSFc0TVAwVEhEWmduY1RzT25PY1ptcVNxZ1hTXzkwanlzR3BwU0ViMnctb2tBZkNpc2hzN3JTaTlHSHdwZUpfUll3QTQ5QjdOaGFvZEVBMXlIQlZCeWZoNHc4R0tQVEQ1eVZYV2lQQlppSk91Y2hYTTltUVRTd9IBxwFBVV95cUxPVGhjanZxN3hGTk44b281b2xBSy0xZ1BoVjE1V2Z6TFpqMmpoVEJRZnNTMmJ3NzdHQzNrYUJ1TW9IdUcwMnN5N19YcFNRRTIyZGxlVWxGa1JGSjVRS3k3LVZFRzV4cHNQdDUxX2lydldEUXZuYnlpc1VySHVZSlBjNVM2Ui1MX1BaOWp6VUVmZ1lrNWU0Nzd6ck15QU1qU2l0UUs5WHczRW9VaXZYWVFMT3JoZXhuTmxNaGExTzUxUGhQbHBxSjc0?oc=5",
+   "title": "Middle Tennessee farmers still feeling the squeeze despite lower beef prices",
    "summary": ""
   },
   {
@@ -5263,17 +5278,6 @@
    "summary": ""
   },
   {
-   "id": "g15",
-   "d": "2026-10-16",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "리드경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZDRFYWpUR3ZDNklmUDFMU25BQW10ZEZDejBkQk1pcW94YmJGTkd3dll1ZjZud0JVZEdGWFYxY3B2Y0ZKZUZKRXNLQUg0QWYyMUFHMEV4WktaTUFwYW8waHJTc3lhRnlyd3ktYTEta0U?oc=5",
-   "title": "수협중앙회, 노량진에 바다가 열린다…24일 개막 ‘도심 속 바다축제’ 먹거리·공연 풍성",
-   "summary": ""
-  },
-  {
    "id": "g18",
    "d": "2026-10-16",
    "region": "국내",
@@ -5304,6 +5308,17 @@
    "source": "엔트로피타임즈",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4YjhIWThLbERFLWk4ZFpxcGJKd3ZQclU5c3JUUUo5QUJhOHdadnRwN3pvZFVqSWlZc1hTZkRPa05maEstN1ZwWmc1OTJmMHk4Rk9aaUVMU2FxZnpGS2ZrTHpLVQ?oc=5",
    "title": "FAO 식량가격지수 2년여 만에 최고…설탕값 급등에 휘청",
+   "summary": ""
+  },
+  {
+   "id": "g26",
+   "d": "2026-10-16",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2pZcmRnMy0tVmphSVBIV3A3N25KVGZMRlFyYWdMbW5rckVaREMzNVNWcUVkY0JOUE5zUU02VmV1R0RwZ0s2UUVlM091SHJ5TzYxelJjTUF4ZmxKdDh1M09waHRMa3Z5OVFLUllpcGsyU19rSkFYRlRzbXMySHFUdGRSZw?oc=5",
+   "title": "설탕 가격이 톤당 561.1달러로 1년 만에 최고치를 기록했습니다.",
    "summary": ""
   },
   {
@@ -5373,17 +5388,6 @@
    "summary": ""
   },
   {
-   "id": "g26",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSURFTFI1R29PUEhHWU9IUGxxTFItOXdyb1MyR2tmR1dCVUVhR09QU1M2bHo1TjdPOTFOTmU0YlV3RThRLTg1WkpMR0loSGo2UXBYaURRVzdEaHRHRktOZDl4cHVOVnRQa0hjOUFlaktTdHBaS0xjYmtZeXEwc3NqcDNBMGlPMTFDb2FfMk5lOVdST1hxdG01SGRjZDVGYk16Q0JKRmFBbw?oc=5",
-   "title": "원자재 시장: 설탕 가격이 1년 만에 최고치를 기록했고, 구리 가격은 3거래일 연속 하락했습니다.",
-   "summary": ""
-  },
-  {
    "id": "g31",
    "d": "2026-10-15",
    "region": "해외",
@@ -5395,14 +5399,14 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g38",
    "d": "2026-10-15",
    "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "NerdWallet (영문)",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FRkNyNV9nVm5vTnlael9YQTlhV25vM21nVXlETHhLV252dV9DUk1RemYtT0ZhUk53ME0tWkJUVkNJeWRQQVkzWTgxVjd1dWw5QkotRG9UTmdmeHlNRkh5QnpGNVBGRjRHVnY1amZzem5lcDA?oc=5",
-   "title": "Why Is Beef So Expensive?",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "마켓인",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
+   "title": "“불닭 해외서 더 잘 팔리네”…주가 10% 빠진 삼양식품, 175만원 간다는데",
    "summary": ""
   }
  ],
