@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T18:25:32.958Z",
+ "updated": "2026-10-22T21:25:16.416Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -3191,7 +3191,7 @@
     ],
     [
      "2026-10-22",
-     244.5
+     244.6
     ]
    ],
    "base": 251.1895513227513,
@@ -4379,7 +4379,7 @@
     ],
     [
      "2026-10-22",
-     1470.3
+     1471.1
     ]
    ],
    "base": 1211.8355732119146,
@@ -4778,8 +4778,30 @@
    "cat": "정책·유통",
    "item": null,
    "source": "중소기업신문",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jYWlkUlBPclhXM3JJMXNPQUd3T3ZCN05MRW1Gb1dIT1R4akZUaGIzVDlTeEZqcU1IeDVkUUQ4Tk9nOWstTnlhWjFvVUFZbzRJV1R2SEptamNFWHNxeElnc25uUThrMmJ5bzU2QUV3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWlRTQU91clJQMk03cFBvSHBua25XZHplSS13bDdxcURMM3pTNEEwMVpCTzNnY0ZaR3NVX3VvcWlvQnVMV3Fic1dKei1iV1BqZXVHeVpEZzdWUjQ0UUptRkhpMHE4SUpISW9jNg?oc=5",
    "title": "할인으로 낮춘 장바구니, 산지 농가·중소 식품사 수익까지 이어져야",
+   "summary": ""
+  },
+  {
+   "id": "g27",
+   "d": "2026-10-22",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "아시아투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwYmZRUWR1UHRnc0VNaUROUHVvNHpFbTU1TFlfMEIzX2sxSmgyRDNEQWNDeWc2VmdEeDdmSWh4SkJZSUNrUFdCZHUwMHRZdjZ3eU9KMkdONWN2dGktNXJpb2F0UFliZTRjZlZJN2RR?oc=5",
+   "title": "설탕 들어가면 전부 과세?…프랑스 ‘설탕세’ 확대에 업계 반발",
+   "summary": ""
+  },
+  {
+   "id": "g56",
+   "d": "2026-10-22",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "Farm Progress (영문)",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2VUWDFuQU9wZ1NNUmNndmxUX1FiNkNCaE54M3E0cnFrZmNYWDF4WG9NT0FSWjJBSFM4SFY0M1dTWWk3VHptMFJHX2dkdS1RVm4zVi1Ta0JwMTNKTXFkUFhHbDVUaEFHcGhzeENJMC1GTUUtOXFNUDA5Z1R4WVJka0toUzRiWU1WbVhVdVVGekdiZE5SNEEtdndLNA?oc=5",
+   "title": "Wheat markets sink as weak exports outweigh drought concerns",
    "summary": ""
   },
   {
@@ -4805,6 +4827,17 @@
    "summary": ""
   },
   {
+   "id": "g15",
+   "d": "2026-10-21",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "인천투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcllZaDdWZ3IxaDc5MGl0SmZOWVlSYllXX0dhbWkxQjd1NkZPQkxDYnVDM2pTVWxrd0syQW1lYjZ5SVRLWFZwdkxPeG84dWo3cEF4VExkZ1FNc2FjUEp0TzVWcktRTmUyM3J1WTJnZHc?oc=5",
+   "title": "인천시, 24일 연안부두 수산물 축제 개막··· 꽃게 '반값' 할인 판매",
+   "summary": ""
+  },
+  {
    "id": "g35",
    "d": "2026-10-21",
    "region": "해외",
@@ -4816,7 +4849,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g44",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "농산물",
@@ -4871,7 +4904,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g26",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5003,7 +5036,7 @@
    "summary": ""
   },
   {
-   "id": "g15",
+   "id": "g14",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -5102,7 +5135,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g42",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -5113,7 +5146,7 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g43",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -5176,6 +5209,17 @@
    "source": "연합뉴스TV",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Nl85T0ZEZkVycDgxc3lScFFYekttY3NSWlp4SVF4dU96ckRLd29sR1NnTHQ0WUpRU05tdThpaEd6UmN5cm9JMkcxLWp1N3ZNalQ2YkJLZzdRSDF5alR5elUyZVJzLTQ?oc=5",
    "title": "김장철 앞두고 배추·무 가격↓…새우젓 30% 급등",
+   "summary": ""
+  },
+  {
+   "id": "g10",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "수산물",
+   "item": "mackerel",
+   "source": "헬로디디",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTM2pMWDlMZUpNUzZWdEZDWFVCOXRRemx4RHlYMVhVNXlwYUEteVFldVhyb3hlaEw2d28xRVBwZ0x2ZlZYc1JvQ3pPbjlFOXFIUHRCeVhad1FxRm02cDdFZzhiOXdUYzRyRnc?oc=5",
+   "title": "AI가 두렵다? \"기술 리스크 기술로 해결해야···벤처 역할 더 커질 것\"",
    "summary": ""
   },
   {
@@ -5256,17 +5300,6 @@
    "summary": ""
   },
   {
-   "id": "g10",
-   "d": "2026-10-16",
-   "region": "국내",
-   "cat": "수산물",
-   "item": "mackerel",
-   "source": "헬로디디",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTM2pMWDlMZUpNUzZWdEZDWFVCOXRRemx4RHlYMVhVNXlwYUEteVFldVhyb3hlaEw2d28xRVBwZ0x2ZlZYc1JvQ3pPbjlFOXFIUHRCeVhad1FxRm02cDdFZzhiOXdUYzRyRnc?oc=5",
-   "title": "AI가 두렵다? \"기술 리스크 기술로 해결해야···벤처 역할 더 커질 것\"",
-   "summary": ""
-  },
-  {
    "id": "g13",
    "d": "2026-10-16",
    "region": "국내",
@@ -5275,17 +5308,6 @@
    "source": "에너지경제신문",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14clVQa2VkdnRXSXFybVAxaWhJSHdjV1ZCc3JuV19EMXVVcmk4MVoxcVVNX1NUWXpudVdlVmdiUUlGak5IeEFVZ2tHa1JKajJ5S3Z4SHlrMHhVSk0?oc=5",
    "title": "“가을 전어 먹고 참치 해체쇼 보세요”...수협중앙회, ‘도심 속 바다축제’ 개최",
-   "summary": ""
-  },
-  {
-   "id": "g14",
-   "d": "2026-10-16",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "리드경제",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZDRFYWpUR3ZDNklmUDFMU25BQW10ZEZDejBkQk1pcW94YmJGTkd3dll1ZjZud0JVZEdGWFYxY3B2Y0ZKZUZKRXNLQUg0QWYyMUFHMEV4WktaTUFwYW8waHJTc3lhRnlyd3ktYTEta0U?oc=5",
-   "title": "수협중앙회, 노량진에 바다가 열린다…24일 개막 ‘도심 속 바다축제’ 먹거리·공연 풍성",
    "summary": ""
   },
   {
@@ -5322,25 +5344,14 @@
    "summary": ""
   },
   {
-   "id": "g26",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2pZcmRnMy0tVmphSVBIV3A3N25KVGZMRlFyYWdMbW5rckVaREMzNVNWcUVkY0JOUE5zUU02VmV1R0RwZ0s2UUVlM091SHJ5TzYxelJjTUF4ZmxKdDh1M09waHRMa3Z5OVFLUllpcGsyU19rSkFYRlRzbXMySHFUdGRSZw?oc=5",
-   "title": "설탕 가격이 톤당 561.1달러로 1년 만에 최고치를 기록했습니다.",
-   "summary": ""
-  },
-  {
-   "id": "g44",
+   "id": "g41",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
    "item": null,
-   "source": "밴쿠버 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zakUwb0hNenJSanJEaVY1VHczME5GQWI5VzE5NWN0b09mVHBuT2gwZWZ1Y2NFWWdYUldHLWV5Nl9MSTVIZUttelN5NHo0NzQ1RmtJdDBhZWQwMldaYXUwSldoSzRpYy1xMTBtS1ZRR0ItRGFMUUNSNzgyRUNMNzQ?oc=5",
-   "title": "[밴쿠버 조선일보]엘니뇨에 식탁 물가 또 꿈틀··· 빵·쌀·과일값 뛴다 | 밴쿠버 뉴스",
+   "source": "노컷뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XU0VjUF9FcFhtZW91R0ZKaHQxUzlQM296VEE5NnBhTnBEWlFESFpoM0U0dmhnbGFCc3Ryb1BBZ3NjS0tCdjJ3NU9XRm5HaTJvVXc?oc=5",
+   "title": "채소·과일류 등 농축산물 가격 하락세…소고기·달걀 등 축산물 등락 엇갈려",
    "summary": ""
   },
   {
@@ -5374,17 +5385,6 @@
    "source": "YTN",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMF9rVU9IQWxPdmkyUjV2V3Q1LVJvQnBjaXJUeWkxNEZvYkV5LWxPdzd5eVNpYVFrXzMtempsS1RCNk85ZGszUUU5MDFheDlySjdjcUhnanEwT01Ob0E?oc=5",
    "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
-   "summary": ""
-  },
-  {
-   "id": "g56",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "AgroLatam (영문)",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU5UdVZpbjVabHJvRmdUYXdBTXlVVF9uaC0zMVF4T18zbmZoUndOeWZqTG94WkhRSGQ0Vlp6Rkt4dl81Vmd1aG1hdzE1NUtUTXAzdDA3RXZuMmxCU3dobE5MaTZsVi1ENWYzZFZTVi16SXI0ajFnZVVmd2xkSXBlc0NicEtXRzJmcnFZeUlvZjBCQ1pOOHQ0a3UxT0NvQk5wQk5neUk0YUFnU0RBdFE?oc=5",
-   "title": "Soybean prices today, corn futures, wheat futures, CBOT grain prices, USDA grain markets, U.S. harvest",
    "summary": ""
   },
   {
