@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:23:53.587Z",
+ "updated": "2026-10-22T00:27:43.446Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -965,10 +965,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-16",
-     0.3505
-    ],
     [
      "2025-09-17",
      0.3426
@@ -2082,10 +2078,6 @@
   "wheat": {
    "raw": [
     [
-     "2025-09-16",
-     192.4
-    ],
-    [
      "2025-09-17",
      189.7
     ],
@@ -3186,8 +3178,8 @@
      253.9
     ],
     [
-     "2026-10-21",
-     247.6
+     "2026-10-22",
+     247.3
     ]
    ],
    "base": 251.1895513227513,
@@ -3269,10 +3261,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-16",
-     1161.6
-    ],
     [
      "2025-09-17",
      1129.6
@@ -4374,8 +4362,8 @@
      1471.1
     ],
     [
-     "2026-10-21",
-     1453.9
+     "2026-10-22",
+     1454.8
     ]
    ],
    "base": 1211.8355732119146,
@@ -4746,7 +4734,7 @@
  },
  "news": [
   {
-   "id": "g2",
+   "id": "g1",
    "d": "2026-10-21",
    "region": "국내",
    "cat": "농산물",
@@ -4757,10 +4745,10 @@
    "summary": ""
   },
   {
-   "id": "g20",
+   "id": "g47",
    "d": "2026-10-21",
-   "region": "국내",
-   "cat": "정책·유통",
+   "region": "해외",
+   "cat": "농산물",
    "item": null,
    "source": "머니투데이",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wNmgyb0VvNGtVQ29SQXJHb05oZnNMZ0pZdnpHQ1JLenUxM2xEREEzdW83aC1RRE54V3ZlMnB6WW9UNjZLQzRmcFJhYjFIUzYyVUpCLVF5SnNwNlRHSlRYZl9zTTFCOVNrVm9N0gFwQVVfeXFMUE1QSS1GeHp2TmtHM0tmdGZBYTlmenVVQ0hOeVFaamdqU3FSTzRYdGo0REVRUmNDWlRnRTBDdWhQWDFQb0t6N2RLR1k1ckxDVWpVUExxRUdkNklxcy1GSkRYMUlhWko3cjRkZHBPc2ZpaA?oc=5",
@@ -4768,7 +4756,7 @@
    "summary": ""
   },
   {
-   "id": "g60",
+   "id": "g61",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "가공·소재",
@@ -4779,7 +4767,7 @@
    "summary": ""
   },
   {
-   "id": "g9",
+   "id": "g8",
    "d": "2026-10-20",
    "region": "국내",
    "cat": "수산물",
@@ -4867,7 +4855,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4878,7 +4866,7 @@
    "summary": ""
   },
   {
-   "id": "g59",
+   "id": "g60",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4916,9 +4904,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": null,
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hRlJXT0FrX3JHTHNzRkR5YW1QT0dPbHNMZHlXcnFYRmdnWEsxZTBXSmpLemdrRHhRUDd0YlBzOS1OZ2tIQWVCVEstSHQ4bkE5dWFfdXIzRWRFMUtSRnMxbNIBYEFVX3lxTE9hRlJXT0FrX3JHTHNzRkR5YW1QT0dPbHNMZHlXcnFYRmdnWEsxZTBXSmpLemdrRHhRUDd0YlBzOS1OZ2tIQWVCVEstSHQ4bkE5dWFfdXIzRWRFMUtSRnMxbA?oc=5",
-   "title": "농식품부, 파프리카·토마토 등 가격 하락 농산물 소비 촉진",
+   "source": "매일신문",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ILXdCbV8xblBTdVl5dUJQWl9CYXZLRWhXSnlId0RBMEt6bzVvU0gxSDBXczFWdnYzaW01OTNseVpUdnZKSFBBNEZaUmVUZzIxQ1FYN2FSZ09lcUVYUTQ4VEhR?oc=5",
+   "title": "오이·샤인머스캣 도매가 최대 68% ↓…정부, 소비 촉진책 가동",
    "summary": ""
   },
   {
@@ -4927,13 +4915,13 @@
    "region": "국내",
    "cat": "농산물",
    "item": null,
-   "source": "기호일보",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12Yk1ZcER0dFNXRGkyS01pcWJWNjVndVVHLURtQWloWHpWMGItbllsT2t2cTkzUFk2N1pDdWowUnR3c2JRYTAwU1B4c2lqbzBvS3RSWko3R21oRWQ2eE52SF93aEF2Tk9XbWhVS0oybw?oc=5",
-   "title": "샤인머스캣·애호박 가격 뚝…정부, 농산물 할인·수출 지원 확대",
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXaGNKWWxOU1A2c2xtT09MWHpIREN0dE1rbVRpVHBtVWpZOE9EandSWGxPUS1DUVpfc3dWY0pOclMxcnp1MW5uWUU4OEN5WXNvd01UQ2I4TDBMLXPSAWBBVV95cUxPYUZSV09Ba19yR0xzc0ZEeWFtUE9HT2xzTGR5V3JxWEZnZ1hLMWUwV0pqS3pna0R4UVA3dGJQczktTmdrSEFlQlRLLUh0OG5BOXVhX3VyM0VkRTFLUkZzMWw?oc=5",
+   "title": "농식품부, 파프리카·토마토 등 가격 하락 농산물 소비 촉진",
    "summary": ""
   },
   {
-   "id": "g8",
+   "id": "g9",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4944,7 +4932,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g13",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -4952,6 +4940,17 @@
    "source": "www.mobiinside.co.kr",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTm5udWYtZ242QzhlYkxVZ1RIckVCQmZKWlRQeWVWQ2hSRTdzM2wtajBDX0dtXzllc2UyNGdnYXFpY191N1V4QkcwNmZPcmhnMm5QSU4wWURrT0paLVR5SGVVN2tCSEo2TFlidlJEMnJXR2NvMlhzM2x5ZXJBcWd2X0V4ZDZ6ZEdRUlp3WF93TWs?oc=5",
    "title": "[모두의 창업자를 위한 안내서] 노량진에서 찍은 사진들이 570억",
+   "summary": ""
+  },
+  {
+   "id": "g20",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "푸드투데이",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84X290WURWSl91blRqWG1QSk9vaWZQS2pFQWlfYjJqM3FXZVdvdE51NDVNSE1pV1hyNVA0SnpzYWFSM0JDTmNabzQwVmlGYl85ZERhVi1DU0dmaFBOdDJ1U3RlZHVidw?oc=5",
+   "title": "농식품부, 파프리카·토마토·샤인머스캣 최대 20% 할인",
    "summary": ""
   },
   {
@@ -5076,7 +5075,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5087,7 +5086,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g56",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5095,6 +5094,28 @@
    "source": "Reuters (영문)",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
    "title": "Global food inflation is expected to intensify as supply shocks pile up",
+   "summary": ""
+  },
+  {
+   "id": "g58",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Reuters (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5",
+   "title": "India sugar stocks slide as government halts sugar diversion to ethanol",
+   "summary": ""
+  },
+  {
+   "id": "g59",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "AgWeb (영문)",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmE5LUtPSkxEdG9TLVRxS1I1cWNuTXZuWVc1X2RSb3B6WmU0bEM0dkZRM041TEYyeDc1dlYySDFrNXZ3NWI0MzlSSHIzUDh5OHBOSDVNYmdVajFqNU5Qa1NuNjMzM2lHMlgzSGhqbHNaLUVBdVJRby1EY3FqY2V5b3VROWs5S3ctTlhHZXp1RWc?oc=5",
+   "title": "Grains Fall as Funds Continue to Sell, Corn Takes Out Report Low",
    "summary": ""
   },
   {
@@ -5109,6 +5130,28 @@
    "summary": ""
   },
   {
+   "id": "g2",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0V3dfSU1aaFZfMXlicjlkWDlfY1Y4M1FORHlzby1uUGVxZ3htUzlNU240cGstVUc0RUh4TC00UkswN0s4N0tMdkhObw?oc=5",
+   "title": "배추 가격은 하락했지만 새우젓 30% 폭등",
+   "summary": ""
+  },
+  {
+   "id": "g3",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVsUUlUaU1DM041a043XzNzYklQN2czbkVKQ0pLbmZQWFljQ0xQWmNSQ29vdEpBUHJOajQ5d1Y4Q0FMVGR0UVhYV1Zxb1hid2txVW9OWWhiUWxMeERiQ0JJaXQwLThucGg0LWcxRy1sNDBRXzNSTkd0SmxtdktLako4ejZ3d9IBmgFBVV95cUxPV1puaWhDc2diT2pCbTBHU2hVWTZNRFBOY3VZSWVsMG9YNzdWTjJOa2Z4YTFhUVNPSUcxVFdKMkc5cnk2ZkpTMjEtOXAwTFV5OG02M3dHZnY2elNKMmpuQnRZN2ozMW5qNXVoNzdGTnJaQkR3R09WRUFEcjFobkgzMzUtbW11RXYxcmNHci0yMDZWYzJ1bVBub3N3?oc=5",
+   "title": "김장철 앞두고 무·배추값 내렸는데…새우젓 32% 급등 - 조선비즈",
+   "summary": ""
+  },
+  {
    "id": "g11",
    "d": "2026-10-18",
    "region": "국내",
@@ -5117,17 +5160,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN29ia0daVzNWVVFFQU1PMU1mLUF6bWt2S2hWaWV0S0ZjZHZHZS1odlRNUjFiWmFVZWJZVG9xOGNYQ21HQzVkZ3dQOW11ZTFzelJ5XzhGUTlSU3NUMnN2VWMzQ1g5QWlPLUpSY2xYQXJRTklqNGlHNnhPakRJNWpCVWNVd1VIclBYVENLM0pkcTBjX1gwQTFXNHhYSVN2R0VFUS1n?oc=5",
    "title": "생선 두 마리에 16만 8천 VND가 드는데, 호치민시에서 정통 현지 음식을 찾아 수백만 VND를 쓰는 추세가 나타나고 있다.",
-   "summary": ""
-  },
-  {
-   "id": "g12",
-   "d": "2026-10-18",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "수산인신문",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZeUYxMFdPTEttN3Nfa3ZvNngzMXEzcjFPTV9IZEhpam5mcmlBOEVCTzF4UEl3aUZMdDBFczdUcjRucTBoZ21LMUhHQlYyOG9YTDA4TGlpaHdLREZqOTU0Mno2RzFSSXZrWUE?oc=5",
-   "title": "고수온·적조 양식수산물 피해 최소화 추진",
    "summary": ""
   },
   {
@@ -5153,7 +5185,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -5164,7 +5196,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g57",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5175,18 +5207,7 @@
    "summary": ""
   },
   {
-   "id": "g3",
-   "d": "2026-10-17",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmblJndllJNS1HVnp5T0NubUhvZ1JNVnQ2MXRGTG1ReG4tTXViZ1pQdHNPT2ZmSjJHRUQyUno2TzJFaDZBdThkWW1NT2ZIWmhLTWJtckNIanF5WGfSAWBBVV95cUxQcHVwOWlQR2dHejNSUjZDakROeFlxcUJGem10MTRiTTRiclhFVzU0bmJaYVk2VkhMSDA3TDNjbG1ldGhFMDNxWHU5V00zamgwdVNVZ3RKTnhRTHlQZ2piTVo?oc=5",
-   "title": "배추·무 가격 내렸지만 새우젓은 30% 급등…김장 물가 변수로",
-   "summary": ""
-  },
-  {
-   "id": "g15",
+   "id": "g14",
    "d": "2026-10-17",
    "region": "국내",
    "cat": "수산물",
@@ -5208,18 +5229,7 @@
    "summary": ""
   },
   {
-   "id": "g1",
-   "d": "2026-10-16",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CcFR2TG9fTHhrU1E2YkJSWmZ2MC1XQ1JaSGhQbFFOci03LUNTb0VlLWRPeVZxaXROZ1hDdUhVWk5EbXNPR1A2YUtmN09XT2VKWmZFOVVwRmR1NVR1NXJPbFNTeFdIZ0xUa3ZF0gFwQVVfeXFMTjNwRFRfdFk2QlhqRVlPOHlISzFpd0hsQVc5NS1NXzJOQklUSnkyYzVPZlBlVkdSUURRUTZoeEtJMENGU1RYcUcxMlNHT3I5MVVRanJxT3Z5QV9pTDBxVk1VNmJoVTlhR25iZTVSVlh5cA?oc=5",
-   "title": "배추·무 가격 내려도...여전히 부담스러운 김장물가, 왜? - 머니투데이",
-   "summary": ""
-  },
-  {
-   "id": "g13",
+   "id": "g12",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -5227,6 +5237,17 @@
    "source": "리드경제",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZDRFYWpUR3ZDNklmUDFMU25BQW10ZEZDejBkQk1pcW94YmJGTkd3dll1ZjZud0JVZEdGWFYxY3B2Y0ZKZUZKRXNLQUg0QWYyMUFHMEV4WktaTUFwYW8waHJTc3lhRnlyd3ktYTEta0U?oc=5",
    "title": "수협중앙회, 노량진에 바다가 열린다…24일 개막 ‘도심 속 바다축제’ 먹거리·공연 풍성",
+   "summary": ""
+  },
+  {
+   "id": "g15",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "에너지경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14clVQa2VkdnRXSXFybVAxaWhJSHdjV1ZCc3JuV19EMXVVcmk4MVoxcVVNX1NUWXpudVdlVmdiUUlGak5IeEFVZ2tHa1JKajJ5S3Z4SHlrMHhVSk0?oc=5",
+   "title": "“가을 전어 먹고 참치 해체쇼 보세요”...수협중앙회, ‘도심 속 바다축제’ 개최",
    "summary": ""
   },
   {
@@ -5263,7 +5284,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5274,7 +5295,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g50",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5285,7 +5306,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g51",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5296,7 +5317,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g52",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5304,28 +5325,6 @@
    "source": "MBC 뉴스",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbVQ2RTQzOHFTcGtxajJWVDZ4RHItelhRbUFUQUtHYThFSWp1emwzanNyYnFKQk1nSjBYdWZZVkNSNmg2d3dzODRTSUJBc1lucGR6R3l0VUpDSGxibk5aa3lINmdQSXlMdjg2bGZ6X014WExq0gF0QVVfeXFMT1o0R28yVmtKUDJZeEpXWXRQWElIM1I4ZmxQZzE2Y1NjQ1hwN3RlZFFUcUw0SXJQSHUtbEZodHptYjZ1bThUWXRWQk45NExRcThyWm96V2FsQjA0bjUyZ2YyUnliRm1NUkxnNXpGVFdmOTFsZEQ?oc=5",
    "title": "고물가·엔저에‥日 닭고기 소비, 소·돼지고기 추월",
-   "summary": ""
-  },
-  {
-   "id": "g57",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "S&P Global (영문)",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOUNSeUxFOWpsU19tM1R5dzlyaUNlUUszX1k3QmRfeXhPV3lKbjMzckZMWHdpUEtYU2VYN1NHTml4WGVULVViSnV6QUxYejhRSnRRSkE1RHJkclpYV3EySGF1Z29FTGJmME1aamRQcHBudWlhOERyODVWRFJZZ3FMMUcteDV6YnpVY2ZzMVZZV25xVnIySDhFUVRfUUllV2tUTldpZzY3YXc1M0RHR0d0NkE2aDJFejBSUU9McEZGWWRGYklqSnV1U0pSNldoZDhmZnk2WFlqSldobzJOSDZQdA?oc=5",
-   "title": "Thai raw sugar prices hit 22-month high amid Brazil supply concerns",
-   "summary": ""
-  },
-  {
-   "id": "g58",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "AgroLatam (영문)",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU5UdVZpbjVabHJvRmdUYXdBTXlVVF9uaC0zMVF4T18zbmZoUndOeWZqTG94WkhRSGQ0Vlp6Rkt4dl81Vmd1aG1hdzE1NUtUTXAzdDA3RXZuMmxCU3dobE5MaTZsVi1ENWYzZFZTVi16SXI0ajFnZVVmd2xkSXBlc0NicEtXRzJmcnFZeUlvZjBCQ1pOOHQ0a3UxT0NvQk5wQk5neUk0YUFnU0RBdFE?oc=5",
-   "title": "Soybean prices today, corn futures, wheat futures, CBOT grain prices, USDA grain markets, U.S. harvest",
    "summary": ""
   },
   {
@@ -5406,7 +5405,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "축산물",
