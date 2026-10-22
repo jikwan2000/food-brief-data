@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:28:49.896Z",
+ "updated": "2026-10-22T12:31:19.282Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2075,7 +2075,7 @@
     ],
     [
      "2026-10-22",
-     0.4524
+     0.4511
     ]
    ],
    "base": 0.4220902690824005,
@@ -4379,7 +4379,7 @@
     ],
     [
      "2026-10-22",
-     1453.1
+     1459.5
     ]
    ],
    "base": 1211.8355732119146,
@@ -4772,6 +4772,17 @@
    "summary": ""
   },
   {
+   "id": "g41",
+   "d": "2026-10-22",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "전북중앙",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nbEcxVWJMVEhPS1U3RFJVeW9QU3NUckpKMjU1NlBvMXdXNXhQN3NOY1hTOE1nUTFKUDE3YmtJSklEZ1BDOHFfcUZHRzJxbDh6bWRuVDBpcllUZkxzWUFxN1FEOUNDdkFRZHln0gFrQVVfeXFMT2dsRzFVYkxUSE9LVTdEUlV5b1BTc1RySkoyNTU2UG8xd1c1eFA3c05jWFM4TWdRMUpQMTdia0lKSURnUEM4cV9xRkdHMnFsOHptZG5UMGlyWVRmTHNZQXE3UUQ5Q0N2QVFkeWc?oc=5",
+   "title": "논, 쌀을 넘어 식량안보의 기반으로",
+   "summary": ""
+  },
+  {
    "id": "g2",
    "d": "2026-10-21",
    "region": "국내",
@@ -4810,9 +4821,9 @@
    "region": "해외",
    "cat": "농산물",
    "item": null,
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wNmgyb0VvNGtVQ29SQXJHb05oZnNMZ0pZdnpHQ1JLenUxM2xEREEzdW83aC1RRE54V3ZlMnB6WW9UNjZLQzRmcFJhYjFIUzYyVUpCLVF5SnNwNlRHSlRYZl9zTTFCOVNrVm9N0gFwQVVfeXFMUE1QSS1GeHp2TmtHM0tmdGZBYTlmenVVQ0hOeVFaamdqU3FSTzRYdGo0REVRUmNDWlRnRTBDdWhQWDFQb0t6N2RLR1k1ckxDVWpVUExxRUdkNklxcy1GSkRYMUlhWko3cjRkZHBPc2ZpaA?oc=5",
-   "title": "농축산물 관세 2653억 낮췄지만…물가 인하 효과는 0.003% - 머니투데이",
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWdIBYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWQ?oc=5",
+   "title": "한국물가정보 \"황금연휴 끝난 후 장바구니 물가 안정세\"",
    "summary": ""
   },
   {
@@ -4846,6 +4857,28 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0lJdnE0VS14SDJ5RjExVFF1ZXVFUmJ0aWF5OVZsRzZ3RmdNOEx6Yk9iem5MMmxfcFo2aElVWXBGeTJLVGJocUlYTVZ1VXJZX3FlMlEwZHVnQ1NacXFZMUc0NHY5TElra0E5VzM4dEFXcWVTRVRjV2piTkZyQzJCTHJkY1VzcmdRWThaNTVYUFlkSWFjcjJNUTdZOA?oc=5",
    "title": "수입 고등어는 가격대가 다양하며, 일부 종류는 kg당 거의 35만 VND에 달합니다.",
+   "summary": ""
+  },
+  {
+   "id": "g19",
+   "d": "2026-10-20",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "한국농정신문",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xSG15Y2dkNjJZZ0hmNTdWazd6SGk4OWZXdURaVUFVQU9JZWE0alFOMGJMWjk4YnVleXJOSkFEdDdGUDg1a2ZXYmRYcjQtTGgxeTY1QzB0dXJRY3NHMm1EUWJKVHZaaXA2LWpJ0gFrQVVfeXFMT3FIbXljZ2Q2MllnSGY1N1ZrN3pIaTg5Zld1RFpVQVVBT0llYTRqUU4wYkxaOThidWV5ck5KQUR0N0ZQODVrZldiZFhyNC1MaDF5NjVDMHR1clFjc0cybURRYkpUdlppcDYtakk?oc=5",
+   "title": "계란 유통인들 “생존권 확보·산업 발전 다짐”",
+   "summary": ""
+  },
+  {
+   "id": "g22",
+   "d": "2026-10-20",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "서울경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cFJQckRrcjdVcDk4WXA2bGtQMDdRcVp4dnZQTlQ0cWZDWWkyOWo5NDhyZy1sZ1RwNGdQbUp3azZkQy1oZHl6WDNtVGxtTFMzVWfSAVNBVV95cUxPOVQ3Z3NxX0w4ZEpCb2h5VlJtcWNoOXRCT0wxRkZaM3NJYmpncXpjbEt3aWNJdzlKSjgxU1MwbndfdzZxOS1OOURkTVBQdUJvbmZHMA?oc=5",
+   "title": "농축산물 급등에 생산자물가 두 달 연속 상승...9월 0.2%↑[Pick코노미]",
    "summary": ""
   },
   {
@@ -4981,18 +5014,7 @@
    "summary": ""
   },
   {
-   "id": "g13",
-   "d": "2026-10-19",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUHRuVW9FcGh1RDFDYmgzRkhnRnhGYWk2UDJzeV9FX2t0YlJNeEI5VFNXV3ZBWkNCM19tNHotN0NRdnZzUVU4YlBHeGtNVWFfNldPNDI3Z0trM2xYdEg1edIBYEFVX3lxTE5yUHRuVW9FcGh1RDFDYmgzRkhnRnhGYWk2UDJzeV9FX2t0YlJNeEI5VFNXV3ZBWkNCM19tNHotN0NRdnZzUVU4YlBHeGtNVWFfNldPNDI3Z0trM2xYdEg1eQ?oc=5",
-   "title": "경남 청년어업인 생산 제철 수산물, GS샵서 20% 할인 판매",
-   "summary": ""
-  },
-  {
-   "id": "g15",
+   "id": "g14",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -5003,7 +5025,18 @@
    "summary": ""
   },
   {
-   "id": "g22",
+   "id": "g15",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "강원일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lenRBT2ZwUDNUaDBSOFlSX0w0SFFUb0M5LS1ZMUNId2hSb25WQkctRTZ3LUVzYkdLTmJmSV9oYXJtZzc1WDJRemtjUzZCdkhreEFFd1YyenJKRmc?oc=5",
+   "title": "외식품목 8개 중 7개 인상…강원지역 외식비 고공행진",
+   "summary": ""
+  },
+  {
+   "id": "g23",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "정책·유통",
@@ -5014,7 +5047,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5077,17 +5110,6 @@
    "source": "글로벌이코노믹",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDZub01KZ2VMcUZZS0ZjMzR4UjU2SVlwWmFVZHNtY2VvbHZQR1ZJVTVzcXdiakh4blk2eDRhT0hrZ1BtbkY3SU9Od0VkR2VPdVFTcEJINzd0NExZd05GOG45dlZxbS1pUGVNNUQ2X3M0ODFkQVNvRmpEczJkbC1rMW4yU1lESlRG?oc=5",
    "title": "전쟁·가뭄·운임 폭등 '퍼펙트 스톰'… 전 세계 식품 인플레이션 2027년까지 장기화",
-   "summary": ""
-  },
-  {
-   "id": "g41",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "thairice",
-   "source": "이데일리",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUlCbUZFNlVsSEdnQWg5eXVTT0p5RzZsMkpHSEp4UjFzaXNxRnRzRTBheFZVOVdHbVZKeEJRVUNzcGFvSzJwenFBTmdaYzVFbVhLSGUwenZaU1ZnMGZkUXNOV1N5ckFVYnQzNXJNTEduWXVSQjA0N3pYR2hZYy11YQ?oc=5",
-   "title": "전쟁에 엘니뇨까지…세계 식품물가, 2027년까지 상승 경고",
    "summary": ""
   },
   {
@@ -5179,7 +5201,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g16",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "축산물",
@@ -5187,17 +5209,6 @@
    "source": "강원일보",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UUUE5ckNTVFRUOVdSR3hNWmdFTGJQd2hrTHRBVFZrZ0tvaXBiTDc5djlvcjQ2cEFrX2Exek5qY2pvYmRiOTdyV0lpQWNfcVg4Z0QzMm9rQXNiY3M?oc=5",
    "title": "[포토뉴스] 한풀 꺾인 계란값…겨울철 AI가 변수",
-   "summary": ""
-  },
-  {
-   "id": "g23",
-   "d": "2026-10-18",
-   "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenN0bjctakRDaHNtQzFIM1NoWUxlTDFZbm9ISDc3c0VrYUF3Q20ycFBseFlRUDRfNmI5M1psdVFIY1J4NFBTUzU0ZzMtcjR4TjFlWG9tRDZxVlJOay1uS05YMllkYklSOXpzcWp4bGZvUzRHRkREV2NtS2paX1RyYmw3Rmh2c2tTalZrWmVkaDZzSDE4RlQ1OHpyQnhDUGVuMjItb2lYOXRLWl82UUpvd3JOeU51cWx6SDVBRXNlQ2JPQQ?oc=5",
-   "title": "안전 놀이터 토토 사이트 제로 도움말 업데이트 여부 확인",
    "summary": ""
   },
   {
@@ -5267,7 +5278,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g13",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "수산물",
@@ -5278,7 +5289,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g17",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "축산물",
@@ -5289,7 +5300,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
+   "id": "g18",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "축산물",
@@ -5300,7 +5311,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5349,9 +5360,9 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "YTN",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMF9rVU9IQWxPdmkyUjV2V3Q1LVJvQnBjaXJUeWkxNEZvYkV5LWxPdzd5eVNpYVFrXzMtempsS1RCNk85ZGszUUU5MDFheDlySjdjcUhnanEwT01Ob0E?oc=5",
-   "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
+   "source": "아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mb2Q4WkRZS1gxOWQtRDJUSUpSWTdHYmFmWV9vZWY1ZmlWel9CSkxyaW1SZ2QyV0loUkNYWGRBYlpnNEl0WEZ1WGplMGxNWmZWdWVpVFNUNF9lbGRZOENsWg?oc=5",
+   "title": "\"소고기는 사치, 돼지고기도 버겁다\"…닭고기에 1위 내준 '돈가스의 나라'",
    "summary": ""
   },
   {
@@ -5360,9 +5371,9 @@
    "region": "해외",
    "cat": "축산물",
    "item": null,
-   "source": "아시아경제",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mb2Q4WkRZS1gxOWQtRDJUSUpSWTdHYmFmWV9vZWY1ZmlWel9CSkxyaW1SZ2QyV0loUkNYWGRBYlpnNEl0WEZ1WGplMGxNWmZWdWVpVFNUNF9lbGRZOENsWg?oc=5",
-   "title": "\"소고기는 사치, 돼지고기도 버겁다\"…닭고기에 1위 내준 '돈가스의 나라'",
+   "source": "YTN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMF9rVU9IQWxPdmkyUjV2V3Q1LVJvQnBjaXJUeWkxNEZvYkV5LWxPdzd5eVNpYVFrXzMtempsS1RCNk85ZGszUUU5MDFheDlySjdjcUhnanEwT01Ob0E?oc=5",
+   "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
    "summary": ""
   },
   {
@@ -5374,17 +5385,6 @@
    "source": "AgroLatam (영문)",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU5UdVZpbjVabHJvRmdUYXdBTXlVVF9uaC0zMVF4T18zbmZoUndOeWZqTG94WkhRSGQ0Vlp6Rkt4dl81Vmd1aG1hdzE1NUtUTXAzdDA3RXZuMmxCU3dobE5MaTZsVi1ENWYzZFZTVi16SXI0ajFnZVVmd2xkSXBlc0NicEtXRzJmcnFZeUlvZjBCQ1pOOHQ0a3UxT0NvQk5wQk5neUk0YUFnU0RBdFE?oc=5",
    "title": "Soybean prices today, corn futures, wheat futures, CBOT grain prices, USDA grain markets, U.S. harvest",
-   "summary": ""
-  },
-  {
-   "id": "g16",
-   "d": "2026-10-15",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "축산신문",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZEZBX3Jpb3RVYWZQTDgtTm95RHU2dVpKMGtwODRxQ29LdzlGanlGVmtqaGZfc1Y0c0lTYUhiSWR5WG9DWHFibVFzY2VQUmMtdi1aMVRLaXBoRlY5S3AzV3o3WHVIUWdy?oc=5",
-   "title": "계란 산지가격 하락세 뚜렷…소비자가격 반영은 더뎌",
    "summary": ""
   },
   {
