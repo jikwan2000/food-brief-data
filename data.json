@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T15:29:27.868Z",
+ "updated": "2026-10-22T18:25:32.958Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2075,7 +2075,7 @@
     ],
     [
      "2026-10-22",
-     0.4462
+     0.4438
     ]
    ],
    "base": 0.4220902690824005,
@@ -3191,7 +3191,7 @@
     ],
     [
      "2026-10-22",
-     245.5
+     244.5
     ]
    ],
    "base": 251.1895513227513,
@@ -4379,7 +4379,7 @@
     ],
     [
      "2026-10-22",
-     1474
+     1470.3
     ]
    ],
    "base": 1211.8355732119146,
@@ -4805,18 +4805,7 @@
    "summary": ""
   },
   {
-   "id": "g15",
-   "d": "2026-10-21",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "인천투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcllZaDdWZ3IxaDc5MGl0SmZOWVlSYllXX0dhbWkxQjd1NkZPQkxDYnVDM2pTVWxrd0syQW1lYjZ5SVRLWFZwdkxPeG84dWo3cEF4VExkZ1FNc2FjUEp0TzVWcktRTmUyM3J1WTJnZHc?oc=5",
-   "title": "인천시, 24일 연안부두 수산물 축제 개막··· 꽃게 '반값' 할인 판매",
-   "summary": ""
-  },
-  {
-   "id": "g36",
+   "id": "g35",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "가공·소재",
@@ -4827,7 +4816,7 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g43",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "농산물",
@@ -4838,7 +4827,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g49",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "축산물",
@@ -4849,7 +4838,7 @@
    "summary": ""
   },
   {
-   "id": "g59",
+   "id": "g58",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "가공·소재",
@@ -4904,7 +4893,7 @@
    "summary": ""
   },
   {
-   "id": "g33",
+   "id": "g32",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4915,7 +4904,7 @@
    "summary": ""
   },
   {
-   "id": "g34",
+   "id": "g33",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4926,7 +4915,7 @@
    "summary": ""
   },
   {
-   "id": "g35",
+   "id": "g34",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4937,7 +4926,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g52",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -4948,7 +4937,7 @@
    "summary": ""
   },
   {
-   "id": "g58",
+   "id": "g57",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5014,7 +5003,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g15",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -5069,7 +5058,7 @@
    "summary": ""
   },
   {
-   "id": "g32",
+   "id": "g31",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5080,7 +5069,7 @@
    "summary": ""
   },
   {
-   "id": "g37",
+   "id": "g36",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5091,7 +5080,7 @@
    "summary": ""
   },
   {
-   "id": "g40",
+   "id": "g39",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5102,7 +5091,7 @@
    "summary": ""
   },
   {
-   "id": "g41",
+   "id": "g40",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5113,7 +5102,7 @@
    "summary": ""
   },
   {
-   "id": "g43",
+   "id": "g41",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -5124,7 +5113,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g42",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "농산물",
@@ -5135,7 +5124,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g50",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5146,7 +5135,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g51",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5157,7 +5146,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g53",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5168,7 +5157,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g55",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5212,7 +5201,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g45",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -5223,7 +5212,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g54",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5245,14 +5234,14 @@
    "summary": ""
   },
   {
-   "id": "g39",
+   "id": "g38",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "가공·소재",
    "item": "thairice",
    "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMTZsbjVlZk05X1ZqU2lYRjJoMF9UTllRYmVlMlF3UlJ1Qkl3NU91ZTdfbXNRcnpHU1RkWDJyQTFwN0RkckVCYURkZGZYWXNGWlZORmQxZHNQV1BLQXM3czdiemFmVnAzaFFPaUI1dXlseXAtQ0NhWjdOUWRueHZKem13VjRMTXRnNFpzSUhvcE5nSThXUk5kbS0tYngxRjFNNGg2c2Z5el93SmlIRVU0Ynpiejd6aDBIUDdsTGVVeFF6RUNXalZlQXpVMTRSaTg3NXpncFFWbGw3OWJVVG9NOXJYUzRab0Rua1BFNjYtSXd6Tk5YYXRXbA?oc=5",
-   "title": "2026년 10월 17일 오늘 농산물 가격 동향: 주말을 앞두고 커피 가격이 급등했고, 공급망이 불안정해졌으며, 쌀 가격이 상승했고, 원유 가격은 배럴당 110달러에 도달했습니다.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXNNOV9Cank0bm04c2lxYWZUUmNpLXRzaDM4dFBITmVqLXBYdXM1V0ozdVdCY0xPaDdrUFhHSkhsdVhFUnhzZFRxR05wLURySGVSblhJb1ZzbThRajNxZy1OOFgzTGtoRk1NLVN2Z0JCSTdtZkQ0SnFPWlFaMWpLaU1jenk4Zw?oc=5",
+   "title": "농산물 시장: 아시아 쌀 가격이 전반적으로 상승했습니다.",
    "summary": ""
   },
   {
@@ -5286,6 +5275,17 @@
    "source": "에너지경제신문",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14clVQa2VkdnRXSXFybVAxaWhJSHdjV1ZCc3JuV19EMXVVcmk4MVoxcVVNX1NUWXpudVdlVmdiUUlGak5IeEFVZ2tHa1JKajJ5S3Z4SHlrMHhVSk0?oc=5",
    "title": "“가을 전어 먹고 참치 해체쇼 보세요”...수협중앙회, ‘도심 속 바다축제’ 개최",
+   "summary": ""
+  },
+  {
+   "id": "g14",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "리드경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZDRFYWpUR3ZDNklmUDFMU25BQW10ZEZDejBkQk1pcW94YmJGTkd3dll1ZjZud0JVZEdGWFYxY3B2Y0ZKZUZKRXNLQUg0QWYyMUFHMEV4WktaTUFwYW8waHJTc3lhRnlyd3ktYTEta0U?oc=5",
+   "title": "수협중앙회, 노량진에 바다가 열린다…24일 개막 ‘도심 속 바다축제’ 먹거리·공연 풍성",
    "summary": ""
   },
   {
@@ -5333,18 +5333,18 @@
    "summary": ""
   },
   {
-   "id": "g42",
+   "id": "g44",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "농산물",
    "item": null,
-   "source": "노컷뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XU0VjUF9FcFhtZW91R0ZKaHQxUzlQM296VEE5NnBhTnBEWlFESFpoM0U0dmhnbGFCc3Ryb1BBZ3NjS0tCdjJ3NU9XRm5HaTJvVXc?oc=5",
-   "title": "채소·과일류 등 농축산물 가격 하락세…소고기·달걀 등 축산물 등락 엇갈려",
+   "source": "밴쿠버 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zakUwb0hNenJSanJEaVY1VHczME5GQWI5VzE5NWN0b09mVHBuT2gwZWZ1Y2NFWWdYUldHLWV5Nl9MSTVIZUttelN5NHo0NzQ1RmtJdDBhZWQwMldaYXUwSldoSzRpYy1xMTBtS1ZRR0ItRGFMUUNSNzgyRUNMNzQ?oc=5",
+   "title": "[밴쿠버 조선일보]엘니뇨에 식탁 물가 또 꿈틀··· 빵·쌀·과일값 뛴다 | 밴쿠버 뉴스",
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g46",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5355,7 +5355,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g47",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5366,7 +5366,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g48",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "축산물",
@@ -5377,7 +5377,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g56",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
@@ -5388,18 +5388,7 @@
    "summary": ""
   },
   {
-   "id": "g31",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "corn",
-   "source": "팜인사이트",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dVdpVGwzd0RreTlVSXJfMUM4MUpxUDZ4elhoSjMwVzZZWGR6QVdGVE5HdXh2Zi15NEhDUEVrVkVFRFE4bElaenhaS2ppQlh5RTFOUFJrd2hQdzhkZlBjOXNENVJuRmV1VnVBSnR3?oc=5",
-   "title": "옥수수 공급망 불안, 장바구니 물가 직격탄",
-   "summary": ""
-  },
-  {
-   "id": "g38",
+   "id": "g37",
    "d": "2026-10-15",
    "region": "해외",
    "cat": "가공·소재",
