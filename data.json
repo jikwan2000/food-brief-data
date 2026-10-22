@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T12:31:19.282Z",
+ "updated": "2026-10-22T15:29:27.868Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2075,7 +2075,7 @@
     ],
     [
      "2026-10-22",
-     0.4511
+     0.4462
     ]
    ],
    "base": 0.4220902690824005,
@@ -3191,7 +3191,7 @@
     ],
     [
      "2026-10-22",
-     246.7
+     245.5
     ]
    ],
    "base": 251.1895513227513,
@@ -4379,7 +4379,7 @@
     ],
     [
      "2026-10-22",
-     1459.5
+     1474
     ]
    ],
    "base": 1211.8355732119146,
@@ -4750,6 +4750,17 @@
  },
  "news": [
   {
+   "id": "g19",
+   "d": "2026-10-22",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "축산신문",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OaDJnWlY2RVExTVlHNmx1a2xNVnFxbURaVVlFSWZNc0M0bTdIWjdid3RmU3I5RFZjMHFPRUtUVXdQRWZJOVdtRmFHS3NJb2pZNjBqLUhubGtkV2puRTVDZmtNWnNaTzlK?oc=5",
+   "title": "계란값 하락…업계 “수입보다 국내 생산 회복 영향”",
+   "summary": ""
+  },
+  {
    "id": "g20",
    "d": "2026-10-22",
    "region": "국내",
@@ -4772,17 +4783,6 @@
    "summary": ""
   },
   {
-   "id": "g41",
-   "d": "2026-10-22",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "thairice",
-   "source": "전북중앙",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nbEcxVWJMVEhPS1U3RFJVeW9QU3NUckpKMjU1NlBvMXdXNXhQN3NOY1hTOE1nUTFKUDE3YmtJSklEZ1BDOHFfcUZHRzJxbDh6bWRuVDBpcllUZkxzWUFxN1FEOUNDdkFRZHln0gFrQVVfeXFMT2dsRzFVYkxUSE9LVTdEUlV5b1BTc1RySkoyNTU2UG8xd1c1eFA3c05jWFM4TWdRMUpQMTdia0lKSURnUEM4cV9xRkdHMnFsOHptZG5UMGlyWVRmTHNZQXE3UUQ5Q0N2QVFkeWc?oc=5",
-   "title": "논, 쌀을 넘어 식량안보의 기반으로",
-   "summary": ""
-  },
-  {
    "id": "g2",
    "d": "2026-10-21",
    "region": "국내",
@@ -4802,6 +4802,17 @@
    "source": "IndexBox",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2VGLTk1YXh2cWlLUVVBdGpIc3E2b01vNkVvUklodXBqcGRYTFk3M3lQUVVsbTkzY3lKVnZCRWdVRVJ3QkNnSGJxMHhhNUJzclpCc1h6V0RKd08tczYwWlZtXzljUzV0cm5lbUJ2VlVCSEo3OUpsOE82VTlnTF9XZ3RqelhqWHRNQm5GeUJnUTE4TDZTU1VmRW9PN0g?oc=5",
    "title": "42주차 노르웨이산 냉동 고등어 가격 상승, 청어·필레 흐름은 - 뉴스 및 통계",
+   "summary": ""
+  },
+  {
+   "id": "g15",
+   "d": "2026-10-21",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "인천투데이",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcllZaDdWZ3IxaDc5MGl0SmZOWVlSYllXX0dhbWkxQjd1NkZPQkxDYnVDM2pTVWxrd0syQW1lYjZ5SVRLWFZwdkxPeG84dWo3cEF4VExkZ1FNc2FjUEp0TzVWcktRTmUyM3J1WTJnZHc?oc=5",
+   "title": "인천시, 24일 연안부두 수산물 축제 개막··· 꽃게 '반값' 할인 판매",
    "summary": ""
   },
   {
@@ -4857,17 +4868,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0lJdnE0VS14SDJ5RjExVFF1ZXVFUmJ0aWF5OVZsRzZ3RmdNOEx6Yk9iem5MMmxfcFo2aElVWXBGeTJLVGJocUlYTVZ1VXJZX3FlMlEwZHVnQ1NacXFZMUc0NHY5TElra0E5VzM4dEFXcWVTRVRjV2piTkZyQzJCTHJkY1VzcmdRWThaNTVYUFlkSWFjcjJNUTdZOA?oc=5",
    "title": "수입 고등어는 가격대가 다양하며, 일부 종류는 kg당 거의 35만 VND에 달합니다.",
-   "summary": ""
-  },
-  {
-   "id": "g19",
-   "d": "2026-10-20",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "한국농정신문",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xSG15Y2dkNjJZZ0hmNTdWazd6SGk4OWZXdURaVUFVQU9JZWE0alFOMGJMWjk4YnVleXJOSkFEdDdGUDg1a2ZXYmRYcjQtTGgxeTY1QzB0dXJRY3NHMm1EUWJKVHZaaXA2LWpJ0gFrQVVfeXFMT3FIbXljZ2Q2MllnSGY1N1ZrN3pIaTg5Zld1RFpVQVVBT0llYTRqUU4wYkxaOThidWV5ck5KQUR0N0ZQODVrZldiZFhyNC1MaDF5NjVDMHR1clFjc0cybURRYkpUdlppcDYtakk?oc=5",
-   "title": "계란 유통인들 “생존권 확보·산업 발전 다짐”",
    "summary": ""
   },
   {
@@ -5025,17 +5025,6 @@
    "summary": ""
   },
   {
-   "id": "g15",
-   "d": "2026-10-19",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "강원일보",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lenRBT2ZwUDNUaDBSOFlSX0w0SFFUb0M5LS1ZMUNId2hSb25WQkctRTZ3LUVzYkdLTmJmSV9oYXJtZzc1WDJRemtjUzZCdkhreEFFd1YyenJKRmc?oc=5",
-   "title": "외식품목 8개 중 7개 인상…강원지역 외식비 고공행진",
-   "summary": ""
-  },
-  {
    "id": "g23",
    "d": "2026-10-19",
    "region": "국내",
@@ -5047,7 +5036,7 @@
    "summary": ""
   },
   {
-   "id": "g25",
+   "id": "g24",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5110,6 +5099,17 @@
    "source": "글로벌이코노믹",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDZub01KZ2VMcUZZS0ZjMzR4UjU2SVlwWmFVZHNtY2VvbHZQR1ZJVTVzcXdiakh4blk2eDRhT0hrZ1BtbkY3SU9Od0VkR2VPdVFTcEJINzd0NExZd05GOG45dlZxbS1pUGVNNUQ2X3M0ODFkQVNvRmpEczJkbC1rMW4yU1lESlRG?oc=5",
    "title": "전쟁·가뭄·운임 폭등 '퍼펙트 스톰'… 전 세계 식품 인플레이션 2027년까지 장기화",
+   "summary": ""
+  },
+  {
+   "id": "g41",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "이데일리",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUlCbUZFNlVsSEdnQWg5eXVTT0p5RzZsMkpHSEp4UjFzaXNxRnRzRTBheFZVOVdHbVZKeEJRVUNzcGFvSzJwenFBTmdaYzVFbVhLSGUwenZaU1ZnMGZkUXNOV1N5ckFVYnQzNXJNTEduWXVSQjA0N3pYR2hZYy11YQ?oc=5",
+   "title": "전쟁에 엘니뇨까지…세계 식품물가, 2027년까지 상승 경고",
    "summary": ""
   },
   {
@@ -5201,7 +5201,7 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g17",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "축산물",
@@ -5289,7 +5289,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g16",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "축산물",
@@ -5311,7 +5311,7 @@
    "summary": ""
   },
   {
-   "id": "g24",
+   "id": "g25",
    "d": "2026-10-16",
    "region": "해외",
    "cat": "가공·소재",
