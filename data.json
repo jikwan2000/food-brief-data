@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:25:22.690Z",
+ "updated": "2026-10-23T15:28:09.359Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2079,7 +2079,7 @@
     ],
     [
      "2026-10-23",
-     0.4497
+     0.4458
     ]
    ],
    "base": 0.4220902690824005,
@@ -3195,7 +3195,7 @@
     ],
     [
      "2026-10-23",
-     244.7
+     243.9
     ]
    ],
    "base": 251.1895513227513,
@@ -4383,7 +4383,7 @@
     ],
     [
      "2026-10-23",
-     1471.1
+     1474
     ]
    ],
    "base": 1211.8355732119146,
@@ -4754,6 +4754,17 @@
  },
  "news": [
   {
+   "id": "g15",
+   "d": "2026-10-23",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "여수넷통뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Pa3lvb19SY2lsWm1WUV81WVY3cEdSN1FGRW9HWGhaUFdFXzNMWmZ0UF9vQ0dMZlNVemFxU0pvMVRXMUtUZDBkVWpLTFZRZzdfWlFSRlJUZFMzZVVZdVNJTU1lRk9SYVVY?oc=5",
+   "title": "섬박람회 열리는 여수에서 수산물 소비 촉진 행사 줄이어",
+   "summary": ""
+  },
+  {
    "id": "g20",
    "d": "2026-10-23",
    "region": "국내",
@@ -4820,18 +4831,7 @@
    "summary": ""
   },
   {
-   "id": "g13",
-   "d": "2026-10-21",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWdIBYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWQ?oc=5",
-   "title": "한국물가정보 \"황금연휴 끝난 후 장바구니 물가 안정세\"",
-   "summary": ""
-  },
-  {
-   "id": "g15",
+   "id": "g14",
    "d": "2026-10-21",
    "region": "국내",
    "cat": "수산물",
@@ -4897,7 +4897,18 @@
    "summary": ""
   },
   {
-   "id": "g45",
+   "id": "g44",
+   "d": "2026-10-21",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWdIBYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWQ?oc=5",
+   "title": "한국물가정보 \"황금연휴 끝난 후 장바구니 물가 안정세\"",
+   "summary": ""
+  },
+  {
+   "id": "g46",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "축산물",
@@ -4908,7 +4919,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
+   "id": "g48",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "축산물",
@@ -4919,7 +4930,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g50",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "축산물",
@@ -4930,7 +4941,7 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g57",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "가공·소재",
@@ -4952,14 +4963,25 @@
    "summary": ""
   },
   {
+   "id": "g19",
+   "d": "2026-10-20",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "매일일보",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rU0dQb1J0b1g1WUY2V002LUFOc0JoRGN3NDlKVmFqMG5HbjRhcFZLSmdoMFFNYV94RXNHWG1MQWd4M29XLVh6THhaVjA3ZExkSjdvOUtSdm9sNnZ4NFBTUE9kc0c?oc=5",
+   "title": "계란 기준가격 부재·수급 불안…유통업계, 제도 개선 논의",
+   "summary": ""
+  },
+  {
    "id": "g23",
    "d": "2026-10-20",
    "region": "국내",
    "cat": "정책·유통",
    "item": null,
-   "source": "서울경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cFJQckRrcjdVcDk4WXA2bGtQMDdRcVp4dnZQTlQ0cWZDWWkyOWo5NDhyZy1sZ1RwNGdQbUp3azZkQy1oZHl6WDNtVGxtTFMzVWfSAVNBVV95cUxPOVQ3Z3NxX0w4ZEpCb2h5VlJtcWNoOXRCT0wxRkZaM3NJYmpncXpjbEt3aWNJdzlKSjgxU1MwbndfdzZxOS1OOURkTVBQdUJvbmZHMA?oc=5",
-   "title": "농축산물 급등에 생산자물가 두 달 연속 상승...9월 0.2%↑[Pick코노미]",
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuM2Zvdl9RSGw1Nzc5SUV5THhGVzkyaXZtQXR6UnZyWFVOZWJCWDVDV1JxckJndms1eVpfNUVtMEJkR1k1V1g1N3JlYVJmQmR6Nm8zcjdDUTJkSXRwTktlaWZuVUlLT2JlQU5v0gFwQVVfeXFMTTB5WG9pOWRmTU9rVmVIbkJlSlJoTHZWTVhseFdtSFFTcnVkcEFRbWduVktDbjBhaEF4X0xMYW0xU3ozOTZFcERiTlRhMlZqSDNEc1psTDItYkFWWDc2NS1vTW15VmRRM05SbDlqVGdjZg?oc=5",
+   "title": "생산자물가 두 달 연속 상승…배추 42.9%·쇠고기 10.4%↑ - 머니투데이",
    "summary": ""
   },
   {
@@ -5007,7 +5029,7 @@
    "summary": ""
   },
   {
-   "id": "g50",
+   "id": "g51",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5018,7 +5040,7 @@
    "summary": ""
   },
   {
-   "id": "g55",
+   "id": "g56",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5084,7 +5106,7 @@
    "summary": ""
   },
   {
-   "id": "g14",
+   "id": "g13",
    "d": "2026-10-19",
    "region": "국내",
    "cat": "수산물",
@@ -5194,7 +5216,7 @@
    "summary": ""
   },
   {
-   "id": "g46",
+   "id": "g47",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5205,7 +5227,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g49",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5216,7 +5238,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g52",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5227,7 +5249,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g54",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5238,7 +5260,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g55",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5304,18 +5326,7 @@
    "summary": ""
   },
   {
-   "id": "g19",
-   "d": "2026-10-18",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40R3ZQdzdtcWNJem5VNmRnSXJoVzdfVW51VlVnNlhIcjNsekR3ei15NEUwU1NCNVEyT2k3ZHNMTGcza1JFWnFseE5LVGZBek1heVhZbWdIVUNzWm5pZDZtNTVOTXdGUFF6VWE4X1F5THXSAXBBVV95cUxONEd2UHc3bXFjSXpuVTZkZ0lyaFc3X1VudVZVZzZYSHIzbHpEd3oteTRFMFNTQjVRMk9pN2RzTExnM2tSRVpxbHhOS1RmQXpNYXlYWW1nSFVDc1puaWQ2bTU1Tk13RlBRelVhOF9ReUx1?oc=5",
-   "title": "'브라질산 수입' 논란 속 계란값 6000원대…AI가 수급 변수 - 머니투데이",
-   "summary": ""
-  },
-  {
-   "id": "g44",
+   "id": "g45",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "수산물",
@@ -5326,7 +5337,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
