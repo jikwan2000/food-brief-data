@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:25:16.416Z",
+ "updated": "2026-10-23T00:29:12.191Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -969,10 +969,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-17",
-     0.3426
-    ],
     [
      "2025-09-18",
      0.3391
@@ -2086,10 +2082,6 @@
   "wheat": {
    "raw": [
     [
-     "2025-09-17",
-     189.7
-    ],
-    [
      "2025-09-18",
      187.4
     ],
@@ -3190,8 +3182,8 @@
      247.3
     ],
     [
-     "2026-10-22",
-     244.6
+     "2026-10-23",
+     245.9
     ]
    ],
    "base": 251.1895513227513,
@@ -3273,10 +3265,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-17",
-     1129.6
-    ],
     [
      "2025-09-18",
      1114.9
@@ -4378,8 +4366,8 @@
      1454.4
     ],
     [
-     "2026-10-22",
-     1471.1
+     "2026-10-23",
+     1474.2
     ]
    ],
    "base": 1211.8355732119146,
@@ -4772,7 +4760,7 @@
    "summary": ""
   },
   {
-   "id": "g21",
+   "id": "g22",
    "d": "2026-10-22",
    "region": "국내",
    "cat": "정책·유통",
@@ -4783,7 +4771,7 @@
    "summary": ""
   },
   {
-   "id": "g27",
+   "id": "g26",
    "d": "2026-10-22",
    "region": "해외",
    "cat": "가공·소재",
@@ -4791,17 +4779,6 @@
    "source": "아시아투데이",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwYmZRUWR1UHRnc0VNaUROUHVvNHpFbTU1TFlfMEIzX2sxSmgyRDNEQWNDeWc2VmdEeDdmSWh4SkJZSUNrUFdCZHUwMHRZdjZ3eU9KMkdONWN2dGktNXJpb2F0UFliZTRjZlZJN2RR?oc=5",
    "title": "설탕 들어가면 전부 과세?…프랑스 ‘설탕세’ 확대에 업계 반발",
-   "summary": ""
-  },
-  {
-   "id": "g56",
-   "d": "2026-10-22",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "Farm Progress (영문)",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2VUWDFuQU9wZ1NNUmNndmxUX1FiNkNCaE54M3E0cnFrZmNYWDF4WG9NT0FSWjJBSFM4SFY0M1dTWWk3VHptMFJHX2dkdS1RVm4zVi1Ta0JwMTNKTXFkUFhHbDVUaEFHcGhzeENJMC1GTUUtOXFNUDA5Z1R4WVJka0toUzRiWU1WbVhVdVVGekdiZE5SNEEtdndLNA?oc=5",
-   "title": "Wheat markets sink as weak exports outweigh drought concerns",
    "summary": ""
   },
   {
@@ -4827,14 +4804,25 @@
    "summary": ""
   },
   {
-   "id": "g15",
+   "id": "g21",
    "d": "2026-10-21",
    "region": "국내",
-   "cat": "수산물",
+   "cat": "정책·유통",
    "item": null,
-   "source": "인천투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcllZaDdWZ3IxaDc5MGl0SmZOWVlSYllXX0dhbWkxQjd1NkZPQkxDYnVDM2pTVWxrd0syQW1lYjZ5SVRLWFZwdkxPeG84dWo3cEF4VExkZ1FNc2FjUEp0TzVWcktRTmUyM3J1WTJnZHc?oc=5",
-   "title": "인천시, 24일 연안부두 수산물 축제 개막··· 꽃게 '반값' 할인 판매",
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wNmgyb0VvNGtVQ29SQXJHb05oZnNMZ0pZdnpHQ1JLenUxM2xEREEzdW83aC1RRE54V3ZlMnB6WW9UNjZLQzRmcFJhYjFIUzYyVUpCLVF5SnNwNlRHSlRYZl9zTTFCOVNrVm9N0gFwQVVfeXFMUE1QSS1GeHp2TmtHM0tmdGZBYTlmenVVQ0hOeVFaamdqU3FSTzRYdGo0REVRUmNDWlRnRTBDdWhQWDFQb0t6N2RLR1k1ckxDVWpVUExxRUdkNklxcy1GSkRYMUlhWko3cjRkZHBPc2ZpaA?oc=5",
+   "title": "농축산물 관세 2653억 낮췄지만…물가 인하 효과는 0.003% - 머니투데이",
+   "summary": ""
+  },
+  {
+   "id": "g27",
+   "d": "2026-10-21",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "자본시장뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoeU5TejNwbDNZWTVGd2t5ZlBLaTVnLVpTM09ta3M2UXl1cjJ6UlR2cnZNcUJmQXRzdlMyTW1XR2gtQkxmYm16bWxrLUtLbXdKdkxaakpzaF9qWjY2M2lQR1o3cFB1Rkk?oc=5",
+   "title": "식품사 담합 조사 6개 품목…원가 올라도 값 못 올린다",
    "summary": ""
   },
   {
@@ -4871,6 +4859,17 @@
    "summary": ""
   },
   {
+   "id": "g51",
+   "d": "2026-10-21",
+   "region": "해외",
+   "cat": "축산물",
+   "item": null,
+   "source": "WABE (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLXVJU0YtRmZPbTlBTF9WNThwNDJreFJkdURvaUJ4b2xmNElmT2sxRlVzUEFNVnh6eWwtSkNZcWNoZjRuYnVoY2xyZHIxOUJtSTZXSEVFUVo1MVFGWHIzcGRXTWFPR3VSaDV1aHBzdkdHbkdXaU95LWtoUXpyS3hkQm9RRG9tMzNnS1U5R0hFUks0eFZvaUZtUEt4WXc0WFhGVlFQV3FtSjg4eVlqWElxVGdzNA?oc=5",
+   "title": "America’s beef producers searching for solutions amid tariffs, diesel prices, low cattle stock",
+   "summary": ""
+  },
+  {
    "id": "g58",
    "d": "2026-10-21",
    "region": "해외",
@@ -4893,18 +4892,7 @@
    "summary": ""
   },
   {
-   "id": "g22",
-   "d": "2026-10-20",
-   "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "서울경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cFJQckRrcjdVcDk4WXA2bGtQMDdRcVp4dnZQTlQ0cWZDWWkyOWo5NDhyZy1sZ1RwNGdQbUp3azZkQy1oZHl6WDNtVGxtTFMzVWfSAVNBVV95cUxPOVQ3Z3NxX0w4ZEpCb2h5VlJtcWNoOXRCT0wxRkZaM3NJYmpncXpjbEt3aWNJdzlKSjgxU1MwbndfdzZxOS1OOURkTVBQdUJvbmZHMA?oc=5",
-   "title": "농축산물 급등에 생산자물가 두 달 연속 상승...9월 0.2%↑[Pick코노미]",
-   "summary": ""
-  },
-  {
-   "id": "g26",
+   "id": "g25",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5113,6 +5101,17 @@
    "summary": ""
   },
   {
+   "id": "g37",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FMGYta0JORl9ubVNqbUNxN3VEV29vaWFteTJGT29mUk5pWU9BVm9lc1RKWEE3MTA4blFxMVVSYnNnZURWaHZTX05YTXBhUWRXUXo1ZHg1YjRCMkhzV3EwSVhtR2syUndlQkwxNFlmTVIzWW1iZFZVci1TQdIBe0FVX3lxTE5FMGYta0JORl9ubVNqbUNxN3VEV29vaWFteTJGT29mUk5pWU9BVm9lc1RKWEE3MTA4blFxMVVSYnNnZURWaHZTX05YTXBhUWRXUXo1ZHg1YjRCMkhzV3EwSVhtR2syUndlQkwxNFlmTVIzWW1iZFZVci1TQQ?oc=5",
+   "title": "\"삼양식품, 원화 강세에도 3분기 실적 컨센서스 부합할 것\"-현대차 - 머니투데이",
+   "summary": ""
+  },
+  {
    "id": "g39",
    "d": "2026-10-19",
    "region": "해외",
@@ -5168,17 +5167,6 @@
    "summary": ""
   },
   {
-   "id": "g51",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "WKRN News 2 (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGl0YzREZjQ1WGlCUVFiUk90c3lyQ0FHSWVnc2p3OXVHYjdIa2xGUy0zWHJpLWN0VEtsdm02bEdHOEN0Z3ptTVdYd2RXSFc0TVAwVEhEWmduY1RzT25PY1ptcVNxZ1hTXzkwanlzR3BwU0ViMnctb2tBZkNpc2hzN3JTaTlHSHdwZUpfUll3QTQ5QjdOaGFvZEVBMXlIQlZCeWZoNHc4R0tQVEQ1eVZYV2lQQlppSk91Y2hYTTltUVRTd9IBxwFBVV95cUxPVGhjanZxN3hGTk44b281b2xBSy0xZ1BoVjE1V2Z6TFpqMmpoVEJRZnNTMmJ3NzdHQzNrYUJ1TW9IdUcwMnN5N19YcFNRRTIyZGxlVWxGa1JGSjVRS3k3LVZFRzV4cHNQdDUxX2lydldEUXZuYnlpc1VySHVZSlBjNVM2Ui1MX1BaOWp6VUVmZ1lrNWU0Nzd6ck15QU1qU2l0UUs5WHczRW9VaXZYWVFMT3JoZXhuTmxNaGExTzUxUGhQbHBxSjc0?oc=5",
-   "title": "Middle Tennessee farmers still feeling the squeeze despite lower beef prices",
-   "summary": ""
-  },
-  {
    "id": "g53",
    "d": "2026-10-19",
    "region": "해외",
@@ -5198,6 +5186,17 @@
    "source": "Reuters (영문)",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5",
    "title": "India sugar stocks slide as government halts sugar diversion to ethanol",
+   "summary": ""
+  },
+  {
+   "id": "g56",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "AgWeb (영문)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjVvNkpGeG03Q0Fpb2lsVTNWRDFaMlBOeXlfay1nSXdCOS1Hb1ZXTHVJVGp1cHZMakdnOXAwN1NHS1pZaVdtY1lXMmU2U0RHN0R0RW02T0tDX0R0am5mdlJDNmdOdHlmaWFiZkF5TDRYd19fM2ZCdVkzTHFVNjhSUXptZlFhMHAwb2pFRDhOU01LUnJBdXc?oc=5",
+   "title": "Grains Make New Lows as Funds Sell, Harvest Pressures Market",
    "summary": ""
   },
   {
@@ -5234,7 +5233,7 @@
    "summary": ""
   },
   {
-   "id": "g17",
+   "id": "g18",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "축산물",
@@ -5311,6 +5310,17 @@
    "summary": ""
   },
   {
+   "id": "g15",
+   "d": "2026-10-16",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "리드경제",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZDRFYWpUR3ZDNklmUDFMU25BQW10ZEZDejBkQk1pcW94YmJGTkd3dll1ZjZud0JVZEdGWFYxY3B2Y0ZKZUZKRXNLQUg0QWYyMUFHMEV4WktaTUFwYW8waHJTc3lhRnlyd3ktYTEta0U?oc=5",
+   "title": "수협중앙회, 노량진에 바다가 열린다…24일 개막 ‘도심 속 바다축제’ 먹거리·공연 풍성",
+   "summary": ""
+  },
+  {
    "id": "g16",
    "d": "2026-10-16",
    "region": "국내",
@@ -5322,7 +5332,7 @@
    "summary": ""
   },
   {
-   "id": "g18",
+   "id": "g17",
    "d": "2026-10-16",
    "region": "국내",
    "cat": "축산물",
@@ -5330,17 +5340,6 @@
    "source": "팜인사이트",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10YW9KbUlab01MUXd6QjdWNTJOXzNLWURhWjJkTG51cHNZWVg1Z1ZSNUpvV051ek1zT1QwZkw1UWpVX2RRcW1naEhOalR6VjRMelROaW85SURLeUo1RG0yeXlwMkwwYzNnSm53cHVR?oc=5",
    "title": "계란값 하락 견인한 것은 '수입' 아닌 '수급'",
-   "summary": ""
-  },
-  {
-   "id": "g25",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "엔트로피타임즈",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4YjhIWThLbERFLWk4ZFpxcGJKd3ZQclU5c3JUUUo5QUJhOHdadnRwN3pvZFVqSWlZc1hTZkRPa05maEstN1ZwWmc1OTJmMHk4Rk9aaUVMU2FxZnpGS2ZrTHpLVQ?oc=5",
-   "title": "FAO 식량가격지수 2년여 만에 최고…설탕값 급등에 휘청",
    "summary": ""
   },
   {
@@ -5385,17 +5384,6 @@
    "source": "YTN",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mMF9rVU9IQWxPdmkyUjV2V3Q1LVJvQnBjaXJUeWkxNEZvYkV5LWxPdzd5eVNpYVFrXzMtempsS1RCNk85ZGszUUU5MDFheDlySjdjcUhnanEwT01Ob0E?oc=5",
    "title": "고물가·엔화 악세에...일본 닭고기 소비, 소·돼지고기 추월",
-   "summary": ""
-  },
-  {
-   "id": "g37",
-   "d": "2026-10-15",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "마켓인",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNmZwQnVoZkxYZmg4RUMzOWt0WVdJaDZxZzRwZ2RCUGZXQ1BMaEtZeDRPaFJ2WXRfcHl5TmZYYWV1RTVkMEhDcUViZENYcHhFSzJpWGVPYmtYNXNKRHdBT3FaTzVocnZqWEI3NXBjWm5KZnM?oc=5",
-   "title": "“불닭 해외서 더 잘 팔리네”…주가 10% 빠진 삼양식품, 175만원 간다는데",
    "summary": ""
   }
  ],
