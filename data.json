@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T03:23:11.075Z",
+ "updated": "2026-10-24T06:24:39.034Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -2079,7 +2079,7 @@
     ],
     [
      "2026-10-23",
-     0.4467
+     0.4462
     ]
    ],
    "base": 0.4220902690824005,
@@ -3191,7 +3191,7 @@
     ],
     [
      "2026-10-23",
-     244
+     244.2
     ]
    ],
    "base": 251.1895513227513,
@@ -4375,7 +4375,7 @@
     ],
     [
      "2026-10-23",
-     1472.5
+     1473.3
     ]
    ],
    "base": 1211.8355732119146,
@@ -4757,6 +4757,17 @@
    "summary": ""
   },
   {
+   "id": "g19",
+   "d": "2026-10-23",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "대한급식신문",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mWWVMRVNkWExxNGJaWk9WcGs4TlVuXzUyYU1tM055ZGZWeUsxVkMwYjZmcnBCUklFTEptZlBsN3NSa0lJVTVMaFZ2UXdSMUhmSm5CODdDejczbGNRTDFmU1l2SFE?oc=5",
+   "title": "계란값 안정, 수입보다 방역·공정",
+   "summary": ""
+  },
+  {
    "id": "g20",
    "d": "2026-10-23",
    "region": "국내",
@@ -4768,7 +4779,18 @@
    "summary": ""
   },
   {
-   "id": "g56",
+   "id": "g44",
+   "d": "2026-10-23",
+   "region": "해외",
+   "cat": "농산물",
+   "item": null,
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SdDVKYkZfMlI1SC1TQjlkeDRQeTJId0NlakpLWmhidGlFa1d2bHNBdkJZMG1yeEllNDlCcFBQSEs5LW1DRzZMUnJyZkNIVGZuYnNqbF9qWmExSU5rZVdCZVZnQTFxdVFmYVoxSHlrOTBOS09kTjlr?oc=5",
+   "title": "껀터 농부들은 보라색 별사과를 해외로 수출합니다.",
+   "summary": ""
+  },
+  {
+   "id": "g55",
    "d": "2026-10-23",
    "region": "해외",
    "cat": "가공·소재",
@@ -4845,17 +4867,6 @@
    "summary": ""
   },
   {
-   "id": "g18",
-   "d": "2026-10-21",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "미주중앙일보",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50RVRYQzZjY0hlcndBeXQ3Qjg5dzJNVEwzbWhLakdGU3dVNlBxcGx6ZDZ2WTB6NUhxdXZvZXZQNlZvWmk0eUZuWjBRX0xLV0tBRHpjQlBrZHlwazZWeHprLXJB?oc=5",
-   "title": "계란값 급락…과일·커피값은 상승",
-   "summary": ""
-  },
-  {
    "id": "g26",
    "d": "2026-10-21",
    "region": "해외",
@@ -4900,17 +4911,6 @@
    "summary": ""
   },
   {
-   "id": "g43",
-   "d": "2026-10-21",
-   "region": "해외",
-   "cat": "농산물",
-   "item": null,
-   "source": "연합뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWdIBYEFVX3lxTE9zY3pJREtOVl9SRHBMQnFLZVVnVERJaTJJY1pzOWNya0p3cS11QzFIa3BnNzNsbUVQbEVLRk5wdmZYU21ZekRMTXlPeEpBdGt5aEczUGJwa0tOYmd1VjVHWQ?oc=5",
-   "title": "한국물가정보 \"황금연휴 끝난 후 장바구니 물가 안정세\"",
-   "summary": ""
-  },
-  {
    "id": "g46",
    "d": "2026-10-21",
    "region": "해외",
@@ -4922,7 +4922,7 @@
    "summary": ""
   },
   {
-   "id": "g48",
+   "id": "g47",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "축산물",
@@ -4933,7 +4933,7 @@
    "summary": ""
   },
   {
-   "id": "g51",
+   "id": "g50",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "축산물",
@@ -4944,7 +4944,7 @@
    "summary": ""
   },
   {
-   "id": "g58",
+   "id": "g57",
    "d": "2026-10-21",
    "region": "해외",
    "cat": "가공·소재",
@@ -4963,17 +4963,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0lJdnE0VS14SDJ5RjExVFF1ZXVFUmJ0aWF5OVZsRzZ3RmdNOEx6Yk9iem5MMmxfcFo2aElVWXBGeTJLVGJocUlYTVZ1VXJZX3FlMlEwZHVnQ1NacXFZMUc0NHY5TElra0E5VzM4dEFXcWVTRVRjV2piTkZyQzJCTHJkY1VzcmdRWThaNTVYUFlkSWFjcjJNUTdZOA?oc=5",
    "title": "수입 고등어는 가격대가 다양하며, 일부 종류는 kg당 거의 35만 VND에 달합니다.",
-   "summary": ""
-  },
-  {
-   "id": "g19",
-   "d": "2026-10-20",
-   "region": "국내",
-   "cat": "축산물",
-   "item": null,
-   "source": "매일일보",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rU0dQb1J0b1g1WUY2V002LUFOc0JoRGN3NDlKVmFqMG5HbjRhcFZLSmdoMFFNYV94RXNHWG1MQWd4M29XLVh6THhaVjA3ZExkSjdvOUtSdm9sNnZ4NFBTUE9kc0c?oc=5",
-   "title": "계란 기준가격 부재·수급 불안…유통업계, 제도 개선 논의",
    "summary": ""
   },
   {
@@ -5043,7 +5032,7 @@
    "summary": ""
   },
   {
-   "id": "g49",
+   "id": "g48",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "축산물",
@@ -5054,7 +5043,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g51",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5065,7 +5054,7 @@
    "summary": ""
   },
   {
-   "id": "g57",
+   "id": "g56",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5103,9 +5092,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": null,
-   "source": "매일신문",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ILXdCbV8xblBTdVl5dUJQWl9CYXZLRWhXSnlId0RBMEt6bzVvU0gxSDBXczFWdnYzaW01OTNseVpUdnZKSFBBNEZaUmVUZzIxQ1FYN2FSZ09lcUVYUTQ4VEhR?oc=5",
-   "title": "오이·샤인머스캣 도매가 최대 68% ↓…정부, 소비 촉진책 가동",
+   "source": "기호일보",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12Yk1ZcER0dFNXRGkyS01pcWJWNjVndVVHLURtQWloWHpWMGItbllsT2t2cTkzUFk2N1pDdWowUnR3c2JRYTAwU1B4c2lqbzBvS3RSWko3R21oRWQ2eE52SF93aEF2Tk9XbWhVS0oybw?oc=5",
+   "title": "샤인머스캣·애호박 가격 뚝…정부, 농산물 할인·수출 지원 확대",
    "summary": ""
   },
   {
@@ -5139,6 +5128,17 @@
    "source": "www.mobiinside.co.kr",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTm5udWYtZ242QzhlYkxVZ1RIckVCQmZKWlRQeWVWQ2hSRTdzM2wtajBDX0dtXzllc2UyNGdnYXFpY191N1V4QkcwNmZPcmhnMm5QSU4wWURrT0paLVR5SGVVN2tCSEo2TFlidlJEMnJXR2NvMlhzM2x5ZXJBcWd2X0V4ZDZ6ZEdRUlp3WF93TWs?oc=5",
    "title": "[모두의 창업자를 위한 안내서] 노량진에서 찍은 사진들이 570억",
+   "summary": ""
+  },
+  {
+   "id": "g16",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "축산물",
+   "item": null,
+   "source": "Calgary Roughnecks",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHEwdEtzYmFjT3d1dVhjdndQSnZLOHZlbGpUNHd5c0ZTdFBTRk1sOXlkN29uT25UWTJfMF9YdGdSUEwxcjFZNnZ2Rkx3YjBrYmg4R1QyMnNObnJtUDlhTHlPZXQ1S09aemdWNmY2Wl9qbEJWQTR3dmJ0SkdZM3JrT2NCQkJ6TlprSUJsNzg3WW5XcExTcVJ0RFgydHRPel9yX0o0RUp2aUIwTEVmUXBpR3JGMnlHMEFzNnRpU1FueHdRZUNPSlE?oc=5",
+   "title": "토토철물 의 모든 것: 기본 개념부터 고급 기술까지",
    "summary": ""
   },
   {
@@ -5241,18 +5241,7 @@
    "summary": ""
   },
   {
-   "id": "g47",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "축산물",
-   "item": null,
-   "source": "Calgary Roughnecks",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHEwdEtzYmFjT3d1dVhjdndQSnZLOHZlbGpUNHd5c0ZTdFBTRk1sOXlkN29uT25UWTJfMF9YdGdSUEwxcjFZNnZ2Rkx3YjBrYmg4R1QyMnNObnJtUDlhTHlPZXQ1S09aemdWNmY2Wl9qbEJWQTR3dmJ0SkdZM3JrT2NCQkJ6TlprSUJsNzg3WW5XcExTcVJ0RFgydHRPel9yX0o0RUp2aUIwTEVmUXBpR3JGMnlHMEFzNnRpU1FueHdRZUNPSlE?oc=5",
-   "title": "토토철물 의 모든 것: 기본 개념부터 고급 기술까지",
-   "summary": ""
-  },
-  {
-   "id": "g50",
+   "id": "g49",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "축산물",
@@ -5271,17 +5260,6 @@
    "source": "Reuters (영문)",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
    "title": "Global food inflation is expected to intensify as supply shocks pile up",
-   "summary": ""
-  },
-  {
-   "id": "g55",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "rawsugar",
-   "source": "Reuters (영문)",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5",
-   "title": "India sugar stocks slide as government halts sugar diversion to ethanol",
    "summary": ""
   },
   {
@@ -5329,7 +5307,7 @@
    "summary": ""
   },
   {
-   "id": "g16",
+   "id": "g18",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "축산물",
@@ -5351,7 +5329,7 @@
    "summary": ""
   },
   {
-   "id": "g54",
+   "id": "g53",
    "d": "2026-10-18",
    "region": "해외",
    "cat": "가공·소재",
@@ -5359,6 +5337,17 @@
    "source": "The New York Times (영문)",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1RWcnM4OTluS2ZWX09xNHpRNmgwSFRrTF92NDJMQVlGYWhDaTdDTjdyZkExSTFyYXhPclBHQmJja0NTS2Y1Z2pINENUQjMtX3J6RWszcHdWOHI3dFF4N0p4RE5rSndiLWRNajNDMS1XY2ZhWHlPOU15UFVEQ2VFRXhUWVlnRjhab3dRTzFRbzQ?oc=5",
    "title": "A Global Sugar Crisis, Made and Felt in India",
+   "summary": ""
+  },
+  {
+   "id": "g54",
+   "d": "2026-10-18",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "rawsugar",
+   "source": "Cleveland.com (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTU9MSURJLWltUE5ldDBxWkhmLVR4eXVjUGdfclYzd0dCbm5mOHF5cUd3V2t2NDZ1MjJOdGdqeVRpZFZDOGZYVUYxdTJnYmVLMV8xQmNUX1NWLTRJRndnRkdWS1UxY19NTkhmLTRlX2lsNTlMZ19FVzk0NXVETERuN2NGcnVNTkFQMGYzakZ2dmV6TExsYXQ3VFdTTFNfbllyMTNzTXl6NUlrY3fSAb8BQVVfeXFMTm1lR205VUZzWUNUVWItalk2QVBiS0ZuX1QyOTVIcFRQYmJWRWs0LXVjM09relJkdzB3MEZPQlNSd3BUX2NYNUhsM0NYaF80QzdtdTdlcFB4VFV2U2RLdzNzRVVKSVBCTUJQR1F3UE5hX2hXeW8wZlJ4NDlPM0ZHWEVoSmJyX2ZKWTB1T1JJMVVWY2lFRXZYN1Bjazg2bjJMaUxoa2p3eG5Xb2pDdFFldlRWOHZvdlVrRG5CNE9QdGc?oc=5",
+   "title": "Halloween candy is already expensive. Now there’s another problem",
    "summary": ""
   },
   {
@@ -5384,7 +5373,7 @@
    "summary": ""
   },
   {
-   "id": "g44",
+   "id": "g43",
    "d": "2026-10-17",
    "region": "해외",
    "cat": "농산물",
@@ -5395,7 +5384,5 @@
    "summary": ""
   }
  ],
- "errors": [
-  "news: https://news.google.com/rss/search?q=%EB%B0%B0%EC%B6%94%20%EA%B0%80%EA%B2%A9%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko → 503"
- ]
+ "errors": []
 }
