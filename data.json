@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:21:17.623Z",
+ "updated": "2026-10-24T12:23:51.556Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -4746,17 +4746,6 @@
  },
  "news": [
   {
-   "id": "g14",
-   "d": "2026-10-23",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "여수넷통뉴스",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Pa3lvb19SY2lsWm1WUV81WVY3cEdSN1FGRW9HWGhaUFdFXzNMWmZ0UF9vQ0dMZlNVemFxU0pvMVRXMUtUZDBkVWpLTFZRZzdfWlFSRlJUZFMzZVVZdVNJTU1lRk9SYVVY?oc=5",
-   "title": "섬박람회 열리는 여수에서 수산물 소비 촉진 행사 줄이어",
-   "summary": ""
-  },
-  {
    "id": "g19",
    "d": "2026-10-23",
    "region": "국내",
@@ -4823,17 +4812,6 @@
    "summary": ""
   },
   {
-   "id": "g7",
-   "d": "2026-10-22",
-   "region": "국내",
-   "cat": "농산물",
-   "item": null,
-   "source": "헤드라인제주",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtT1NLUkw1aVNqcFN5VnE4bWZfQnNUQ3QxSzcyUTVfeGFPdzhoSW9fRnRYQWRYQ1gzckxhOUJGb054T0lXWmxMaThMcjBmdzlqRDZoSThaSlB3SHZfLVhaaXBYYlQ0Z3hkVHVNNzNsOE1rQTg?oc=5",
-   "title": "제주감귤, 당도 높고 품질 최상인데...시장 가격 '불안', 왜?",
-   "summary": ""
-  },
-  {
    "id": "g16",
    "d": "2026-10-22",
    "region": "국내",
@@ -4878,17 +4856,6 @@
    "summary": ""
   },
   {
-   "id": "g15",
-   "d": "2026-10-21",
-   "region": "국내",
-   "cat": "수산물",
-   "item": null,
-   "source": "인천투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPcllZaDdWZ3IxaDc5MGl0SmZOWVlSYllXX0dhbWkxQjd1NkZPQkxDYnVDM2pTVWxrd0syQW1lYjZ5SVRLWFZwdkxPeG84dWo3cEF4VExkZ1FNc2FjUEp0TzVWcktRTmUyM3J1WTJnZHc?oc=5",
-   "title": "인천시, 24일 연안부두 수산물 축제 개막··· 꽃게 '반값' 할인 판매",
-   "summary": ""
-  },
-  {
    "id": "g17",
    "d": "2026-10-21",
    "region": "국내",
@@ -4919,17 +4886,6 @@
    "source": "네이버 프리미엄콘텐츠",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWDFULUF4STZWeW5ZMU5KN0VTQ2FMWDBUSFNfSUgwblgxWkVTTFZYYzlESkxINXExNE11bjNTSHlDMWhlNnJwQU5DWjhjdVVTZlBmTkdndnR1akZVSmRJZG5vYkZ2T3I4WHJ5bVhyTXU5aEdBMXh4bnpqbVBReEFwRWdSM1NvQQ?oc=5",
    "title": "글로벌 K-라면 신화를 이끄는 식품 거인 - 농심",
-   "summary": ""
-  },
-  {
-   "id": "g37",
-   "d": "2026-10-21",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "palm",
-   "source": "아주경제",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42MVRfbzZMbGVZMDIzUEZlRDhvSlkwclhCU0c3RWh2d1RBZXkxTUhvYV9QVEE5blNJWTVtM0c3SFo0VjVmZkNraHpnaUd1RzVhMVpFWVJUeUrSAVhBVV95cUxONjFUX282TGxlWTAyM1BGZUQ4b0pZMHJYQlNHN0VodndUQWV5MU1Ib2FfUFRBOW5TSVk1bTNHN0haNFY1ZmZDa2h6Z2lHdUc1YTFaRVlSVHlK?oc=5",
-   "title": "인도네시아에 떨어진 중국 로켓?… 팜유 농장 9m 대형 잔해 추락에 발칵",
    "summary": ""
   },
   {
@@ -4966,17 +4922,6 @@
    "summary": ""
   },
   {
-   "id": "g3",
-   "d": "2026-10-20",
-   "region": "국내",
-   "cat": "농산물",
-   "item": "cabbage",
-   "source": "중부매일",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fYlBFYnUwOTZkTmlrUVdHMnJXdzNOTkY3QllJMTJHOHczTmpJTHBzdGVZM2FGQzcwRGpDOUZyVkxIa1pna3pKOFplU2FnQ0cwdVRJRmNjQ1U4NjB5X1FDWWVnQXQ0ekpWd1RrNDJB0gFuQVVfeXFMTl9iUEVidTA5NmROaWtRV0cycld3M05ORjdCWUkxMkc4dzNOaklMcHN0ZVkzYUZDNzBEakM5RnJWTEhrWmdreko4WmVTYWdDRzB1VElGY2NDVTg2MHlfUUNZZWdBdDR6SlZ3VGs0MkE?oc=5",
-   "title": "괴산시골절임배추 올해도 20㎏ 4만5천원 유지",
-   "summary": ""
-  },
-  {
    "id": "g9",
    "d": "2026-10-20",
    "region": "국내",
@@ -4985,17 +4930,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0lJdnE0VS14SDJ5RjExVFF1ZXVFUmJ0aWF5OVZsRzZ3RmdNOEx6Yk9iem5MMmxfcFo2aElVWXBGeTJLVGJocUlYTVZ1VXJZX3FlMlEwZHVnQ1NacXFZMUc0NHY5TElra0E5VzM4dEFXcWVTRVRjV2piTkZyQzJCTHJkY1VzcmdRWThaNTVYUFlkSWFjcjJNUTdZOA?oc=5",
    "title": "수입 고등어는 가격대가 다양하며, 일부 종류는 kg당 거의 35만 VND에 달합니다.",
-   "summary": ""
-  },
-  {
-   "id": "g23",
-   "d": "2026-10-20",
-   "region": "국내",
-   "cat": "정책·유통",
-   "item": null,
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuM2Zvdl9RSGw1Nzc5SUV5THhGVzkyaXZtQXR6UnZyWFVOZWJCWDVDV1JxckJndms1eVpfNUVtMEJkR1k1V1g1N3JlYVJmQmR6Nm8zcjdDUTJkSXRwTktlaWZuVUlLT2JlQU5v0gFwQVVfeXFMTTB5WG9pOWRmTU9rVmVIbkJlSlJoTHZWTVhseFdtSFFTcnVkcEFRbWduVktDbjBhaEF4X0xMYW0xU3ozOTZFcERiTlRhMlZqSDNEc1psTDItYkFWWDc2NS1vTW15VmRRM05SbDlqVGdjZg?oc=5",
-   "title": "생산자물가 두 달 연속 상승…배추 42.9%·쇠고기 10.4%↑ - 머니투데이",
    "summary": ""
   },
   {
@@ -5040,6 +4974,17 @@
    "source": "Sunsirs",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFanlHR1g1RkRvdDNhLTNKM0RPX0VKOGpYX3A4Wng3Z05pWXQ3YzhOa2s4Szc1eDA3Z1FKTGUyejZ1akxnQXU3TW40WUNYMk84MUg4YTZYZnhabmlKb3c?oc=5",
    "title": "썬시어스: 10월 상반기 중 중국의 팜유 시장은 약간의 성장을 보였습니다.",
+   "summary": ""
+  },
+  {
+   "id": "g37",
+   "d": "2026-10-20",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "palm",
+   "source": "뷰어스",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGT2tpUUY2MTYydFRKbkgzcW9OZThIUW8zWmtGVGRLaWh5eUNWRE1MbWZmSFpZdkFLWE9wR1RjQlJRQWdaS2pQTWxzdEs2aG9UWElhYUFPZkg?oc=5",
+   "title": "[애널픽] \"삼양식품, 원화 강세에도 실적 견조…내년 중국 모멘텀\"",
    "summary": ""
   },
   {
@@ -5109,6 +5054,17 @@
    "summary": ""
   },
   {
+   "id": "g7",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "농산물",
+   "item": null,
+   "source": "연합뉴스",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXaGNKWWxOU1A2c2xtT09MWHpIREN0dE1rbVRpVHBtVWpZOE9EandSWGxPUS1DUVpfc3dWY0pOclMxcnp1MW5uWUU4OEN5WXNvd01UQ2I4TDBMLXPSAWBBVV95cUxPYUZSV09Ba19yR0xzc0ZEeWFtUE9HT2xzTGR5V3JxWEZnZ1hLMWUwV0pqS3pna0R4UVA3dGJQczktTmdrSEFlQlRLLUh0OG5BOXVhX3VyM0VkRTFLUkZzMWw?oc=5",
+   "title": "농식품부, 파프리카·토마토 등 가격 하락 농산물 소비 촉진",
+   "summary": ""
+  },
+  {
    "id": "g11",
    "d": "2026-10-19",
    "region": "국내",
@@ -5128,6 +5084,28 @@
    "source": "www.mobiinside.co.kr",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTm5udWYtZ242QzhlYkxVZ1RIckVCQmZKWlRQeWVWQ2hSRTdzM2wtajBDX0dtXzllc2UyNGdnYXFpY191N1V4QkcwNmZPcmhnMm5QSU4wWURrT0paLVR5SGVVN2tCSEo2TFlidlJEMnJXR2NvMlhzM2x5ZXJBcWd2X0V4ZDZ6ZEdRUlp3WF93TWs?oc=5",
    "title": "[모두의 창업자를 위한 안내서] 노량진에서 찍은 사진들이 570억",
+   "summary": ""
+  },
+  {
+   "id": "g15",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "강원일보",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lenRBT2ZwUDNUaDBSOFlSX0w0SFFUb0M5LS1ZMUNId2hSb25WQkctRTZ3LUVzYkdLTmJmSV9oYXJtZzc1WDJRemtjUzZCdkhreEFFd1YyenJKRmc?oc=5",
+   "title": "외식품목 8개 중 7개 인상…강원지역 외식비 고공행진",
+   "summary": ""
+  },
+  {
+   "id": "g23",
+   "d": "2026-10-19",
+   "region": "국내",
+   "cat": "정책·유통",
+   "item": null,
+   "source": "푸드투데이",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84X290WURWSl91blRqWG1QSk9vaWZQS2pFQWlfYjJqM3FXZVdvdE51NDVNSE1pV1hyNVA0SnpzYWFSM0JDTmNabzQwVmlGYl85ZERhVi1DU0dmaFBOdDJ1U3RlZHVidw?oc=5",
+   "title": "농식품부, 파프리카·토마토·샤인머스캣 최대 20% 할인",
    "summary": ""
   },
   {
@@ -5183,6 +5161,17 @@
    "source": "IndexBox",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0g2ZVFESkJyc2UzU1pncndRTkNfdklGUUhMbWxuUTlIaVhxcHVpNmhGV1hwMXFrVTZJMzFyTDI5V3Q5THdZbjdlUlFtM3FxSzVmUmFuOXMwOXNER1JwWHpheEFoOHU1U0NTWHFqbjkzbWFSTjVUSEUyTkxQaHFvVHhVQl9vNWhYVVRrSlVQRjNOeTNPR3k2SldaVG1odHg0czUwU3RNbw?oc=5",
    "title": "브라질 대두유 수출, 2025년 연간 물량 추월…2026-27년 사상 최대 대두 작황 전망 - 뉴스 및 통계",
+   "summary": ""
+  },
+  {
+   "id": "g38",
+   "d": "2026-10-19",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "thairice",
+   "source": "Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1heFUyTzJaQUtWRGlFQ0xRT2JYcEVVTVROTUxUZkhwY1N4aG5WaDhzaG1sckZsZEpieENZVVJpVkhueHJ2aG1GSHhENDhEVDJzeWxXUXBNQnJENFkzaXRxLWIyY1ViQlpzaHFWcDdFVQ?oc=5",
+   "title": "쌀 수출에는 많은 어려움이 있습니다.",
    "summary": ""
   },
   {
@@ -5296,6 +5285,17 @@
    "summary": ""
   },
   {
+   "id": "g3",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "농산물",
+   "item": "cabbage",
+   "source": "Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYWVsUUlUaU1DM041a043XzNzYklQN2czbkVKQ0pLbmZQWFljQ0xQWmNSQ29vdEpBUHJOajQ5d1Y4Q0FMVGR0UVhYV1Zxb1hid2txVW9OWWhiUWxMeERiQ0JJaXQwLThucGg0LWcxRy1sNDBRXzNSTkd0SmxtdktLako4ejZ3d9IBmgFBVV95cUxPV1puaWhDc2diT2pCbTBHU2hVWTZNRFBOY3VZSWVsMG9YNzdWTjJOa2Z4YTFhUVNPSUcxVFdKMkc5cnk2ZkpTMjEtOXAwTFV5OG02M3dHZnY2elNKMmpuQnRZN2ozMW5qNXVoNzdGTnJaQkR3R09WRUFEcjFobkgzMzUtbW11RXYxcmNHci0yMDZWYzJ1bVBub3N3?oc=5",
+   "title": "김장철 앞두고 무·배추값 내렸는데…새우젓 32% 급등 - 조선비즈",
+   "summary": ""
+  },
+  {
    "id": "g10",
    "d": "2026-10-18",
    "region": "국내",
@@ -5315,6 +5315,17 @@
    "source": "수산인신문",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZeUYxMFdPTEttN3Nfa3ZvNngzMXEzcjFPTV9IZEhpam5mcmlBOEVCTzF4UEl3aUZMdDBFczdUcjRucTBoZ21LMUhHQlYyOG9YTDA4TGlpaHdLREZqOTU0Mno2RzFSSXZrWUE?oc=5",
    "title": "고수온·적조 양식수산물 피해 최소화 추진",
+   "summary": ""
+  },
+  {
+   "id": "g14",
+   "d": "2026-10-18",
+   "region": "국내",
+   "cat": "수산물",
+   "item": null,
+   "source": "더바이어",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EYlBXbWktcEdvdDBVeW1fTDJ4dEdRQjhsVVFjckRVbXJUanpOMlpwQ1ItVVhqNE9MejAxdEx1enBqdDNpSjBzRkt6MVJ2T1NJQ1NQVHNtVHk5a0ZlOUtsd09TVmlRRllMZ3VB?oc=5",
+   "title": "깐굴 일주일 새 47% 급등 …굴 가격 치솟는 이유는",
    "summary": ""
   },
   {
@@ -5370,17 +5381,6 @@
    "source": "연합뉴스",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmblJndllJNS1HVnp5T0NubUhvZ1JNVnQ2MXRGTG1ReG4tTXViZ1pQdHNPT2ZmSjJHRUQyUno2TzJFaDZBdThkWW1NT2ZIWmhLTWJtckNIanF5WGfSAWBBVV95cUxQcHVwOWlQR2dHejNSUjZDakROeFlxcUJGem10MTRiTTRiclhFVzU0bmJaYVk2VkhMSDA3TDNjbG1ldGhFMDNxWHU5V00zamgwdVNVZ3RKTnhRTHlQZ2piTVo?oc=5",
    "title": "배추·무 가격 내렸지만 새우젓은 30% 급등…김장 물가 변수로",
-   "summary": ""
-  },
-  {
-   "id": "g38",
-   "d": "2026-10-17",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "thairice",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORXNNOV9Cank0bm04c2lxYWZUUmNpLXRzaDM4dFBITmVqLXBYdXM1V0ozdVdCY0xPaDdrUFhHSkhsdVhFUnhzZFRxR05wLURySGVSblhJb1ZzbThRajNxZy1OOFgzTGtoRk1NLVN2Z0JCSTdtZkQ0SnFPWlFaMWpLaU1jenk4Zw?oc=5",
-   "title": "농산물 시장: 아시아 쌀 가격이 전반적으로 상승했습니다.",
    "summary": ""
   },
   {
