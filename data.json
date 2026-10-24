@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:23:22.857Z",
+ "updated": "2026-10-24T00:31:16.384Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -973,10 +973,6 @@
   },
   "rawsugar": {
    "raw": [
-    [
-     "2025-09-18",
-     0.3391
-    ],
     [
      "2025-09-19",
      0.3408
@@ -2089,10 +2085,6 @@
   },
   "wheat": {
    "raw": [
-    [
-     "2025-09-18",
-     187.4
-    ],
     [
      "2025-09-19",
      186.4
@@ -3277,10 +3269,6 @@
   },
   "soyoil": {
    "raw": [
-    [
-     "2025-09-18",
-     1114.9
-    ],
     [
      "2025-09-19",
      1103
@@ -4776,6 +4764,17 @@
    "summary": ""
   },
   {
+   "id": "g56",
+   "d": "2026-10-23",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "wheat",
+   "source": "AgUpdate (영문)",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUxVaWRSSGhnSUpUS3lPYVA5NndaMWsxWTB5dUxoR0M2MG5XVUwwT1hXSDI1V1k4STc3TDFIY0xaZjBWb3lGc01lV3ZaMi1UdUh0UkEzRUdTcFpfaTZORFZITFI1NXROR3V0RmVRQ043azFtYnNNcWZLdGlBN0pkeHRCVEhkeklmaFZoTVUtNndyX051VlNCbkVQanJGaUdhSGNz?oc=5",
+   "title": "Wheat prices erode during ‘tough sledding’ period",
+   "summary": ""
+  },
+  {
    "id": "g17",
    "d": "2026-10-22",
    "region": "국내",
@@ -5018,6 +5017,17 @@
    "summary": ""
   },
   {
+   "id": "g33",
+   "d": "2026-10-20",
+   "region": "해외",
+   "cat": "가공·소재",
+   "item": "corn",
+   "source": "남도일보",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMGxSUFI1Y1dPNXBDVGpKWWt6NG9PWU90WkktWFh0QTBETC1IRkVSSWtpNXloRDViZnc5NWgycmpzYXhOdy1NeHoydy1FRUVYR2k0SDBObHBzWnJiZ1NUWDFaS0w3WHhWcWxpZ9IBcEFVX3lxTE5rRy1YRUgtaUFNbUQwVUdfYXprVGlYR0dqenc1cW1iUEptWVhOOFY5TFVwQmQ5LWZqN3dtdHJ1dDBQYXMySGQwalJQeS1zcGdQSUdneFFUa28zZkVVMG1DYkd4QTZDaGJUNnR0eV92eGg?oc=5",
+   "title": "옥수수 90% 해외 의존…식량 공급망 ‘취약’",
+   "summary": ""
+  },
+  {
    "id": "g34",
    "d": "2026-10-20",
    "region": "해외",
@@ -5040,7 +5050,7 @@
    "summary": ""
   },
   {
-   "id": "g52",
+   "id": "g53",
    "d": "2026-10-20",
    "region": "해외",
    "cat": "가공·소재",
@@ -5249,7 +5259,7 @@
    "summary": ""
   },
   {
-   "id": "g53",
+   "id": "g52",
    "d": "2026-10-19",
    "region": "해외",
    "cat": "가공·소재",
@@ -5271,25 +5281,14 @@
    "summary": ""
   },
   {
-   "id": "g56",
-   "d": "2026-10-19",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "wheat",
-   "source": "AgWeb (영문)",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjVvNkpGeG03Q0Fpb2lsVTNWRDFaMlBOeXlfay1nSXdCOS1Hb1ZXTHVJVGp1cHZMakdnOXAwN1NHS1pZaVdtY1lXMmU2U0RHN0R0RW02T0tDX0R0am5mdlJDNmdOdHlmaWFiZkF5TDRYd19fM2ZCdVkzTHFVNjhSUXptZlFhMHAwb2pFRDhOU01LUnJBdXc?oc=5",
-   "title": "Grains Make New Lows as Funds Sell, Harvest Pressures Market",
-   "summary": ""
-  },
-  {
    "id": "g0",
    "d": "2026-10-18",
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "연합뉴스TV",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Nl85T0ZEZkVycDgxc3lScFFYekttY3NSWlp4SVF4dU96ckRLd29sR1NnTHQ0WUpRU05tdThpaEd6UmN5cm9JMkcxLWp1N3ZNalQ2YkJLZzdRSDF5alR5elUyZVJzLTQ?oc=5",
-   "title": "김장철 앞두고 배추·무 가격↓…새우젓 30% 급등",
+   "source": "강원도민일보",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VFNQSTVEUktnX1RYaGlxYjc1TDVEQjJhcjB2cEFlR1FDZDQ2bjFUSW5VRVJMcVY4RHNOMXlGbzViNE1UaW4zNzhucjlsdVhSTWNmemhqWEVjSHpVdXNsaEEtU1lERW8?oc=5",
+   "title": "김장철 배추·무 가격 내렸는데…‘이것’ 가격 급등",
    "summary": ""
   },
   {
@@ -5298,9 +5297,9 @@
    "region": "국내",
    "cat": "농산물",
    "item": "cabbage",
-   "source": "강원도민일보",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VFNQSTVEUktnX1RYaGlxYjc1TDVEQjJhcjB2cEFlR1FDZDQ2bjFUSW5VRVJMcVY4RHNOMXlGbzViNE1UaW4zNzhucjlsdVhSTWNmemhqWEVjSHpVdXNsaEEtU1lERW8?oc=5",
-   "title": "김장철 배추·무 가격 내렸는데…‘이것’ 가격 급등",
+   "source": "연합뉴스TV",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5Nl85T0ZEZkVycDgxc3lScFFYekttY3NSWlp4SVF4dU96ckRLd29sR1NnTHQ0WUpRU05tdThpaEd6UmN5cm9JMkcxLWp1N3ZNalQ2YkJLZzdRSDF5alR5elUyZVJzLTQ?oc=5",
+   "title": "김장철 앞두고 배추·무 가격↓…새우젓 30% 급등",
    "summary": ""
   },
   {
@@ -5389,17 +5388,6 @@
    "source": "브런치",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1CWmJfN0UxVW8tdFVVVV9QTnY3TDNDS185eTVJTmcxdzA5NlpzQmdHU040LXhUV0JSOHFZNEg0elNIY2oyTFZkQm1R?oc=5",
    "title": "농산물 유통개혁과 수출전략",
-   "summary": ""
-  },
-  {
-   "id": "g33",
-   "d": "2026-10-16",
-   "region": "해외",
-   "cat": "가공·소재",
-   "item": "corn",
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFNHLUtQRFpadDlxbVpFbmVla2diSDVxcC1FS2hjZGNTYnZVRTRyclhHbHl6d3pWS2F4NXN1dE1MQVYxbGFETXNQdUt3blI1MjJucHQ5UDNicm1ndk5jUGV1QjlTZjJCWGNSd1RYbGdRcXhXUHBIdU1fU2Q2RWpWYjNZWFdnUDhBR3VNNFV4TUFDdjVUT2FrTjV3SmN1U0hVRVlQMEdsRQ?oc=5",
-   "title": "옥수수: 수출 부진과 공급 과잉으로 국내 가격 하락 - 뉴스 및 통계",
    "summary": ""
   }
  ],
