@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:31:16.384Z",
+ "updated": "2026-10-24T03:23:11.075Z",
  "items": {
   "cabbage": {
    "raw": [
@@ -966,9 +966,13 @@
     [
      "2026-10-23",
      3760
+    ],
+    [
+     "2026-10-24",
+     4129
     ]
    ],
-   "base": 5281.833333333333,
+   "base": 5369.538461538462,
    "src": "서울 가락시장 경매가 (garakprice.com) · 자동 수집 · 평년 = 최근 5년 같은 시기(±7일) 평균 중 최고·최저 제외 평균"
   },
   "rawsugar": {
@@ -5391,5 +5395,7 @@
    "summary": ""
   }
  ],
- "errors": []
+ "errors": [
+  "news: https://news.google.com/rss/search?q=%EB%B0%B0%EC%B6%94%20%EA%B0%80%EA%B2%A9%20when%3A7d&hl=ko&gl=KR&ceid=KR:ko → 503"
+ ]
 }
